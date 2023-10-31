@@ -59,12 +59,8 @@
             "id": "5d138fe5433912a5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Scribbles 30-10-2023.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -154,7 +150,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Scribbles 30-10-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +166,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Scribbles 30-10-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,9 +187,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Daily Scribbles 30-10-2023.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -217,8 +209,8 @@
   },
   "active": "5d138fe5433912a5",
   "lastOpenFiles": [
-    "Daily Scribbles - October 23/Daily Scribbles 29-10-2023.md",
     "Daily Scribbles 30-10-2023.md",
+    "Daily Scribbles - October 23/Daily Scribbles 29-10-2023.md",
     "Logic/Logic Lecture 3 - Common Tautologies and Indirect Proofs.md",
     "Pasted image 20231029154110.png",
     "Pasted image 20231029154039.png",
