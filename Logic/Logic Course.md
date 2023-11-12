@@ -1,7 +1,7 @@
 #logic
 Overall course notes for logic.
 
-A Natural Source of logic: [[Daily Scribbles 29-10-2023#^cc0dc7]]
+A Natural Source of logic: [[2 Daily Scribbles 29-10-2023#^cc0dc7]]
 
 ## History of Logic
 

@@ -1,0 +1,6 @@
+Explanatory theories of the causes of inequality include sociological arguments about inequality of opportunities, inequality of wealth due to a priori inequality of wealth. [^1]these theories are easy to accept, are built on strong theoretical frameworks, and posses sufficient empirical evidence to back them. Further, they hold prescriptive importance in terms of the types of policies that are built out of them. 
+However, the specificities in which these sociological theories tend to exist, lacks a sense of generalizability, that is possible out of the approach of axiomatically building arguments. 
+The thought experiment proposed, argues that the base cause of inequality arises out of the randomness in the information field, in the treatment of humans as economic actors that show optimizing behavior in such information fields. The causes of inequality that arise over and above the base inequality, would be explained by the class of theories mentioned before. 
+Drawing from the intuition used in the arithmetic of statistics in its linear form, is that the decomposition of inequality would include its base causes, and exacerbating causes that have been articulated by empirical studies in the literature. 
+
+[^1]: https://sci-hub.se/https://doi.org/10.1146/annurev.soc.33.040406.131755

@@ -21,7 +21,7 @@
 3. Factor logics?
 4. The infinite branching tree that we can create in logics
 5. Tautological Implication: Tautology with an implies in it
-6. Tautologically equivalent: I can see equivalences at the heart of mathematics. This is similar to equivalence classes in categorical equivalences. [[Daily Scribbles 29-10-2023#^e347f7]] 
+6. Tautologically equivalent: I can see equivalences at the heart of mathematics. This is similar to equivalence classes in categorical equivalences. [[2 Daily Scribbles 29-10-2023#^e347f7]] 
 7. 
 
 #### Sentential Theory of Inference
@@ -65,7 +65,7 @@ These are just a few examples of the many rules and principles of logic. Logic p
 	3. If we can derive S from R and a set of premises, then we can derive R->S from the premises above. This is sort of like vector addition.
 1. Deduce a conclusion, through going through the premises logically. Emphasize on _deduce_. '
 2. Any sentence can be dissolved into atomic sentences, and sentential connectives, and deducing conclusions can be made using **valid rules of logic**.
-3. Logically following, at each stage of a proof can be tracked using a graph (tree). It's funny that a proof of graph theory can be proved by a theory of logic that inherently is a graph. Strange Loop indeed. [[Daily Scribbles 29-10-2023#^e892b8]]
+3. Logically following, at each stage of a proof can be tracked using a graph (tree). It's funny that a proof of graph theory can be proved by a theory of logic that inherently is a graph. Strange Loop indeed. [[2 Daily Scribbles 29-10-2023#^e892b8]]
 4. Every premise depends on itself for its validity
 
 #### Non Truth Functional Connective

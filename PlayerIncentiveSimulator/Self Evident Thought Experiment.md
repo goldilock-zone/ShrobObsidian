@@ -1,0 +1,4 @@
+The structure of this project might use simulations, but in its endeavor to propose a theoretical framework for inequality, the appeal of the theory would be derived from its seed effect for further intuition. The treatment of intuition as an original, independent source of knowledge would be form the philosophical backdrop of this thrust. 
+Most of the intuitions that would be built out of this theory, would attempt to persuade self evidence, wherein the self evidence comes from observational exposure to economic systems. Any criticism on grounds of the existence of alternative epistemologies of economics, would self evidently be outside the scope of critiques of the explanatory power of theories built out of the framework of proposed intuition.
+
+https://www.jstor.org/stable/2676103

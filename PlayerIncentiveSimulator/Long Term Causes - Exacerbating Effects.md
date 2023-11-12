@@ -1,0 +1,3 @@
+Apart from the accepted causes, mentioned before, we must note the influence of societal structures such as the patriarchy, capital accumulation because of the paradigm of money, racism and others. While the framework proposed before would be useful to show how these structures exacerbate structural inequality, the feedback effects of these causes on the distribution of resources cannot be ignored. 
+Ideally, study of these distributions, and the feedback effects would lead to a deeper understanding of humans as actors in information fields. 
+Observations, matching with the self evident intuition of economic theory, show that the incentive structures (distributions) in the field of the simulations were significantly affected by the actions of the players. 

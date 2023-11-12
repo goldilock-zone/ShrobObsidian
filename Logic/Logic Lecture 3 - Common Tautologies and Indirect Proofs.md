@@ -69,7 +69,7 @@ Note: Iff denotes a logical equivalence
 
 These are some of the most commonly used tautologies in classical propositional logic. They are used as the basis for constructing logical arguments, proving theorems, and simplifying logical expressions. Tautologies are also a central concept in predicate logic and other branches of formal logic.
 
-Note the Strange Loops all over math's. Algebra of logic is used to prove algebra. [[Daily Scribbles 29-10-2023#^e892b8]]
+Note the Strange Loops all over math's. Algebra of logic is used to prove algebra. [[2 Daily Scribbles 29-10-2023#^e892b8]]
 #### Conditional proofs
 Conditional Proof (CP) is a proof technique used in formal logic to establish a conditional statement (an "if-then" statement) by assuming the antecedent (the "if" part) and then deriving the consequent (the "then" part) under that assumption. Conditional Proof is a useful method for demonstrating the validity of an implication. Here's how to use Conditional Proof:
 
