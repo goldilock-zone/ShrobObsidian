@@ -1,52 +1,35 @@
 {
   "main": {
-    "id": "b93d795844d56dec",
+    "id": "69ff573598a1c3e8",
     "type": "split",
     "children": [
       {
-        "id": "4ece0df5cdc5f205",
+        "id": "440e17c11a5f8d42",
         "type": "tabs",
         "children": [
           {
-            "id": "0ffa05ccee4a48cd",
+            "id": "68530bd338acd42b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PlayerIncentiveSimulator/Base Causes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f1bfee463d86479",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PlayerIncentiveSimulator/Base Causes.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "07fe1372401462c7",
+    "id": "59bc2ac2355faa99",
     "type": "split",
     "children": [
       {
-        "id": "dff538e6ecb0f7f1",
+        "id": "60b6a976374dcea1",
         "type": "tabs",
         "children": [
           {
-            "id": "afc5c93670fce5de",
+            "id": "22034e85e6170674",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +39,7 @@
             }
           },
           {
-            "id": "417e757bdd906c67",
+            "id": "dcd436ced95e6ac5",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +54,7 @@
             }
           },
           {
-            "id": "144285b200211e73",
+            "id": "57f7ed2b21677990",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -82,23 +65,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5
+    "width": 300
   },
   "right": {
-    "id": "f0e5c7492cd43821",
+    "id": "b0cce6cc3b6811ef",
     "type": "split",
     "children": [
       {
-        "id": "de4378565362dc1d",
+        "id": "9dc30f52d66b7e86",
         "type": "tabs",
         "children": [
           {
-            "id": "27d95272781729ed",
+            "id": "8efc4722f2fb88c7",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PlayerIncentiveSimulator/Base Causes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,19 +92,18 @@
             }
           },
           {
-            "id": "f600f68856ea7b7c",
+            "id": "4d97456a74864f83",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PlayerIncentiveSimulator/Base Causes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "fdfac6885d78e803",
+            "id": "de3b376f8d10f732",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,12 +114,12 @@
             }
           },
           {
-            "id": "a76a0de92d33fe48",
+            "id": "017b52c4160ad3f2",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "PlayerIncentiveSimulator/Base Causes.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -146,7 +127,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -159,47 +140,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6f1bfee463d86479",
+  "active": "22034e85e6170674",
   "lastOpenFiles": [
-    "SarbObsidian",
-    "Daily Scribble - Nov 23/7 Daily Scribbles 9-11-2023.md",
-    "Daily Scribble - Nov 23/6 Daily Scribbles 6-11-2023.md",
-    "Daily Scribble - Nov 23/5 Daily Scribbles 5-11-2023.md",
-    "Daily Scribble - Nov 23/4 Daily Scribbles 31-10-2023.md",
-    "Daily Scribble - Nov 23/3 Daily Scribbles 30-10-2023.md",
-    "Daily Scribble - Nov 23/2 Daily Scribbles 29-10-2023.md",
-    "Daily Scribble - Nov 23/1 Daily Scribbles 28-10-2023.md",
-    "Daily Scribble - Nov 23",
-    "New folder",
-    "Writing Science Fiction and Fantasy Root/Lecture 2 - Plot.md",
-    "Writing Science Fiction and Fantasy Root/Writing Science Fiction and Fantasy Root.md",
-    "Writing Science Fiction and Fantasy Root/Lecture 1.md",
-    "Writing Science Fiction and Fantasy Root",
-    "Untitled",
-    "Serres/Branches - Michel Serres.md",
-    "Serres",
-    "Philosophy/Propositional Logic.md",
-    "Philosophy/Categorical Logic.md",
-    "Philosophy",
-    "Overview of Pythonic Programming/Standouts.md",
-    "Overview of Pythonic Programming",
-    "ShrobObsidian/ShrobObsidian/Writing Science Fiction and Fantasy Root/Writing Science Fiction and Fantasy Root.md",
-    "ShrobObsidian/ShrobObsidian/Writing Science Fiction and Fantasy Root/Lecture 2 - Plot.md",
-    "ShrobObsidian/ShrobObsidian/Writing Science Fiction and Fantasy Root/Lecture 1.md",
-    "ShrobObsidian/ShrobObsidian/Writing Science Fiction and Fantasy Root",
-    "ShrobObsidian/ShrobObsidian/Untitled",
-    "ShrobObsidian/ShrobObsidian/Serres/Branches - Michel Serres.md",
-    "ShrobObsidian/ShrobObsidian/Serres",
-    "ShrobObsidian/ShrobObsidian/Philosophy/Propositional Logic.md",
-    "ShrobObsidian/ShrobObsidian/Philosophy/Categorical Logic.md",
-    "ShrobObsidian/ShrobObsidian/Overview of Pythonic Programming/Standouts.md",
-    "ShrobObsidian/ShrobObsidian/Logic/Playful Prose on Logic.md",
-    "ShrobObsidian/ShrobObsidian/Logic/Logic Lecture 9.md",
-    "ShrobObsidian/ShrobObsidian/Logic/Logic Lecture 8.md",
-    "ShrobObsidian/ShrobObsidian/Logic/Logic Lecture 7.md",
-    "ShrobObsidian/ShrobObsidian/Pasted image 20231029154110.png",
-    "PlayerIncentiveSimulator/ConceptNote.canvas",
-    "Pasted image 20231029154110.png",
-    "Pasted image 20231029154039.png"
+    "Pasted image 20231029154039.png",
+    "Daily Scribbles - October 23/Daily Scribbles 29-10-2023.md",
+    "Daily Scribbles - October 23/Daily Scribbles 28-10-2023.md",
+    "conflict-files-obsidian-git.md"
   ]
 }
