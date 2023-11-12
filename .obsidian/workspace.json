@@ -14,8 +14,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "c577ec41ad3a4d73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Scribble - Nov 23/8 Daily Scribble 12-11-2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily Scribble - Nov 23/8 Daily Scribble 12-11-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily Scribble - Nov 23/8 Daily Scribble 12-11-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Daily Scribble - Nov 23/8 Daily Scribble 12-11-2023.md"
               }
             }
           }
@@ -142,9 +157,10 @@
   },
   "active": "22034e85e6170674",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Daily Scribble - Nov 23/8 Daily Scribble 12-11-2023.md",
     "Pasted image 20231029154039.png",
     "Daily Scribbles - October 23/Daily Scribbles 29-10-2023.md",
-    "Daily Scribbles - October 23/Daily Scribbles 28-10-2023.md",
-    "conflict-files-obsidian-git.md"
+    "Daily Scribbles - October 23/Daily Scribbles 28-10-2023.md"
   ]
 }
