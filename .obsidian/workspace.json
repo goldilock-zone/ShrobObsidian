@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "b0cce6cc3b6811ef",
@@ -155,10 +155,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "22034e85e6170674",
+  "active": "c577ec41ad3a4d73",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "PlayerIncentiveSimulator/Philosophy of Category Theory and the necessity of abstraction.md",
     "Daily Scribble - Nov 23/8 Daily Scribble 12-11-2023.md",
+    "conflict-files-obsidian-git.md",
     "Pasted image 20231029154039.png",
     "Daily Scribbles - October 23/Daily Scribbles 29-10-2023.md",
     "Daily Scribbles - October 23/Daily Scribbles 28-10-2023.md"
