@@ -1,0 +1,3 @@
+- We know about the inclusivist and exclusivist ledger theory in social sciences
+- I also know about the two personality theory that was mentioned in lost terminal (the science fiction podcast) where one of us listen's to our thoughts, and the other actually thinks those thoughts. 
+- What if society had two of these, one outside the system, and on inside it. The "one" can be anything, identity, moral theory, etc. 

@@ -12,7 +12,7 @@ Epizootic - temporarily prevalent but widespread animal disease
 
 - Monads in a gigantic monastery; Leibniz's scheme of things
 - Authentic philosophy - a personal philosophy that is a composition of several philosophies, even conflicting ones
-- Thales Homothety - The homothety is a special transformation closely connected with Thales' the‑ orem and the “similarity of triangles”, i.e “**triangles which have equal corresponding angles**” ℎ “triangles which have proportional corresponding sides”.
+- Thales Homothety - The homothety is a special transformation closely connected with Thales' theorem and the “similarity of triangles”, i.e “**triangles which have equal corresponding angles**” ℎ “triangles which have proportional corresponding sides”.
 - Very simple invariants - in terms of proportion - preservation of spatial scale
 - Proportions is very meta physical. i notice the disciplinary interplay between maths and philosophy. The both are constantly trying to play catch up with each other.
 - Decomposing the world into component units. How do you decompose death?
@@ -175,7 +175,7 @@ In conclusion, arguing as Michel Serres would involve emphasizing the interconne
 - I haunt the knowledge like a house that is mine
 - In speculative fiction, a thaumaturgic mutation could be the result of a magical event, an enchantment, or exposure to a mystical substance or energy.
 - Externalization of the idea is almost like childbirth
--  Body becomes externalized as a new object through this kind of exo-Darwinism: the subjective produces something of the objective and of the collective
+-  Body becomes externalized as a new object through this kind of exo-Darwinism: the subjective produces something of the objective and of the collective. [[Philosophical Collective Animal]]
 
 - Escient - me knowing that
 - This cognitive change of death into life – announcement, birth, deliverance from death … – is called Annunciation, Nativity, Resurrection 
@@ -215,4 +215,51 @@ In conclusion, arguing as Michel Serres would involve emphasizing the interconne
 
 - Greek culture taught one belongingness, political and cosmic at the same time; Israel’s tradition passed on a second one, holy; Rome’s did so for a third one, juridical
 - This advent participates, upstream, in the evolutionary time of hominization; downstream, its newness has always remained virgin for two thousand years, still and especially for our time, in which behaviour and discourse always overflow with the archaic libido of belongingness, so powerful, so blind that at the risk of racism, everyone refers to it by the name of identity
-- 
+
+# Popper's Theory on the exactness of science
+
+Popper's criterion for the exactness of science is deeply rooted in his philosophy of science, particularly his views on falsifiability. According to Karl Popper, a prominent philosopher of science, the exactness or scientific validity of a theory is determined by its falsifiability, not by its verifiability. This means that for a theory to be considered scientific, it must be possible to conceive of an observation or an experiment that could prove it false. ^997198
+
+Popper argued that the true power and exactness of scientific theories lie in their ability to be rigorously tested and potentially disproven, rather than their capacity to be confirmed or verified. This perspective marked a significant shift from the traditional positivist view, which held that the exactness of science was based on the accumulation of positive empirical evidence in support of theories.
+
+In summary, Popper's criterion for the exactness of science is that a theory must be falsifiable – it must make predictions that can be tested and potentially shown to be false. This approach emphasizes the tentative and provisional nature of scientific knowledge, highlighting the importance of continuous testing and revision of theories in the pursuit of understanding the natural world.
+
+- It's interesting that falsifiability is taken as fundamental to the proof of a scientific method. It is pointing to the aura [[Aura and Noosphere]] of the deep negative, when we deal with ideas in science.  ^28668a
+
+## Christmas and Palm Sunday
+- Branches of everything
+- Everything can be branched
+- Natural Contract: We are born anew everyday
+
+## Knowledge
+- Knowledge isn't immobile and malleable
+- Knowledge follows the path of the crest – dangerous, thrilling and often broken – of concordance. What a quasi-religious jubilation, linking together science, humans and the world. [[Oh Knowledge, Daughter of Joy]]
+
+## Wandering or Exodus
+- Chance mentors in the journey of knowledge
+- Our science has no abode: nor stable assurance, nor definitive certitude, nor closed axiomatic system, nor sure prediction, without hearth or home.
+- Alterity as a form of knowledge. The notion of familiar non selection, and the theory of novelty. [[Alterity]]
+
+## Metaphysics and Metanomics
+- Greek Librarians inventing "Meta"
+- Metaphysics means that everything cannot be exact.
+- In this context, what does being exact even mean? [[Exactness]]
+- Reason, is a means of "forcible boarding or inspection". This is not a critique of reason, but rather a format to view how formats shape the world around us
+
+## Learning Inventing
+- Three dimensions of knowledge: Cognitive, Collective, Stony
+- Learning is almost like giving birth, the gestation period of the knowledge is like me internalizing something that I have learnt
+- Externalization, or giving birth of knowledge is almost like exo darwinism
+- This gestation happens through meditative labour
+
+## Communion of Saints
+- Solvay Conference, and the intellectual episode it was, and how the communion of saint properly used the collective aura of knowledge. I'm using the word aura a lot, I'm not exactly sure why?
+- Saints pass around a stone. Can we actually have a knowledge that is truly a stone, meaning can it be passed around?
+- Between Faith and Science: a similar contingent faith in a transcendent reality exists.
+- Both like welcoming the mysticism of saints gone astray
+- Bifurcations or "Paradigm shifts"
+- The collective animal is called different things, the Leviathan, the Great Beast, etc. 
+- The only great humans are the saints, absent from the list of great humans
+
+## The end of war during the era of the son
+
