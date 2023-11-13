@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b0cce6cc3b6811ef",
@@ -146,7 +147,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d35c3c1426e8b308",
+  "active": "22034e85e6170674",
   "lastOpenFiles": [
     "Recursive Theory of Social Science/Root Idea.md",
     "Serres/Branches - Michel Serres.md",
