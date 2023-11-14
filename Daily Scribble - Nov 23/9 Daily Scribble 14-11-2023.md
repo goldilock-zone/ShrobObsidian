@@ -61,6 +61,13 @@
 - Sonic Pi: Music with code?
 - The Random coincident that was the rockstar programming language
 
+## Solving Equation with floor
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Yj2FQq1gyo?si=kutYaOMunxBsHmiz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+- Look at the ranges first
+- Find the valid interval and check the inequality condition
+- Consider the general case, after checking cases, that's normally good practise
+- 
 
 
