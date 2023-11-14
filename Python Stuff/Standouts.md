@@ -26,4 +26,3 @@
 25. Remember that you can multiply a list several times
 26. Strings in python are immutable
 27. Global variable is directly visible only within the module in which it’s defined
-28. 

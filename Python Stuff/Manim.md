@@ -1,0 +1,13 @@
+- Graphs
+- Scenes
+- .play()
+- scene
+- mobjects
+- getters: like get bottom, get corner etc
+- updaters: lambda
+- using latex and math tex, by entering the text in it
+- Vector Groups
+- always_redraw
+- Read the library carefully
+- Become proficient with the library
+- 
