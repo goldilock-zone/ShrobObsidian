@@ -262,4 +262,12 @@ In summary, Popper's criterion for the exactness of science is that a theory mus
 - The only great humans are the saints, absent from the list of great humans
 
 ## The end of war during the era of the son
+- The glory is just an empty trumpet: the glory of war I mean
+- Hominescence defined war as a contract signed between two fathers for the children of the one to be willing to kill the children of the other: to murder sons.
+- Wars are almost quasi cyclical 
+- Misdeeds of Vengeance
+- Environmental law is concerned about future generations. Strange and innovative, this respect for sons is the counterpart of the end of war, by sending the limitations on the violence of subjects to objects, of collectives to the world
 
+# The Adoptive Son
+- Administration is a format that was invented by Hellenic monotheism
+- St. Paul: Coreligionist persecuted him, Philosophers mocked him, and 
