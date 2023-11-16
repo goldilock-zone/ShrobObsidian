@@ -1,0 +1,72 @@
+<iframe width="942" height="539" src="https://www.youtube.com/embed/yckPYJgjXeY" title="Writing a math research paper: start to finish!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+- Just think about the problem
+- You will get to stuff that are absolutely useless
+- Write a basic skeleton, and try to fill in the gaps
+- You can do algebra's on different spaces, and shapes
+- Most individual days are failures
+- Send it to a journal, and then an initial judgement is made. 
+- Then they send it to a an anonymous referee
+- Around 2 years, which is very very low, normally
+
+<iframe width="942" height="539" src="https://www.youtube.com/embed/bBDyYePEGHM" title="Tips for independently studying mathematics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+- Lack of maturity: not being able to read a mathematics book
+- Book choice is very important
+- Algebra, Analysis
+- Just stick with it, it's the cost of being independent,
+- Look at the table of contents: See if you have a background in the contents
+- Wanting to be just familiar with the topics, is okay
+- Be patient with yourself
+
+# Tips on Writing Mathematical Papers, John Tsitsiklis
+https://youtu.be/NDlBy2O3Eu4
+- Efficient Use of your time. It's not useful to get several revisions
+- All scales of idea matters (details/ideas). It's almost like fractals
+- Document Structure matters
+- Good English also matters
+- Do not overestimate the readers ability. They must enjoy reading it.
+- Be insecure. Just be loud about your results.
+- Learn from "good example".
+- Cut out random junk
+- Make the reader feel happy, even if they don't understand
+- Spend time thinking about what we are trying to do.
+- Who is the audience of the readership? Have an image of a concrete person
+- Collect precise statements of key results
+- Typesetting and thinking don't go together
+- Make a table with notation
+- Stay constant with notation
+- Avoid overcomplicated notation: Stuff like double subscript
+- Make a conscious decision in the beginning about terminology
+- Document Structure: 
+	- Abstract
+	- Introduction
+	- The Model
+	- Preliminaries
+	- Results
+	- Conclusions
+	- Appendices
+- Ensure that sections are modulars. Also use lots of headings. 
+- Define the objectives of a subsection
+- Editorializing should not be in an abstract. Do not use boilerplate
+- Most people read the introduction. Make sure that this is great.
+- Try to make bullet points for each section. 
+- Don'ts keep a theme running between paragraphs
+- Give a preview of the main results in the Introduction.
+- What's new? What're the key contributions
+- Be Deliberate. Do not go with the flow.
+- Sections consist of modules of different types
+- Must be lookup-able.
+- Give the idea of a proof, before actually writing the proof. Give the high level picture
+- Talk about counterexamples, and give boundary conditions
+- Examples of special cases
+- Do not shy away from figures
+- Make figures a self contained story
+- Usually we discover proofs by thinking backwards. 
+- Do not be circular. Proofs must be written in a linear way. 
+- Do not be convoluted. Stay linear.
+- No rabbit's out of the hat. Don't make sudden jumps of intuition. You don't need to impress your audience. 
+- Sometimes we might want to send stuff to appendices
+- You must be able to read the main text without flipping to the appendices
+- Alert the reader when skipping steps
+- Don't make the reader feel bad.
+- 

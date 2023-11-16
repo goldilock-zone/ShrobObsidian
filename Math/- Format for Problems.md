@@ -1,0 +1,2 @@
+Chat GPT Prompt: 
+HEre's a sample of the correct format: Intead of: \( \frac{dy}{dt} = \sin(y) \). do: $$ \frac{dy}{dt} = \sin(y) $$ Follow this convention throughout. Make sure math notation stuff is in a new line

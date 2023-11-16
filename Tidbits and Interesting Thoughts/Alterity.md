@@ -10,3 +10,5 @@ The concept of alterity is closely related to, but distinct from, concepts like 
 
 Note: 
 I am wondering as to how the pyschology of alterity works within the social sciences, in large versions of human populations
+
+

@@ -4,5 +4,10 @@
   "obsidian-pandoc",
   "highlightr-plugin",
   "obsidian-zotero-desktop-connector",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-latex-suite",
+  "obsidian-importer",
+  "obsidian-textgenerator-plugin",
+  "text-extractor",
+  "obsidian-latex"
 ]

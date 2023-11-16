@@ -21,26 +21,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Scribble - Nov 23/9 Daily Scribble 14-11-2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5cbf56957d75ccc6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math Sandbox/A Swift Introduction to Projective Geometric Algebra.md",
+                "file": "Math/Differential Equations/Lecture 4 - Separation of Variables.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math Sandbox/A Swift Introduction to Projective Geometric Algebra.md",
+                "file": "Math/Differential Equations/Lecture 4 - Separation of Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math Sandbox/A Swift Introduction to Projective Geometric Algebra.md",
+                "file": "Math/Differential Equations/Lecture 4 - Separation of Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math Sandbox/A Swift Introduction to Projective Geometric Algebra.md"
+                "file": "Math/Differential Equations/Lecture 4 - Separation of Variables.md"
               }
             }
           }
@@ -164,44 +152,60 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "5cbf56957d75ccc6",
+  "active": "488f700ee71a586e",
   "lastOpenFiles": [
-    "Philosophy/Is Art Meaningless.md",
-    "Math Sandbox/A Swift Introduction to Projective Geometric Algebra.md",
-    "Math Sandbox",
-    "PlayerIncentiveSimulator/Settings of Players.md",
+    "Math/Differential Equations/Lecture 3 - Problems.md",
+    "Math/Differential Equations/Lecture 4 - Separation of Variables.md",
+    "Math/Differential Equations/Lecture 3 - Euler's Method.md",
+    "Math/Visual Group Theory/Sandbox - Visual Group Theory.md",
+    "Math/Visual Group Theory",
+    "Pasted image 20231116121750.png",
+    "Math/Differential Equations/Lecture 2 Problems.md",
+    "Math/Differential Equations/Lecture 2 - Plotting Differential Equations.md",
+    "Math/Differential Equations/Lecture 1 - Problems.md",
+    "Math/Differential Equations/Lecture 1 - Intro.md",
+    "Math/- Format for Problems.md",
     "Daily Scribble - Nov 23/9 Daily Scribble 14-11-2023.md",
-    "Python Stuff/Standouts.md",
-    "The Art of Code.md",
-    "Daily Scribble - Nov 23/8 Daily Scribble 12-11-2023.md",
-    "Python Stuff/Manim.md",
-    "Untitled.canvas",
-    "Pasted image 20231029154110.png",
-    "Tidbits and Interesting Thoughts/Sapir Whorf Hypothesis.md",
-    "Serres/Branches - Michel Serres.md",
-    "Recursive Theory of Social Science/Root Idea.md",
-    "Recursive Theory of Social Science",
-    "Tidbits and Interesting Thoughts/Oh Knowledge, Daughter of Joy.md",
-    "Tidbits and Interesting Thoughts/Philosophical Collective Animal.md",
-    "Tidbits and Interesting Thoughts/Foucault's Biopolitics.md",
-    "Tidbits and Interesting Thoughts/Durkhiem on Collective Consciousness.md",
-    "Tidbits and Interesting Thoughts/Aura and Noosphere.md",
-    "Tidbits and Interesting Thoughts/Exactness.md",
+    "Concepts in Thermal Physics (Stephen J. Blundell, Katherine M. Blundell) (z-lib.org).md",
+    "Concepts in Thermal Physics (Stephen J. Blundell, Katherine M. Blundell) (z-lib.org).pdf",
+    "Philosophy/Generated Philosophy Handbook.md",
     "Tidbits and Interesting Thoughts/Alterity.md",
-    "Tidbits and Interesting Thoughts/Deep Negative.md",
-    "Tidbits and Interesting Thoughts",
-    "Guiseppe Longo/Giuseppe Longo - Alphabets, Axioms, DNA.md",
-    "Logic/Logic Lecture 3 - Common Tautologies and Indirect Proofs.md",
-    "Logic/Logic Lecture 4 - Terms, Predicates and Quantifiers.md",
-    "Daily Scribbles - October 23/2 Daily Scribbles 29-10-2023.md",
-    "Logic/Logic Lecture 2- Tautologies and Theories of Inference.md",
-    "Topology",
-    "Guiseppe Longo",
-    "PlayerIncentiveSimulator/Philosophy of Category Theory and the necessity of abstraction.md",
-    "conflict-files-obsidian-git.md",
-    "Tidbits and Interesting Thoughts/Pasted image 20231029154039.png"
+    "textgenerator/prompts/default/getTags.md",
+    "textgenerator/prompts/default/getTitles.md",
+    "textgenerator/prompts/default/getIdeas.md",
+    "textgenerator/prompts/default/rewrite.md",
+    "textgenerator/prompts/default/getOutline.md",
+    "textgenerator/prompts/default/summarize.md",
+    "textgenerator/prompts/default/getParagraph.md",
+    "textgenerator/prompts/default/getEmailNeg.md",
+    "textgenerator/prompts/default/getEmailPos.md",
+    "textgenerator/prompts/default/simplify.md",
+    "textgenerator/prompts/default",
+    "textgenerator/prompts",
+    "textgenerator",
+    "Pasted image 20231116083152.png",
+    "Pasted image 20231116080825.png",
+    "Pasted image 20231116080741.png",
+    "Pasted image 20231116080730.png",
+    "Pasted image 20231116080151.png",
+    "Pasted image 20231116075608.png",
+    "Pasted image 20231116075349.png",
+    "Pasted image 20231116074427.png",
+    "HTML import/graph2.md",
+    "HTML import",
+    "Math/Differential Equations/Sandbox - Differential Equations.md",
+    "Math/Abstract Algebra/Sandbox - Abstract Algebra.md",
+    "Math/Graph Theory and Additive Combinatorics",
+    "Math/Functional Analysis",
+    "Math/Complex Analysis",
+    "Math/Measure Theory",
+    "Untitled.canvas",
+    "Pasted image 20231029154110.png"
   ]
 }
