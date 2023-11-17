@@ -4,43 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f0c4d675a737f636",
+        "id": "847234b38a90b84a",
         "type": "tabs",
         "children": [
           {
-            "id": "c88a8081af61ad47",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "488f700ee71a586e",
+            "id": "16e90f444683992c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Differential Equations/Lecture 4 - Separation of Variables.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f0eddef1eabff673",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/Introduction to Number Theory/Sandbox - Number Theory.md",
+                "file": "Math/Introduction to Number Theory/Lecture 2 - Survey of the Course.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Introduction to Number Theory/Sandbox - Number Theory.md",
+                "file": "Math/Introduction to Number Theory/Lecture 2 - Survey of the Course.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Introduction to Number Theory/Sandbox - Number Theory.md",
+                "file": "Math/Introduction to Number Theory/Lecture 2 - Survey of the Course.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Introduction to Number Theory/Sandbox - Number Theory.md"
+                "file": "Math/Introduction to Number Theory/Lecture 2 - Survey of the Course.md"
               }
             }
           }
@@ -170,12 +149,29 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "22034e85e6170674",
+  "active": "16e90f444683992c",
   "lastOpenFiles": [
+    "Math/Math Sandbox/Attempts at solving Goldbach's Conjecture.md",
+    "Math/Math Sandbox/Collatz Conjecture.md",
+    "Math/Introduction to Number Theory/Lecture 2 - Survey of the Course.md",
+    "Philosophy/A Theory of Self Perpetuating Sillyness.md",
+    "Math/Math Sandbox/Euler Products.md",
+    "Math/Math Sandbox/APs of Primes.md",
+    "Math/Math Sandbox/p-adic numbers.md",
+    "Math/Math Sandbox/L-Functions.md",
+    "Math/Math Sandbox/Waring's Problem.md",
+    "Math/Math Sandbox/A Swift Introduction to Projective Geometric Algebra.md",
+    "Math/Math Sandbox/Global and Local Fields.md",
+    "Math/Math Sandbox/Ramsey Theory.md",
+    "Math/Math Sandbox/The Magic of Zero Knowledge Proofs.md",
+    "Math/- Format for Problems.md",
+    "Math/Introduction to Number Theory/Lecture 1 - Problems.md",
+    "Math/Introduction to Number Theory/Lecture 1 - Introduction to Number Theory.md",
+    "Math/Introduction to Number Theory/Lecture 1 - Introduction to Number Theory.html",
+    "Math/Differential Equations/Lecture 4 - Separation of Variables.md",
+    "Math/Introduction to Number Theory/Sandbox - Number Theory.md",
     "Math/Introduction to Number Theory/Textbook.md",
     "Introduction to the Theory of Numbers.pdf",
-    "Math/Introduction to Number Theory/Lecture 1.md",
-    "Math/Introduction to Number Theory/Sandbox - Number Theory.md",
     "Math/Differential Equations/Lecture 3 - Problems.md",
     "Math/Differential Equations/Lecture 2 Problems.md",
     "Math/Differential Equations/Lecture 2 - Plotting Differential Equations.md",
@@ -183,25 +179,10 @@
     "Math/Differential Equations/Lecture 1 - Intro.md",
     "Math/Differential Equations/Lecture 7 - Solving First Order Inhomogeneous Differential Equations.md",
     "Math/Differential Equations/Lecture 6 - Newton's Second Law of Motion.md",
-    "Math/Differential Equations/Lecture 5 - Initial Value Problems.md",
-    "Math/Differential Equations/Sandbox - Differential Equations.md",
-    "Math/Differential Equations/Lecture 4 - Separation of Variables.md",
-    "Math/Partial Differential Equations/Sandbox - Partial Differential Equations.md",
     "Math/Partial Differential Equations",
-    "Math/Differential Equations/Lecture 3 - Euler's Method.md",
-    "Math/Visual Group Theory/Sandbox - Visual Group Theory.md",
     "Math/Visual Group Theory",
     "Pasted image 20231116121750.png",
-    "Math/- Format for Problems.md",
-    "Daily Scribble - Nov 23/9 Daily Scribble 14-11-2023.md",
-    "Concepts in Thermal Physics (Stephen J. Blundell, Katherine M. Blundell) (z-lib.org).md",
     "Concepts in Thermal Physics (Stephen J. Blundell, Katherine M. Blundell) (z-lib.org).pdf",
-    "Philosophy/Generated Philosophy Handbook.md",
-    "Tidbits and Interesting Thoughts/Alterity.md",
-    "textgenerator/prompts/default/getTags.md",
-    "textgenerator/prompts/default/getTitles.md",
-    "textgenerator/prompts/default/getIdeas.md",
-    "textgenerator/prompts/default/rewrite.md",
     "textgenerator/prompts/default",
     "textgenerator/prompts",
     "textgenerator",
@@ -215,7 +196,6 @@
     "Pasted image 20231116074427.png",
     "HTML import",
     "Math/Graph Theory and Additive Combinatorics",
-    "Math/Functional Analysis",
     "Untitled.canvas",
     "Pasted image 20231029154110.png"
   ]
