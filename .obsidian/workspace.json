@@ -26,9 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f0eddef1eabff673",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Introduction to Number Theory/Sandbox - Number Theory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Differential Equations/Lecture 4 - Separation of Variables.md",
+                "file": "Math/Introduction to Number Theory/Sandbox - Number Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Differential Equations/Lecture 4 - Separation of Variables.md",
+                "file": "Math/Introduction to Number Theory/Sandbox - Number Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Differential Equations/Lecture 4 - Separation of Variables.md"
+                "file": "Math/Introduction to Number Theory/Sandbox - Number Theory.md"
               }
             }
           }
@@ -158,18 +170,28 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "488f700ee71a586e",
+  "active": "22034e85e6170674",
   "lastOpenFiles": [
+    "Math/Introduction to Number Theory/Textbook.md",
+    "Introduction to the Theory of Numbers.pdf",
+    "Math/Introduction to Number Theory/Lecture 1.md",
+    "Math/Introduction to Number Theory/Sandbox - Number Theory.md",
     "Math/Differential Equations/Lecture 3 - Problems.md",
-    "Math/Differential Equations/Lecture 4 - Separation of Variables.md",
-    "Math/Differential Equations/Lecture 3 - Euler's Method.md",
-    "Math/Visual Group Theory/Sandbox - Visual Group Theory.md",
-    "Math/Visual Group Theory",
-    "Pasted image 20231116121750.png",
     "Math/Differential Equations/Lecture 2 Problems.md",
     "Math/Differential Equations/Lecture 2 - Plotting Differential Equations.md",
     "Math/Differential Equations/Lecture 1 - Problems.md",
     "Math/Differential Equations/Lecture 1 - Intro.md",
+    "Math/Differential Equations/Lecture 7 - Solving First Order Inhomogeneous Differential Equations.md",
+    "Math/Differential Equations/Lecture 6 - Newton's Second Law of Motion.md",
+    "Math/Differential Equations/Lecture 5 - Initial Value Problems.md",
+    "Math/Differential Equations/Sandbox - Differential Equations.md",
+    "Math/Differential Equations/Lecture 4 - Separation of Variables.md",
+    "Math/Partial Differential Equations/Sandbox - Partial Differential Equations.md",
+    "Math/Partial Differential Equations",
+    "Math/Differential Equations/Lecture 3 - Euler's Method.md",
+    "Math/Visual Group Theory/Sandbox - Visual Group Theory.md",
+    "Math/Visual Group Theory",
+    "Pasted image 20231116121750.png",
     "Math/- Format for Problems.md",
     "Daily Scribble - Nov 23/9 Daily Scribble 14-11-2023.md",
     "Concepts in Thermal Physics (Stephen J. Blundell, Katherine M. Blundell) (z-lib.org).md",
@@ -180,12 +202,6 @@
     "textgenerator/prompts/default/getTitles.md",
     "textgenerator/prompts/default/getIdeas.md",
     "textgenerator/prompts/default/rewrite.md",
-    "textgenerator/prompts/default/getOutline.md",
-    "textgenerator/prompts/default/summarize.md",
-    "textgenerator/prompts/default/getParagraph.md",
-    "textgenerator/prompts/default/getEmailNeg.md",
-    "textgenerator/prompts/default/getEmailPos.md",
-    "textgenerator/prompts/default/simplify.md",
     "textgenerator/prompts/default",
     "textgenerator/prompts",
     "textgenerator",
@@ -197,14 +213,9 @@
     "Pasted image 20231116075608.png",
     "Pasted image 20231116075349.png",
     "Pasted image 20231116074427.png",
-    "HTML import/graph2.md",
     "HTML import",
-    "Math/Differential Equations/Sandbox - Differential Equations.md",
-    "Math/Abstract Algebra/Sandbox - Abstract Algebra.md",
     "Math/Graph Theory and Additive Combinatorics",
     "Math/Functional Analysis",
-    "Math/Complex Analysis",
-    "Math/Measure Theory",
     "Untitled.canvas",
     "Pasted image 20231029154110.png"
   ]

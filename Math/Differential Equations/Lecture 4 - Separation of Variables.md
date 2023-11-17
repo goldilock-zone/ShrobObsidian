@@ -51,3 +51,7 @@ y = e^{\frac{1}{2} x^2 + C} = e^C \cdot e^{\frac{1}{2} x^2}
 $$
 
 In this example, the separation of variables method provides a straightforward approach to solving a first-order ODE.
+
+- We can get a general and a particular solution
+- Exponential growth and exponential decay
+- Decay to a limiting value
