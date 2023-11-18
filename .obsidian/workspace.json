@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "847234b38a90b84a",
+        "id": "65089119fefd8256",
         "type": "tabs",
         "children": [
           {
-            "id": "16e90f444683992c",
+            "id": "b3aad3c15b4e72c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Introduction to Number Theory/Lecture 2 - Survey of the Course.md",
+                "file": "Math/Math Sandbox/Functors and Morphisms.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Introduction to Number Theory/Lecture 2 - Survey of the Course.md",
+                "file": "Math/Math Sandbox/Functors and Morphisms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Introduction to Number Theory/Lecture 2 - Survey of the Course.md",
+                "file": "Math/Math Sandbox/Functors and Morphisms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Introduction to Number Theory/Lecture 2 - Survey of the Course.md"
+                "file": "Math/Math Sandbox/Functors and Morphisms.md"
               }
             }
           }
@@ -149,43 +149,46 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "16e90f444683992c",
+  "active": "b3aad3c15b4e72c7",
   "lastOpenFiles": [
+    "Sandbox Research/Meta Ontology.md",
+    "Math/Math Sandbox/Functors and Morphisms.md",
+    "Philosophy/Logical Positivism.md",
+    "Sandbox Research/Meta Cognition.md",
+    "Code/Functional Programming/Von Neumann Architecture and the Declarative Paradigm.md",
+    "Sandbox Research/Untitled 1.md",
+    "Code/Functional Programming/Introduction.md",
+    "Pasted image 20231118103248.png",
+    "Math/Math Sandbox/Lucas' Theorem and Kummer's Theorem.md",
+    "Sandbox Research/Programming Paradigms.md",
+    "Untitled",
+    "Math/Introduction to Number Theory/Lecture 3 - Divisibility and Euclid's Algorithms.md",
+    "Code/Functional Programming",
+    "Code",
+    "Math/Math Sandbox/Ideals of an Integer.md",
+    "Math/Introduction to Number Theory/Sandbox - Number Theory.md",
+    "Math/Introduction to Number Theory/Lecture 2 - Survey of the Course.md",
+    "Sandbox Research/The Ternary Labyrinth - A Surrealist Odyssey.md",
+    "Math/Math Sandbox/Multivalued Logic.md",
+    "Sandbox Research",
+    "Math/Logic/Logic Lecture 2- Tautologies and Theories of Inference.md",
+    "Math/Logic/Logic Lecture 3 - Common Tautologies and Indirect Proofs.md",
+    "Math/Logic/Logic Lecture 4 - Terms, Predicates and Quantifiers.md",
+    "Tidbits and Interesting Thoughts/Durkhiem on Collective Consciousness.md",
     "Math/Math Sandbox/Attempts at solving Goldbach's Conjecture.md",
     "Math/Math Sandbox/Collatz Conjecture.md",
-    "Math/Introduction to Number Theory/Lecture 2 - Survey of the Course.md",
     "Philosophy/A Theory of Self Perpetuating Sillyness.md",
     "Math/Math Sandbox/Euler Products.md",
     "Math/Math Sandbox/APs of Primes.md",
     "Math/Math Sandbox/p-adic numbers.md",
     "Math/Math Sandbox/L-Functions.md",
-    "Math/Math Sandbox/Waring's Problem.md",
-    "Math/Math Sandbox/A Swift Introduction to Projective Geometric Algebra.md",
-    "Math/Math Sandbox/Global and Local Fields.md",
-    "Math/Math Sandbox/Ramsey Theory.md",
-    "Math/Math Sandbox/The Magic of Zero Knowledge Proofs.md",
-    "Math/- Format for Problems.md",
-    "Math/Introduction to Number Theory/Lecture 1 - Problems.md",
-    "Math/Introduction to Number Theory/Lecture 1 - Introduction to Number Theory.md",
     "Math/Introduction to Number Theory/Lecture 1 - Introduction to Number Theory.html",
-    "Math/Differential Equations/Lecture 4 - Separation of Variables.md",
-    "Math/Introduction to Number Theory/Sandbox - Number Theory.md",
-    "Math/Introduction to Number Theory/Textbook.md",
     "Introduction to the Theory of Numbers.pdf",
-    "Math/Differential Equations/Lecture 3 - Problems.md",
-    "Math/Differential Equations/Lecture 2 Problems.md",
-    "Math/Differential Equations/Lecture 2 - Plotting Differential Equations.md",
-    "Math/Differential Equations/Lecture 1 - Problems.md",
-    "Math/Differential Equations/Lecture 1 - Intro.md",
-    "Math/Differential Equations/Lecture 7 - Solving First Order Inhomogeneous Differential Equations.md",
-    "Math/Differential Equations/Lecture 6 - Newton's Second Law of Motion.md",
     "Math/Partial Differential Equations",
     "Math/Visual Group Theory",
     "Pasted image 20231116121750.png",
     "Concepts in Thermal Physics (Stephen J. Blundell, Katherine M. Blundell) (z-lib.org).pdf",
     "textgenerator/prompts/default",
-    "textgenerator/prompts",
-    "textgenerator",
     "Pasted image 20231116083152.png",
     "Pasted image 20231116080825.png",
     "Pasted image 20231116080741.png",
@@ -194,9 +197,6 @@
     "Pasted image 20231116075608.png",
     "Pasted image 20231116075349.png",
     "Pasted image 20231116074427.png",
-    "HTML import",
-    "Math/Graph Theory and Additive Combinatorics",
-    "Untitled.canvas",
-    "Pasted image 20231029154110.png"
+    "Untitled.canvas"
   ]
 }

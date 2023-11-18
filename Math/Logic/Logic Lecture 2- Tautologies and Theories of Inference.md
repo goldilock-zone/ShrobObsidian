@@ -33,7 +33,7 @@
 
 	1. Law of Non-Contradiction: This law states that contradictory statements cannot both be true in the same sense and at the same time. In other words, a statement and its negation cannot both be true simultaneously.
 	
-	2. Law of Excluded Middle: This law asserts that for any statement, it must either be true or false; there is no middle ground or third option. (Except in ternary logic system) Ternary logic: #toread
+	2. Law of Excluded Middle: This law asserts that for any statement, it must either be true or false; there is no middle ground or third option. (Except in ternary logic system) Ternary logic: [[Multivalued Logic]]
 	
 	3. Modus Ponens: If you have a conditional statement "If A, then B," and you know that "A" is true, you can logically conclude that "B" is also true.
 	
