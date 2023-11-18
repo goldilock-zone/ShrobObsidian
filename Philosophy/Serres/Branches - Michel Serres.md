@@ -18,7 +18,8 @@ Epizootic - temporarily prevalent but widespread animal disease
 - Decomposing the world into component units. How do you decompose death?
 - Gnomon is a projecting piece of a sundial
 
-- Formatting everything
+### Format: 
+- Formatting everything ^485e45
 - Is logic also just format?
 - Universal and transcultural formatting. This would also bend aesthetics. Aesthetics is intrinsic to understanding thought-behavior
 - Formatting a calendar based on weather This has been tried before. 
