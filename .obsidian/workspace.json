@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Introduction to Number Theory/Lecture 4 - Euclid's Algorithm.md",
+                "file": "Math/Introduction to Number Theory/Lecture 5 - Primes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "955e417ed5e57e97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Math Sandbox/Finite Fields.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Binet",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Introduction to Number Theory/Lecture 4 - Euclid's Algorithm.md",
+                "file": "Math/Introduction to Number Theory/Lecture 5 - Primes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Introduction to Number Theory/Lecture 4 - Euclid's Algorithm.md",
+                "file": "Math/Introduction to Number Theory/Lecture 5 - Primes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Introduction to Number Theory/Lecture 4 - Euclid's Algorithm.md"
+                "file": "Math/Introduction to Number Theory/Lecture 5 - Primes.md"
               }
             }
           }
@@ -163,34 +175,36 @@
   },
   "active": "3102db5b88b2defe",
   "lastOpenFiles": [
-    "Daily Scribble - Nov 23/Intel's Pentium Long Division Bug.md",
     "Math/Introduction to Number Theory/Lecture 4 - Euclid's Algorithm.md",
-    "Math/Math Sandbox/Euclidean Algorithm for Polynomials.md",
-    "Philosophy/Philosophy of General and Particular Solutions.md",
-    "Math/Introduction to Number Theory/Sandbox - Number Theory.md",
-    "Math/Introduction to Number Theory/Lecture 3 - Divisibility and Euclid's Algorithms.md",
-    "Philosophy/Philosophy of Ansatz.md",
-    "Philosophy/Serres/Branches - Michel Serres.md",
-    "Math/Math Sandbox/Ansatz.md",
-    "Math/Math Sandbox/Finite Difference Equations.md",
+    "PlayerIncentiveSimulator/ConceptNote.canvas",
+    "Philosophy/The Rich Have Their Own Ethics.md",
+    "Daily Scribble - Nov 23/10 Daily Scribble 19-11-2023.md",
+    "Math/Math Sandbox/Langlands program.md",
+    "Math/Math Sandbox/Galois groups.md",
+    "Automorphic Functions.md",
+    "Math/Math Sandbox/Partition functions.md",
+    "Math/Math Sandbox/Finite Fields.md",
+    "Taniyama-Shimura-Weil Conjecture.md",
+    "Math/Math Sandbox/Elliptic curve.md",
+    "Math/Math Sandbox/Singularity.md",
+    "Math/Math Sandbox/Weierstrass equation.md",
+    "Math/Math Sandbox/Loop groups.md",
+    "Math/Math Sandbox/Lie groups.md",
+    "Smoothness (Lie Group Context).md",
     "Math/Math Sandbox/Proof For Binet's Formula.md",
-    "Sandbox Research/Brain regions responsible for oxymoronic functions.md",
-    "Sandbox Research/The Neurological Basis of Violence Within Empathetic Minds.md",
-    "Code/Functional Programming/Structure of Functional Programming.md",
-    "Code/Functional Programming/OCaml Syntax Guide.md",
-    "Sandbox Research/Tree form of Programming Language Expressions.md",
-    "Sandbox Research/Backus Naur Form.md",
-    "Sandbox Research/Turing Completeness.md",
-    "Sandbox Research/Meta Cognition.md",
-    "Sandbox Research/Meta Ontology.md",
-    "Code/Functional Programming/Functional Programming - Link to Expressions.md",
-    "Code/Functional Programming/- Introduction.md",
-    "Code/Functional Programming/Von Neumann Architecture and the Declarative Paradigm.md",
-    "Math/Math Sandbox/Functors and Morphisms.md",
-    "Philosophy/Logical Positivism.md",
-    "Sandbox Research/Untitled 1.md",
-    "Pasted image 20231118103248.png",
+    "Math/Math Sandbox/Multivalued Logic.md",
+    "Philosophy/Philosophical Interpretation of Lukasiewicz Logic.md",
+    "Math/Math Sandbox/Automorphisms.md",
+    "Math/Math Sandbox/Example of an Automorphic form.md",
+    "Math/Math Sandbox/Eisenstein series.md",
+    "Math/Modular Forms/Sandbox - Modular Forms.md",
+    "Math/Modular Forms",
     "Untitled",
+    "Tools Sandbox/LaTEX intro.md",
+    "Tools Sandbox",
+    "Math/Math Sandbox/Modular group.md",
+    "Sandbox Research/Tessellates.md",
+    "Pasted image 20231118103248.png",
     "Code/Functional Programming",
     "Code",
     "Sandbox Research",
@@ -199,8 +213,6 @@
     "Math/Partial Differential Equations",
     "Math/Visual Group Theory",
     "Pasted image 20231116121750.png",
-    "Concepts in Thermal Physics (Stephen J. Blundell, Katherine M. Blundell) (z-lib.org).pdf",
-    "textgenerator/prompts/default",
     "Pasted image 20231116083152.png",
     "Pasted image 20231116080825.png",
     "Pasted image 20231116080741.png",

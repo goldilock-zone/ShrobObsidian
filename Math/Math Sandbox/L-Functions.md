@@ -32,7 +32,7 @@ L-functions are complex functions that play a central role in number theory, par
 
 - **Prime Number Theorem and Zero Distribution:** The study of the zeros of L-functions, particularly the Riemann zeta function, is fundamental in understanding the distribution of prime numbers (as seen in the Prime Number Theorem).
 
-- **Langlands Program:** The Langlands program, which includes conjectures relating Galois groups to automorphic forms, heavily relies on the properties of L-functions.
+- **Langlands Program:** The [[Langlands program]] which includes conjectures relating Galois groups to automorphic forms, heavily relies on the properties of L-functions.
 
 ### Conclusion
 

@@ -104,7 +104,7 @@ Proposed by Jan Łukasiewicz, this system also uses T, F, and a third value whic
 - **Negation (¬):** Similar to Kleene, but Possible negates to itself.
 - **Conjunction (AND, ∧):** If either operand is False, the result is False; otherwise, the result is the "lesser" value.
 - **Disjunction (OR, ∨):** If either operand is True, the result is True; otherwise, the result is the "greater" value.
-
+[[Philosophical Interpretation of Lukasiewicz Logic]]
 ### 3. Priest's Logic of Paradox
 Graham Priest introduced a logic where the third value represents a paradoxical state (both true and false). This is useful in dealing with paradoxes like the liar paradox.
 
