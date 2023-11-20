@@ -41,9 +41,25 @@
 - Godel identified himself with Uber Rationalist: Leibniz
 - His Theorems lead to the formation of Recursion Theory and Model Theory.
 - He destroyed Hilbert's central program
+- Yet the metamathematical import of the theorems, which to Godel was their most important aspect, was disregarded.
+- Godel was able to twist the intelligence mortifying material of paradox into a proof that leads us to deep insights into the nature of truth, and knowledge, and certainty.
+- Heisenberg and Bohr themselves took subjectivist turns
+
+# A Platonist among positivists
+- A Weaver father, and nerdy mother
+- We are born into a sort of ontological wonder (thaulamazein) that passes into oblivion as we get used to the lay of the land
+- Anxious kid apparently
+- He was frustrated with the severe limitation of their parents' understanding
+- Godel's interest in physics had begun at the age of 15, when he read [[Goethe's theory of colors]]
+- I think it is fair to say, however, that like so many of us Godel fell in love (with Platonism) while an undergraduate. He underwent love's ecstatic transfiguration, its radical reordering of priorities, giving life a new focus and meaning. One is not quite the same person as before.
+- Godel used a sort of shorthand script, [[Gabelsberger]]
+- Godel apparently answered a Questionnaire by Burke. He sent two sets of replies, one good and one bad
+- The importance of mathematical inclination
+- 
 - 
 
 Words: 
 [[Eschatological]]
 [[grist]]
+[[marginalia]]
 
