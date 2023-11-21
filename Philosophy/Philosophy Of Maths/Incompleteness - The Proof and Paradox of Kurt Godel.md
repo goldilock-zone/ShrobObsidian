@@ -55,9 +55,48 @@
 - Godel used a sort of shorthand script, [[Gabelsberger]]
 - Godel apparently answered a Questionnaire by Burke. He sent two sets of replies, one good and one bad
 - The importance of mathematical inclination
+- The ancient Greek philosopher's disdain for the [[Sophists]], particularly for such men as Protagoras, gave the negative connotation to the word for these itinerant teachers. Philosophy comes from the common root word
+- Plato argued for absolute objectivism
+- (Fickle, imperfect creatures who cannot even be counted on to love us in return and whose beauty not only cannot compete with the transcendent sort but also is subject to the corrosive actions of time)
+- I like how Rebecca Goldstein sometimes imposes herself into her story
+- Plato: become drunk on the beauty of truth—the sort of necessary and immutable truth acquired through pure reason
+- Godel thought that number theory would allow him the best path to conceptual realism
+- Einstein: Gedanken-experiments, thought-experiments, imagining himself hitching a ride on a light beam
+- The moments of intuitions or thought-experiments or God knows-what that brought him to the proof itself
+- [[The Origin of the idea of Incompleteness]]
+- Vienna was Godel's intellectual center
+- This physical concentration of academic life was indicative of the intellectual life in general
+- The overall topic was the moral and intellectual death and decay of all that had come before, and the need to construct entirely new methodologies, forms, and foundations. It was this sustained theme in so many diverse fields that provoked the emergence of what we have come to call modernity, and even postmodernity: in literature, music, architecture, art, philosophy, psychology, and even, to some extent, science
+- The political and social scene of Vienna was weird. The political crisis after the First World War almost caused the intellectual Revival
+- Freud was in Vienna, but so was [[Zionism]], and Nazism
+- What is the role of the intellectually active donor?
+- "The psychoanalyst picks our dreams as if they were our pockets."
+- An Intellectual Rut: Discredited ideas, solecisms, half-truths, and elaborately phrased nonpropositions carry the fatal taint of moral failure; there is a moral imperative to break with the past and think clearly.
+- Vienna was a knowledge commons
+- Weltanschauung, "a world-view, but one whose essence it was to avoid viewing the world."
+- Kreise, or circles, more or less formal discussion groups in Vienna. The intellectual geometry of Vienna was densely inscribed with circles
+- Why was Godel a Platonist, even though he was in a talk circle full of logical positivists
+- He needed proof of viewpoints. [[Epistemics of Speculative Theory]]
+- Logical positivism was first and foremost a movement that spoke in the name of the precision and progress associated with the sciences. A very german science. It was a form of Radical Empiricism
+- On the one hand, the sort of questions that could be answered through a priori reasoning; these, according to Hume, had no ontologial import. These somehow do not tell us anything about the nature of the world, merely isomorphisms
+- "the verificationist criterion for meaningfulness,"
+- Positivists shunned pseudo propositions
+- Positivism was seen as cognitive hygiene
+- Neurath, in particular, tried to push the Circle in political directions, often making it seem, perhaps unintentionally, that there was more political homogeneity within the Circle than there in fact was.
+- [[Hahn-Banach extension theorem]] in functional analysis.
+- Hans Hahn was interested in parapsychological phenomena
+- Feigl writes, provided "our philosophical movement with its international trade name."
+- Why did I like logical positivism. I know I like it deep down, but elsewhere, in my exterior mind, I like to shun over reliance of rigor in theory
+- Mathematical propositions, if not quite tautologies, are analogous to them.
+- well-formed formulas, standardly abbreviated "wff," and pronounced "woof"
+- For those who believe that mathematics is syntactic, the phrase "is true" takes on a special meaning when it is applied to a mathematical proposition: A mathematical proposition is true relative to the stipulated rules, the syntax, of a formal system. Analogously, for a moral relativist, like Protagoras, "is true," when applied to an ethical statement, is shorthand for "is true relative to x" where x is a person or, more likely, a conglomerate of ethically agreeing persons.
+- [[Moral Truths Are Du Jour Social Constructs]]
+- Godel's and Wittgenstein's views on the foundations of mathematics were, as we will see, at loggerheads, and neither could acknowledge the work of the other without renouncing what was most central in his own view.
+- Ravel wrote: [[Concerto for the Left Hand]] for Wittgenstein's Brother
+- Revisting [[Russel's Paradox]]
+- Gottlob Frege
+- Russell and Whitehead called their rules the "Theory of Types,", to prevent set theoretic paradoxes.
 - 
-- 
-
 Words: 
 [[Eschatological]]
 [[grist]]

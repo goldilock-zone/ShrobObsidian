@@ -5,7 +5,7 @@
 - Laplacian - means that everything in the program is completely determined
 - Randomness is not outside determination
 - Randomness and Necessity: Randomness is noise and outside determinations, that isn't true
-- Hilbert's Program: Axiomatic treatment of mathematics
+- [[Hilbert's Program]]: Axiomatic treatment of mathematics
 - Is DNA code an alphabetic program? A linguistic program of Biology
 - Is DNA a logically complete system?
 - Diversity is due to noise - that's more politics than science
