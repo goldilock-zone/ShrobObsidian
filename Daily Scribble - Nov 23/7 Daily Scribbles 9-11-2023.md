@@ -3,6 +3,4 @@
 - Python
 -  Matplotlib for math animations
 	- Building blocks of the scene
-	- Select which elements would be better done in which software
-	-  
-- 
+	- Select which elements would be better done in which software  

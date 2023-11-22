@@ -1,2 +1,8 @@
 Went to a concert by Bhoomi. They're a good band, and they understand the heart of what their audience want. They exemplify a beauty in simplicity that I enjoy. Contrary to what others might think about me, I actually like engaging in collective effervescence especially of the cultural kind, albeit as a passive observer, preferring the role of an immobile observer, who smiles and laughs, and dances in his head, never engaging directly, but engaging nonetheless. I wonder what kinds of activities I can dream up, in this regard.
 Further, I have started to dream in sketches. I imagine very abstract classical sketches of human, and non-human forms when I imagine things now. I am enthralled by the richness it has given me in my everyway experience. I wish to learn how to make these translatable. The hermeneutics of translation, is also a very vivid image that has been forming in my head. What does a fractional recursion look like? Well, if a translation is an activity in transit between two linguistic planes, exploring what the hermeneuticist might find in that ontology of flux might be an interesting speculative direction of enquiry. 
+
+Here's a few speculative selections of research topics:
+- Recursive Windows of Knowledge, and the the meeting points of these being the points of paradox
+- The bridgehead theory of intuition
+- A theory of knowledge, that is a plural theory of knowledge that is without politics
+- 

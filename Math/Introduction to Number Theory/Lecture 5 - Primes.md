@@ -28,8 +28,6 @@ However, it's important to recognize that this extension is more abstract and is
 
 # Checking for Primes
 
-Certainly! Let's reformulate the prime-checking algorithms using rigorous mathematical notation and the requested format.
-
 ### Algorithm 1: Trial Division
 
 1. **Input and Initial Check**:
@@ -286,7 +284,7 @@ For the arithmetic progression $1, 11, 21, 31, \ldots$ (where $a = 1$ and $d = 1
 
 ### Proof:
 
-#### Step 1: Introduction of Dirichlet Characters
+#### Step 1: Introduction of [[Dirichlet Characters]]
 - Define Dirichlet characters $\chi$ modulo $d$. These are completely multiplicative functions from the integers to the complex numbers, periodic with period $d$, and trivial on integers coprime to $d$.
 - For our case, consider characters modulo $10$.
 

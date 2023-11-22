@@ -92,11 +92,64 @@
 - For those who believe that mathematics is syntactic, the phrase "is true" takes on a special meaning when it is applied to a mathematical proposition: A mathematical proposition is true relative to the stipulated rules, the syntax, of a formal system. Analogously, for a moral relativist, like Protagoras, "is true," when applied to an ethical statement, is shorthand for "is true relative to x" where x is a person or, more likely, a conglomerate of ethically agreeing persons.
 - [[Moral Truths Are Du Jour Social Constructs]]
 - Godel's and Wittgenstein's views on the foundations of mathematics were, as we will see, at loggerheads, and neither could acknowledge the work of the other without renouncing what was most central in his own view.
-- Ravel wrote: [[ShrobObsidian/Sandbox Research/Concerto for the Left Hand]] for Wittgenstein's Brother
+- Ravel wrote: [[Sandbox Research/Concerto for the Left Hand|Concerto for the Left Hand]]for Wittgenstein's Brother
 - Revisting [[Russel's Paradox]]
 - Gottlob Frege
 - Russell and Whitehead called their rules the "Theory of Types,", to prevent set theoretic paradoxes.
-- 
+- [[Cantor's Proof about the cardinality of sets]]
+- Russell apparently was shaken by the fact that Wittegenstein may have been rihgt: That he was wrong
+- [[Is there an isomorphism between the cult of personality of Wittgenstein and that of Alexander Grothendieck]]
+- Wittgenstein's personality was quintessentially Viennese
+- In geometry and logic alike a place is a possibility: something can exist in it
+- The numbering system was borrowed from Peano
+- Weekly Reading's apparently is inherently Jewish, drawing from the weekly readings of the Torah
+- The Vienna Circle attempted to impose positivism to [[Wittegenstin's Tractatus]]
+- Logical Constants don't really matter in qualifying a statement as a Tautology
+- Mathematics is merely grammatical, according to Wittegenstein
+- The question whether intuition is needed for the solution of mathematical problems must be given by the answer that in this case language (syntax) itself provides the necessary intuition. [[Discussion on Syntax and Intuition ]]
+- Wittgenstein had a major bifurcation in his thinking: [[Early and Later Wittgenstein]] 
+- The pluralistic theory of rule-following of the later Wittgenstein was meant to subvert monologicism: that there is but one logic and its name is Principia Mathematica
+- [[Wittgenstein forbade talking about a language within the language. Why.]]
+- Apparently Wittgenstein Believed that paradox was inevitable
+- Every book has two parts, written and non written. This can be connected to the [[Deep Negative]]
+- The "unsayable" is, for Wittgenstein, as the "unknowable" was for the traditional empiricists, a measure of our limits
+- The Vienna Circle worshipped Wittgenstein
+- Godel was a [[silent dissenter]] in the Vienna Circle
+- Godel: Some reductionism is correct, but one should reduce to (other) concepts and truths, not to sense perceptions. . . . Platonic ideas are what things are to be reduced to
+- [[Bourbaki, Vienna Circle and Oulipo]]
+- Godel: I never held the view that mathematics is syntax of language. Rather this view, understood in any reasonable sense, can be disproved by my results.
+- What is a [[chimerical belief]]?
+- Wittgenstein was "Acting out the high drama of genius"
+- Godel didn't breathe of his dissent until he could back it
+- Influence of the Vienna Circle on Godel: Vienna Circle may have irked him, amused him (more doubtful), even helped to inspire him in the direction of his proof
+- Godel was not understood, and so were many other geniuses of his time in different contexts. That's some seed for thought when it comes to the Philosophy of Language
+- Georg Kreisl: "Wittgenstein's views on mathematical logic are not worth much, because he knew very little and what he knew was confined to the Frege-Russell line of goods
+
+# Hilbert and The Formalists
+- According to the Greeks, apparently mathematical knowledge was supposed to be the gold standard of all knowledge, an unassailable hill
+- Could be build a theory of knowledge that is different? Where we remove the politics of it. 
+- An intuition is supposed to be something that we just know, in and of itself, not on the basis of knowing something else.
+- Accidental features can insinuate themselves into our most pristine mathematical reasoning, presenting us with propositions that seem intuitively obvious when they are not obvious at all—maybe not even true at all.
+- In other fields of thought as well-—for example, and notoriously, ethics—people can have the illusion of "intuitions."
+- Can we actually make a theory for structural intuition?
+- You can't really appropriate the axiomatics of mathematics, and port it to non intuitionism as ethics
+- The axioms are so trivial that we can assume that they are true without proving them, with all else following from them, like a huge twisting plant growing out of a simple seed.
+- Even the study of mathematics can be ruthless in trying to weed out intuition
+- The mathematical bedrock, was no bedrock after all
+- The parallels postulate makes implicit reference to infinity
+- Gauss, Lobachevsky and Bolyai stumbled upon non euclidean geometry when they were attempting to show the consistency of Euclid's Postulates
+- Symbols are actually the in between, in jumps in intuition
+- A formal system is constituted of stipulated rules: that specify the symbols ("alphabet") of the system; that tell us how we may combine the symbols with one another to produce grammatical configurations (wffs); and that tell us how we may proceed to deduce [[wffs]] from other wffs (the rules of inference)
+
+**The statement below is so important**
+- To follow the rules of a formal system—and a formal system consists of nothing but rules—is to engage in a combinatorial activity that, consisting purely of recursive functions (roughly speaking, functions that tell you how to arrive at a result by taking the result of another recursive function, or of a really simple basic function3 ), could be programmed into a computer, that is, that is computable.
+- In formalism's retelling, mathematics becomes chess raised to a higher order of intricacy.
+- Godel's first incompleteness theorem states the incompleteness of any formal system rich enough to express arithmetic.
+- The young student had found a proof for a theorem, the first incompleteness theorem, that had the rigor of mathematics and the reach of philosophy
+- [[Postmodernism]] still tried to do hermeneutics on Godel's Maths
+
+
+
 Words: 
 [[Eschatological]]
 [[grist]]
