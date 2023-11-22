@@ -92,7 +92,7 @@
 - For those who believe that mathematics is syntactic, the phrase "is true" takes on a special meaning when it is applied to a mathematical proposition: A mathematical proposition is true relative to the stipulated rules, the syntax, of a formal system. Analogously, for a moral relativist, like Protagoras, "is true," when applied to an ethical statement, is shorthand for "is true relative to x" where x is a person or, more likely, a conglomerate of ethically agreeing persons.
 - [[Moral Truths Are Du Jour Social Constructs]]
 - Godel's and Wittgenstein's views on the foundations of mathematics were, as we will see, at loggerheads, and neither could acknowledge the work of the other without renouncing what was most central in his own view.
-- Ravel wrote: [[Concerto for the Left Hand]] for Wittgenstein's Brother
+- Ravel wrote: [[ShrobObsidian/Sandbox Research/Concerto for the Left Hand]] for Wittgenstein's Brother
 - Revisting [[Russel's Paradox]]
 - Gottlob Frege
 - Russell and Whitehead called their rules the "Theory of Types,", to prevent set theoretic paradoxes.
