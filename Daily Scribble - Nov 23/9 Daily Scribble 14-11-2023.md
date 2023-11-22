@@ -25,6 +25,8 @@
 - Weirdly e^sqrt((163)*pi) is a whole number (close to actually)
 - And the 163 can be replaced with some y, and those y's, when adjoined to some number system hold the property of being uniquely prime factorized
 
+^96d4a5
+
 ## The Art of Code
 - All Art is quite useless - Wilde
 - The function of art is to hold up a mirror to nature - Douglas Adams
