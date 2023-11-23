@@ -147,6 +147,98 @@
 - Godel's first incompleteness theorem states the incompleteness of any formal system rich enough to express arithmetic.
 - The young student had found a proof for a theorem, the first incompleteness theorem, that had the rigor of mathematics and the reach of philosophy
 - [[Postmodernism]] still tried to do hermeneutics on Godel's Maths
+- [[Foundations of Geometry]], by David Hilbert
+- This conviction of the solvability of every mathematical problem is a powerful incentive to the worker. We hear within us the perpetual call: There is the problem. Seek its solution. You can find it by pure reason, for in mathematics there is no ignorabimus.
+- Cantor's Continuum Hypothesis: The set of real numbers is thus of a higher ordinality (roughly speaking, there are more of them) than the set of natural numbers.
+- If all my statements are both unambiguous and truly descriptive, then they won't contradict each other, since the objective truth of the matter underpins them all. This is what Axiomatic systems aspire to, but never actually achieve
+- What's so awful if, through the manipulation of meaningless wffs, we arrive at contradictory meaningless wffs? WHatever we use to make wff's might actually lead to a contradiction at the end, which is less than desirable
+- Brouwer was a leading exponent of the [[intuitionist school of mathematics]]
+- The ad hoc rules of the [[Theory of Types ]]barred the formation of inconsistency-breeding sets
+
+# The Proof of Incompleteness
+- At the conference at Konigsberg, Godel was barely noticed
+- Limpid logic (predicate calculus) categorizes whole hosts of sentences in terms of their shared logical form, stripping away all the meanings of specific predicates and subjects to get down to the naked logic.
+- Godel's completeness theorem, the result he presented to the conference of logical luminaries (Konigsberg), proved that all such logically true propositions are provable within the formal system of limpid logic.
+- The nontrivial-ity of the proof of completeness for limpid logic must have forcefully presented the possibility to Platonist Godel that there were propositions that were arithmetically true but not provable within a formal system of arithmetic.
+- It lies in a widespread lack, at that time, of the required epistemological attitude toward metamathematics and toward non-[[finitary reasoning]].
+- One can (assuming the formal consistency of classical mathematics) even give examples of propositions (and indeed of such a type as Goldbach and Fermat) which are really contextually (materially) true but improvable in the formal system of classical mathematics.
+- Meticulously crafted, a miniature masterpiece
+- Self-importance helps; a heavy, elaborately carved frame can make the sketchiest artwork seem important.
+- Kuhn: In science novelty emerges only with difficulty, manifested by resistance, against a background provided by expectation. Initially only the anticipated and usual are experienced even under circumstances where anomaly is later to be observed.
+- Some time in the course of his pondering, von Neumann happened on a remarkable corollary to what Godel had told him. Von Neumann had seen from what Godel had told him that Godel's proof was conditional: what it says is that if a formal system S of arithmetic is consistent, then it's possible to construct a proposition, call it G, that's true but unprovable in that system. So if S is consistent, G is both true and unprovable. Trivially, then, if S is consistent then G is true. Von Neumann had also understood from what Godel told him that this proof can itself be carried out in a system of arithmetic. (This is the trick that's accomplished by Godel numbering.) So if the consistency of S could be proved in S, then G would have been proved in S—since it follows from the consistency of S that G is true. But this contradicts that G is unprovable. The only way out of the contradiction is to deny that S can be formally proved to be consistent within the system of arithmetic. So from Godel's result another impossibility follows: it is impossible to formally prove the consistency of a system of arithmetic within that system of arithmetic.
+- The consistency of a system amounts to the proposition that using the rules of the system no contradiction can be derived. This proposition is itself combinatoric; it concerns simple rules of symbol manipulation—rules that determine which string of symbols follow from which strings of symbols. This combinatoric proposition is, precisely because it is combinatoric, equivalent to something arithmetical.
+- Godel's Proof is very highly dense. Just 20 pages.
+
+- We start with: This very statement is not provable within this system.
+- [[Richard's Paradox]] and other paradoxes are continually mentioned in discussions of Godel's Theorems
+- If G were provable then its negation—which, after all, says that G is provable—would be true. But if the negation of a proposition is true, then the proposition itself is false. So if G is provable then it is false. But if G is provable, then it is also true.
+- What is more, the proof demonstrates that should we try to remedy the incompleteness by explicitly adding G on as an axiom, thus creating a new, expanded formal system, then a counterpart to G can be constructed within that expanded system that is true but unprovable in the expanded system. The conclusion: There are provably unprovable, but nevertheless true, propositions in any formal system that contains elementary arithmetic, assuming that system to be consistent.
+- Godel apparently really liked Kafka
+- We can examine the structural relationships between logical statements, using the process of Godel Numbering
+- Through Godel's inspired contrivances, all of the logical relations that hold between propositions in the formal system become arithmetic relations expressible in the arithmetical language of the system itself. This is the essence of the heart-stopping beauty of the whole thing.
+- The metasyntactic and the arithmetic collapse into one another.
+- You can see where we're heading: toward arithmetical propositions expressible in the system that also speak to the issue of their own provability within the system. The Godel numbering allows some propositions to engage in an interesting sort of double-speak, saying something arithmetical and also commenting on their own situation within the formal system, saying whether they're provable.
+- Idea of the Proof of the First Incompleteness Theorem
+	- Gödel's First Incompleteness Theorem is a fundamental result in the philosophy of mathematics and mathematical logic. It states that in any formal system that is sufficiently expressive to include basic arithmetic (e.g., Peano arithmetic) and that is consistent (meaning it does not prove both a statement and its negation), there exist true mathematical statements that cannot be proven within that system.
+
+	To provide a simple proof of Gödel's First Incompleteness Theorem using Gödel numbering, we'll provide an outline of the proof rather than a detailed formal proof, as the complete formal proof is quite complex.
+	
+	1. **Encoding Statements and Proofs**: Gödel numbering is a technique that assigns unique numbers to symbols, formulas, and proofs within a formal system. This allows us to treat statements about the system's own syntax and provability as mathematical statements.
+	
+	2. **Construction of a Self-Referential Statement**: Using Gödel numbering, it is possible to construct a statement G that essentially says, "This statement is not provable within the formal system." Formally, G encodes the statement "There is no proof of the Gödel number of this statement."
+	
+	3. **Assume G is Provable**: If G were provable within the system, it would mean that the system proves its own consistency. However, Gödel's Second Incompleteness Theorem shows that a consistent formal system cannot prove its own consistency. Therefore, G cannot be provable within the system.
+	
+	4. **Assume G is Not Provable**: If G were not provable, it means there exists a true statement (G itself) that cannot be proven within the system, thus demonstrating the incompleteness of the system.
+	
+	In this simplified outline, we've captured the essence of the proof using Gödel numbering and self-reference. Gödel's actual proof is quite intricate and involves detailed coding of formulas and statements within formal systems. It's important to note that Gödel's Incompleteness Theorems are highly significant results in the foundations of mathematics but are not easily reducible to a simple proof due to their complexity and reliance on formal logic and number theory. Gödel's original papers on the subject are considered some of the most important works in 20th-century mathematics and logic.
+- Approach to the proof of the second incompleteness theroem
+	- Gödel's Second Incompleteness Theorem is a closely related result to the First Incompleteness Theorem and builds upon the foundation laid by the first theorem. It asserts that in a formal system that is capable of expressing basic arithmetic (such as Peano arithmetic) and is consistent (meaning it does not prove both a statement and its negation), the system cannot prove its own consistency.
+	Here's a simplified outline of a proof of Gödel's Second Incompleteness Theorem using Gödel numbering and self-reference:
+	
+	1. **Construct a Statement about Provability**: Using Gödel numbering, we can encode a statement Con(S) that essentially says, "There is no proof of a contradiction in the formal system S." Formally, Con(S) encodes the statement "There does not exist a sequence of symbols that represents a proof of both a statement and its negation in S."
+	
+	2. **Assume S Proves Its Own Consistency**: Let's assume, for the sake of contradiction, that the formal system S can prove Con(S). This means that S believes in its own consistency.
+	
+	3. **Construct a Contradictory Statement**: Using the assumption that S can prove Con(S), we can construct a statement G within the system S that says, "This statement is provable if and only if it is not true." Formally, G encodes the statement "There exists a proof of the Gödel number of this statement if and only if this statement is false."
+	
+	4. **Show that G Leads to a Contradiction**: If G is provable within S, it implies that G is true (because S believes in its own consistency). However, if G is true, then by its own definition, it is not provable within S. This creates a contradiction.
+	
+	5. **Conclude the Incompleteness**: The contradiction shows that our initial assumption, that S can prove Con(S), must be false. Therefore, S cannot prove its own consistency.
+	
+	Gödel's Second Incompleteness Theorem is a profound result that has significant implications for the foundations of mathematics and the limits of formal systems. It essentially demonstrates that, within a formal system that is sufficiently expressive to include basic arithmetic and is consistent, there will always be statements (such as the statement Con(S) or G) that express facts about the system's own provability and truth that cannot be proven within that system. This result highlights the inherent limitations of formal mathematical systems.
+- The second incompleteness theorem put formalism in an impossible bind: the formalist incentive was to banish the opacity of the nature of the thing in itself (space, numbers, sets)
+- Wittgenstein's is, by far, the more radical statement of incompleteness. For Godel's there is expressible knowledge which cannot be formalized. The limits of formalization, of our attempt to reduce all mathematical knowledge to the specified rules of a system, are not congruent with the limits of our knowledge.
+- Gödel believed his first incompleteness theorem supported Platonism's insistence on the existence of a suprasensible domain of eternal verities.
+- Gödel actually make consistent systems, but merely says that there are unknowable truths because of the definitions.
+- Gödel believed our expressible knowledge, demonstrably our mathematical knowledge, is greater than our systems. Whereof we cannot formalize, thereof we can still know, the mathematician might have said, had he had any inclination toward the oracular
+- Much like his soulmate Einstein, he was interested in pursuing what Einstein called problems of "genuine importance"
+- The two "foundations of mathematics" courses
+- Where Godel had subjected the concepts of "provability" and "completeness" to his transformative techniques, Turing would give mathematical expression to the concepts of "decidability" and "computability."
+- Given Hilbert's formalism, one would have an algorithm for mathematical truth. Such an algorithm would provide a purely finitary combinatoric method for capturing the concept of mathematical truth (just as the concept of mathematical provability had been captured). Turing proved that no such algorithm exists.
+- Hilbert had tried to inoculate mathematics against paradox by eliminating all appeals to intuition. Gödel had proved that appeals to intuition could not be eliminated; he had undermined formalism's inoculation program.
+- After all, we are not only living with the truth of Godel but also the truth of Darwin. Our minds are the products of the blind mechanism of evolution.
+- In particular, what our minds could not be, so goes the reasoning, are computers. The mathematical knowledge that we possess cannot be captured in a formal system.
+- Godel's theorem seems to me to prove that Mechanism is false, that is, that minds cannot be explained as machines.
+- The noncombinatorial but nevertheless physical nature of thinking shows us the noncombinatorial nature of basic physical laws.
+- Of course there is no proof that we know all that we think we know, since all that we think we know can't be formalized; that, after all, is incompleteness.
+- Godel's theorems are darkly mirrored in the predicament of psychopathology: Just as no proof of the consistency of a formal system can be accomplished within the system itself, so, too, no validation of our rationality—of our very sanity— can be accomplished using our rationality itself.
+
+# Godel's Incompleteness
+- Lucas' Essay on Godel: John Lucas, a British philosopher, is known for his engagement with Gödel's incompleteness theorems and their implications for the philosophy of mind. In his essay titled "Minds, Machines and Gödel" (published in 1961), Lucas argued against the idea that a purely mechanical, algorithmic, or computational system (such as a Turing machine) could capture all aspects of human intelligence, including mathematical insight and understanding. Lucas's arguments can be summarized as follows:
+
+	1. **Gödel's Incompleteness Theorems**: Lucas starts by summarizing Gödel's First Incompleteness Theorem, which states that in any formal system that is sufficiently expressive to include basic arithmetic and is consistent, there exist true mathematical statements that cannot be proven within that system. He emphasizes that Gödel's proof involves self-reference and the construction of a statement that refers to its own unprovability.
+	
+	2. **The Human Mind and Mathematical Insight**: Lucas argues that human mathematicians are capable of grasping and intuiting mathematical truths that are not mechanically provable within a formal system. He suggests that Gödel's theorem demonstrates that the human mind possesses an insight into mathematical reality that goes beyond what formal systems can capture. This insight allows mathematicians to recognize the truth of certain propositions without being bound by formal rules.
+	
+	3. **The Argument Against Mechanism**: Lucas's central argument is that if a machine (in the sense of a purely mechanical system following formal rules) were to understand and assert Gödel's incompleteness theorem, it would be making a claim about its own limitations. However, since this claim involves self-reference and awareness of its own incompleteness, it cannot be mechanically generated. Therefore, Lucas concludes that the human mind transcends what a purely mechanical system can achieve.
+	
+	4. **Non-Algorithmic Processes**: Lucas contends that human mathematical understanding involves non-algorithmic processes that are not bound by the limitations of formal systems. He suggests that the mind's capacity for self-reference, intuition, and grasping truths that transcend formal proofs is evidence of its non-computational nature.
+	
+	Lucas's essay generated significant discussion and debate in the philosophy of mind and the philosophy of artificial intelligence. His arguments were seen as a challenge to the idea that machines, including computers, could fully replicate human intelligence and mathematical insight. It's worth noting that Lucas's position has been critiqued and debated by other philosophers and researchers, and the relationship between Gödel's theorems and the nature of human cognition remains a topic of ongoing philosophical inquiry and discussion.
+
+- Niels Bohr and Ludwig Wittgenstein, both of them as charismatic as they were obscure, their obscurities pointing toward the same sort of conclusion: a prohibition against asking the sorts of questions that seek to make a connection between the abstract thought of their respective disciplines and objective reality.
+- He certainly had never been afraid to privately dissent from the dominant views of his day; but there was a rigid reluctance to publicly voice his adversarial position in any terms other than conclusive proof.
 
 
 
@@ -154,4 +246,5 @@ Words:
 [[Eschatological]]
 [[grist]]
 [[marginalia]]
+[[epigone]]
 

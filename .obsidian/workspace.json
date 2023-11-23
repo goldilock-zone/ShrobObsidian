@@ -4,50 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7c8f4e222056f3e0",
+        "id": "83652f015a3bc95c",
         "type": "tabs",
         "children": [
           {
-            "id": "69d1f39c4d50f259",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20231118103248.png"
-              }
-            }
-          },
-          {
-            "id": "e4d81f91b305ad09",
+            "id": "8a2eb823efcdfddc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sandbox Research/Discussion on Syntax and Intuition.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c453d90a500aa1cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sandbox Research/Can intuition be independent of language.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "62887d7ba41fe690",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/Math Sandbox/Dirichlet Characters.md",
+                "file": "Math/Introduction to Number Theory/Lecture 6 - Multiplicative Functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Zermelo-Fraenkel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20231118103248.png",
+                "file": "Math/Introduction to Number Theory/Lecture 6 - Multiplicative Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20231118103248.png",
+                "file": "Math/Introduction to Number Theory/Lecture 6 - Multiplicative Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20231118103248.png"
+                "file": "Math/Introduction to Number Theory/Lecture 6 - Multiplicative Functions.md"
               }
             }
           }
@@ -183,8 +149,36 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "69d1f39c4d50f259",
+  "active": "8a2eb823efcdfddc",
   "lastOpenFiles": [
+    "Math/Math Sandbox/Dirichlet Characters.md",
+    "Sandbox Research/Can intuition be independent of language.md",
+    "Sandbox Research/Discussion on Syntax and Intuition.md",
+    "Philosophy/Philosophy Of Maths/Incompleteness - The Proof and Paradox of Kurt Godel.md",
+    "finitary reasoning.md",
+    "Math/Math Sandbox/Pollard's rho algorithm.md",
+    "non-[[finitary reasoning.md",
+    "Daily Scribble - Nov 23/11 Daily Scribble 22-11-2023.md",
+    "Writing Prompts/Recursive Windows of Knowledge.md",
+    "Writing Prompts/The bridgehead theory of intuition.md",
+    "Writing Prompts/A theory of knowledge, that is a plural theory of knowledge that is without politics.md",
+    "Writing Prompts/Incompleteness as Epistemics.md",
+    "Writing Prompts",
+    "epigone.md",
+    "Theory of Types.md",
+    "Zermelo-Fraenkel.md",
+    "Math/Math Sandbox/Russel's Paradox.md",
+    "Sandbox Research/What is Metamathematics.md",
+    "intuitionist school of mathematics.md",
+    "Foundations of Geometry.md",
+    "Sandbox Research/Postmodernism.md",
+    "Math/Introduction to Number Theory/Lecture 6 - Multiplicative Functions.md",
+    "Math/Math Sandbox/Floyd's cycle-finding algorithm.md",
+    "Math/- Format for Problems.md",
+    "Math/Math Sandbox/limit and colimit structures.md",
+    "Sandbox Research/Meta Ontology.md",
+    "Sandbox Research/Goethe's theory of colors.md",
+    "Pasted image 20231118103248.png",
     "Pasted image 20231116121750.png",
     "Pasted image 20231116083152.png",
     "Pasted image 20231116080825.png",
@@ -194,39 +188,11 @@
     "Pasted image 20231116075608.png",
     "Pasted image 20231116075349.png",
     "Pasted image 20231116074427.png",
-    "Pasted image 20231029154110.png",
-    "Sandbox Research/Postmodernism.md",
-    "Sandbox Research/Sapir Whorf Hypothesis.md",
-    "Sandbox Research/Philosophical Collective Animal.md",
-    "Sandbox Research/Pasted image 20231029154039.png",
-    "Sandbox Research/Oh Knowledge, Daughter of Joy.md",
-    "Sandbox Research/Foucault's Biopolitics.md",
-    "Sandbox Research/Exactness.md",
-    "Sandbox Research/Durkhiem on Collective Consciousness.md",
-    "Sandbox Research/Deep Negative.md",
-    "Sandbox Research/Aura and Noosphere.md",
-    "Sandbox Research/Alterity.md",
-    "Daily Scribble - Nov 23/7 Daily Scribbles 9-11-2023.md",
-    "Daily Scribble - Nov 23/11 Daily Scribble 22-11-2023.md",
-    "Philosophy/Philosophy Of Maths/Incompleteness - The Proof and Paradox of Kurt Godel.md",
-    "Math/Introduction to Number Theory/Lecture 6 - Multiplicative Functions.md",
-    "Math/Math Sandbox/wffs.md",
-    "Sandbox Research/chimerical belief.md",
-    "Sandbox Research/Bourbaki, Vienna Circle and Oulipo.md",
-    "Sandbox Research/silent dissenter.md",
-    "Sandbox Research/Tidbits and Interesting Thoughts/Deep Negative.md",
-    "Sandbox Research/Wittegenstin's Tractatus.md",
-    "Sandbox Research/Wittgenstein forbade talking about a language within the language. Why..md",
-    "Sandbox Research/Early and Later Wittgenstein.md",
-    "Sandbox Research/Can intuition be independent of language.md",
-    "Sandbox Research/Discussion on Syntax and Intuition.md",
-    "Sandbox Research/Is there an isomorphism between the cult of personality of Wittgenstein and that of Alexander Grothendieck.md",
     "ShrobObsidian/Sandbox Research",
     "ShrobObsidian",
     "Philosophy/Philosophy Of Maths",
     "PlayerIncentiveSimulator/ConceptNote.canvas",
     "Math/Modular Forms",
-    "Untitled",
     "Tools Sandbox",
     "Code/Functional Programming",
     "Code",

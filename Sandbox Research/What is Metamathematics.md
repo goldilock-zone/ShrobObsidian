@@ -6,7 +6,7 @@ Some important results and concepts in metamathematics include:
 
 2. **Tarski's Undefinability Theorem:** Alfred Tarski's undefinability theorem demonstrates that there is no precise and general way to define the concept of "truth" within a formal mathematical language. This result is closely related to Gödel's incompleteness theorems.
 
-3. **Zermelo-Fraenkel Set Theory (ZF):** ZF set theory is a foundational system for most of modern mathematics. It provides a rigorous axiomatic framework for dealing with sets and is used to define the basic building blocks of mathematical objects. Variants such as ZFC (ZF with the Axiom of Choice) are commonly used.
+3. **[[Zermelo-Fraenkel]] Set Theory (ZF):** ZF set theory is a foundational system for most of modern mathematics. It provides a rigorous axiomatic framework for dealing with sets and is used to define the basic building blocks of mathematical objects. Variants such as ZFC (ZF with the Axiom of Choice) are commonly used.
 
 4. **Model Theory:** Model theory is a branch of metamathematics that studies the relationships between mathematical structures (models) and the formal languages used to describe them. It explores questions related to the semantics of mathematical theories and their models.
 

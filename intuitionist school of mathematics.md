@@ -1,0 +1,17 @@
+The intuitionists claimed that their finitary constructions were actually mental constructions, and in fact, the only sort of mathematical mental constructions that we, being finite, could actually perform. So they were claiming that their strictures on mathematical proofs actually corresponded to human psychology
+
+The intuitionist school of mathematics, also known as intuitionism, is a foundational approach to mathematics that was developed in the early 20th century, primarily by the Dutch mathematician Luitzen Egbertus Jan Brouwer. Intuitionism is characterized by several key principles and philosophical stances that distinguish it from more traditional approaches to mathematics, such as classical or formalist mathematics. Some of the fundamental features of intuitionism include:
+
+1. Constructivism: Intuitionism emphasizes the idea of mathematical constructivism, which means that mathematicians should only accept the existence of mathematical objects if they can be explicitly constructed or defined in a finite number of steps. This stands in contrast to classical mathematics, which accepts the existence of mathematical objects based on logical proofs, even if they are not explicitly constructed.
+
+2. Intuition as a Source of Truth: Intuitionists place a strong emphasis on intuition as a valid source of mathematical truth. They argue that mathematical objects and statements should be grounded in the mathematician's intuition and mental constructions, rather than relying solely on abstract, formal reasoning.
+
+3. Rejection of the Law of the Excluded Middle: Intuitionism rejects the law of the excluded middle, which states that for any mathematical statement P, either P or its negation (not P) must be true. Intuitionists do not accept this principle as universally valid, and they insist on constructive proofs for mathematical statements.
+
+4. Emphasis on Finite and Algorithmic Methods: Intuitionism favors the use of finite and algorithmic methods in mathematics. Constructive proofs should provide explicit procedures for constructing mathematical objects or verifying their existence.
+
+5. Opposition to Non-Constructive Proofs: Intuitionists are critical of non-constructive proofs, which may establish the existence of mathematical objects without providing a means for explicitly constructing them. They view such proofs as potentially problematic because they do not align with the intuitionist emphasis on mathematical constructivism.
+
+6. Intuitionistic Logic: Intuitionists have developed their own system of intuitionistic logic, which differs from classical logic in several ways, including the rejection of the law of the excluded middle and the modification of other logical principles to align with intuitionist principles.
+
+Intuitionism has had a significant impact on the philosophy and foundations of mathematics, sparking debates and discussions about the nature of mathematical truth and the validity of various mathematical methods. While intuitionism remains a minority viewpoint compared to classical mathematics, it has contributed to the development of alternative approaches to mathematical foundations and continues to be a subject of interest and debate among mathematicians and philosophers.
