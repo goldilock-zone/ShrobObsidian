@@ -75,7 +75,7 @@
 - Vienna was a knowledge commons
 - Weltanschauung, "a world-view, but one whose essence it was to avoid viewing the world."
 - Kreise, or circles, more or less formal discussion groups in Vienna. The intellectual geometry of Vienna was densely inscribed with circles
-- Why was Godel a Platonist, even though he was in a talk circle full of logical positivists. who followed [[logical positivism]]
+- Why was Godel a Platonist, even though he was in a talk circle full of logical positivists. who followed [[Logical Positivism]]
 - He needed proof of viewpoints. [[Epistemics of Speculative Theory]]
 - Logical positivism was first and foremost a movement that spoke in the name of the precision and progress associated with the sciences. A very german science. It was a form of Radical Empiricism
 - On the one hand, the sort of questions that could be answered through a priori reasoning; these, according to Hume, had no ontologial import. These somehow do not tell us anything about the nature of the world, merely isomorphisms
@@ -239,6 +239,8 @@
 
 - Niels Bohr and Ludwig Wittgenstein, both of them as charismatic as they were obscure, their obscurities pointing toward the same sort of conclusion: a prohibition against asking the sorts of questions that seek to make a connection between the abstract thought of their respective disciplines and objective reality.
 - He certainly had never been afraid to privately dissent from the dominant views of his day; but there was a rigid reluctance to publicly voice his adversarial position in any terms other than conclusive proof.
+- Godel felt an ethical obligation to the ideas themselves, which is intriguing
+- 
 
 
 

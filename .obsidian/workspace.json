@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Math Sandbox/symmetric group.md",
+                "file": "Philosophy/Philosophy Of Maths/Incompleteness - The Proof and Paradox of Kurt Godel.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Math Sandbox/symmetric group.md",
+                "file": "Philosophy/Philosophy Of Maths/Incompleteness - The Proof and Paradox of Kurt Godel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Math Sandbox/symmetric group.md",
+                "file": "Philosophy/Philosophy Of Maths/Incompleteness - The Proof and Paradox of Kurt Godel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Math Sandbox/symmetric group.md"
+                "file": "Philosophy/Philosophy Of Maths/Incompleteness - The Proof and Paradox of Kurt Godel.md"
               }
             }
           }
@@ -149,14 +149,17 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "22034e85e6170674",
+  "active": "8a2eb823efcdfddc",
   "lastOpenFiles": [
+    "Richard's Paradox.md",
+    "Philosophy/Philosophy Of Maths/Incompleteness - The Proof and Paradox of Kurt Godel.md",
+    "Sandbox Research/chimerical belief.md",
+    "Math/Math Sandbox/symmetric group.md",
     "Math/Math Sandbox/Foundations of Geometry.md",
     "non-[[finitary reasoning.md",
     "Math/Partial Differential Equations/Sandbox - Partial Differential Equations.md",
     "automorphism.md",
     "Math/Visual Group Theory/Lecture 3 - Groups in science, art and mathematics.md",
-    "Math/Math Sandbox/symmetric group.md",
     "Math/Visual Group Theory/Lecture 1 - What is a group.md",
     "Math/Math Sandbox/Automorphisms.md",
     "Math/Visual Group Theory/Lecture 2 - Cayley Graphs.md",
@@ -165,7 +168,6 @@
     "Philosophy/Philosophy of Ansatz.md",
     "Math/Math Sandbox/Pollard's rho algorithm.md",
     "Math/Introduction to Number Theory/Sandbox - Number Theory.md",
-    "Philosophy/Philosophy Of Maths/Incompleteness - The Proof and Paradox of Kurt Godel.md",
     "Philosophy/Logical Positivism.md",
     "Math/Differential Equations/Lecture 3 - Euler's Method.md",
     "Math/Introduction to Number Theory/Lecture 2 - Survey of the Course.md",
@@ -175,8 +177,6 @@
     "Sandbox Research/Backus Naur Form.md",
     "Math/Visual Group Theory/Sandbox - Visual Group Theory.md",
     "Math/Introduction to Number Theory/Lecture 7 - Binomial Coefficient.md",
-    "Math/Introduction to Number Theory/Lecture 6 - Multiplicative Functions.md",
-    "Math/Math Sandbox/Dirichlet Characters.md",
     "Writing Prompts",
     "Pasted image 20231118103248.png",
     "Pasted image 20231116121750.png",
