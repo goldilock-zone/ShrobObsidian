@@ -15,7 +15,6 @@ At its core, the algorithm is a probabilistic method. Here's a high-level overvi
 The beauty of Pollard's rho algorithm is in its simplicity and efficiency for certain classes of numbers. It's particularly effective for numbers with small factors. However, its performance depends heavily on the choice of the function $f(x)$ and the initial values. Additionally, being a probabilistic algorithm, it doesn't guarantee a factor in every run, but repeated trials with different functions and starting values can increase the chance of success.
 
 # Running some code:
-Certainly! Here's the Python code for the implementation of Pollard's rho algorithm:
 
 ```python
 import math

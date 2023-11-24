@@ -20,8 +20,6 @@ Fermat's Little Theorem is a powerful tool in number theory and modular arithmet
 
 # Aside: Euler's Totient Function
 
-Certainly! Here's the Euler Totient function using the specified format:
-
 Instead of: \( \phi(n) \), use: $$ \phi(n) $$
 
 The Euler Totient function, denoted as \( \phi(n) \), is a mathematical function that counts the number of positive integers less than or equal to \( n \) that are relatively prime (coprime) to \( n \). In other words, it calculates the number of integers from 1 to \( n \) that share no common factors (other than 1) with \( n \).

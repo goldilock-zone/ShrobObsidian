@@ -26,8 +26,6 @@ BNF is commonly used for documenting and specifying the syntax of programming la
 
 # Examples
 
-Certainly! Here are some further examples of BNF rules for defining the syntax of various language constructs:
-
 1. BNF for Simple Arithmetic Expressions (Expanded):
    ```
    <expression> ::= <term> | <expression> + <term> | <expression> - <term>

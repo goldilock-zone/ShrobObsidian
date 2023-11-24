@@ -96,8 +96,6 @@ This code will find and print all prime numbers up to the specified `limit`.
 
 # Proof for the infinitude of primes
 
-Certainly! Here's the proof for the infinitude of prime numbers in the requested format:
-
 Proof by Contradiction: Infinitude of Prime Numbers
 
 Let's assume, for the sake of contradiction, that there are only finitely many prime numbers. We will demonstrate that this assumption leads to a contradiction.

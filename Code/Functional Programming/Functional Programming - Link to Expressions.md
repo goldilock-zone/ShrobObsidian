@@ -32,7 +32,6 @@ In the functional example, we define a recursive function `sum_with_recursion`. 
 Functional programming languages and paradigms often encourage recursive solutions like this, as they can be more concise and expressive for certain types of problems. However, it's important to note that recursion can lead to stack overflow errors for very large values of `n`, and some functional languages provide optimizations (like tail recursion optimization) to mitigate this issue.
 
 ## Demonstration in Haskell
-Certainly! Here's the equivalent example of summing numbers from 1 to N using recursion in Haskell:
 
 ```haskell
 -- Sum of numbers from 1 to N using recursion in Haskell

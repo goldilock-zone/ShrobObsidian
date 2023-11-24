@@ -1,4 +1,3 @@
-Certainly! Here is the list of the 23 problems presented by David Hilbert in his famous 1900 address to the International Congress of Mathematicians:
 
 1. The Continuum Hypothesis: Determine the truth or falsity of the statement that there is no set whose cardinality is strictly between that of the integers and the real numbers.
 

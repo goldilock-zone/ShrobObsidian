@@ -41,7 +41,6 @@ In summary, in mathematics, an ansatz is an educated guess or heuristic approach
 
 # Example: To Build Intuition
 
-Certainly! Let's consider an example of how an ansatz might be used in mathematics, specifically in solving a differential equation.
 
 Example: Solving a Simple Differential Equation with an Ansatz
 
