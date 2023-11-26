@@ -1,0 +1,1 @@
+In heraldry, a pairle is ==a Y-shaped device that represents the front of an ecclesiastical pallium==. It's also called a pall. A pairle is covered with crosses and extends to the upper corners and the base of the field.

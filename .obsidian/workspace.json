@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b0cce6cc3b6811ef",
@@ -151,6 +152,13 @@
   },
   "active": "8a2eb823efcdfddc",
   "lastOpenFiles": [
+    "The Grand Narrative.md",
+    "Philosophy/Serres/Branches - Michel Serres.md",
+    "escutcheon.md",
+    "pairle.md",
+    "Renascent.md",
+    "contingency.md",
+    "Epistles.md",
     "Philosophy/Philosophy Of Maths/Incompleteness - The Proof and Paradox of Kurt Godel.md",
     "Richard's Paradox.md",
     "Sandbox Research/chimerical belief.md",
@@ -170,13 +178,6 @@
     "Math/Introduction to Number Theory/Sandbox - Number Theory.md",
     "Philosophy/Logical Positivism.md",
     "Math/Differential Equations/Lecture 3 - Euler's Method.md",
-    "Math/Introduction to Number Theory/Lecture 2 - Survey of the Course.md",
-    "Math/Introduction to Number Theory/Lecture 1 - Introduction to Number Theory.md",
-    "Math/Math Sandbox/Hilbert's Program.md",
-    "Code/Functional Programming/Functional Programming - Link to Expressions.md",
-    "Sandbox Research/Backus Naur Form.md",
-    "Math/Visual Group Theory/Sandbox - Visual Group Theory.md",
-    "Math/Introduction to Number Theory/Lecture 7 - Binomial Coefficient.md",
     "Writing Prompts",
     "Pasted image 20231118103248.png",
     "Pasted image 20231116121750.png",

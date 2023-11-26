@@ -288,5 +288,36 @@ In summary, Popper's criterion for the exactness of science is that a theory mus
 - We can't erase the ancestor (fathers) within us
 
 ## Three Contingencies of Universal Consciousness
-- the Epistles give a new meaning to three terms: a verb, a noun and a subject.
+- the [[Epistles]] give a new meaning to three terms: a verb, a noun and a subject.
+- ‘We walk in Faith, not in clear reason’, where reason is defined by binary logic
+- The very opposite of assurance; a fear that trembles between being and non-being; in short, a consciousness. The exit from every belongingness. This is how modern consciousness, single, double, multiple, trembling, thrown into time and eternity …, was born.
+- omnitude integrates faith and hope and plunges, with even less assurance, into the [[contingency]], fluctuating and dangerous, proper to relations.
+- The new self is constructed from a triple contingency: faith and doubt; hope that will be happy at an indeterminate time; bonds of unconditional Love. Three weaknesses, three strengths.
+
+# The evaluation of the I
+- The credo (effective), precedes the cogito(vague)
+- Courage alone separates I am from I have value. ‘I don’t know who I am’ is most often understood as ‘I don’t matter to anyone.’ Quitting the isolation of pure identity, the I throws itself into the network of relations of belongingness.
+- Somehow, this equation to existential questions as an indicator of worth leads to the metrification of treatments of the Other
+- As soon as he became radically alone, he sacrificed to collective values, wealth and hierarchy
+- Coming about like me, his Son resembles me in contingency, unexpectedness, poverty: born on straw, wandering like the homeless, condemned to the lowest of tortures, descending the scale of every collective value all the way down to zero. The incarnation makes the assessment from just now reality: the abstract zero accompanies the lake fishermen in flesh and blood and dies between two thieves. Ego equals zero.
+
+## Paul, Son
+- Let’s return to relations. Who dictates this error-free law, with hundreds of clauses, whose rule formats gestures and the minutes of the day? 
+- Son is not always right, doesn’t know everything, seeks, stumbles, wanders, makes mistakes, retraces his steps, risks error, blunders, the whip, the rocks under stoning, storms and shipwreck, hunger and thirst, prison, solitude, being let down in a basket along a wall of confinement
+- returning to blood ties recently caused us to regress towards archaic illnesses
+
+# The power of death and resurrection
+- Enslaved to the formats of reason, the master repeats. Regulated by the dialectic, like mechanical dolls, the master and the slave, in an apparent struggle, in reality obey the empire of death, each of them behaving like its slave. 
+
+## Dead Object
+- Far from fleeing death, we shaped it in Statues. Condemned men, repressed murderers, fascinated by death, we turn it into spectacle and story; it incessantly haunts our representations; maybe there is no representation except of it.
+
+## [[Renascent]] Object
+- Who am I? This bifurcation. The [[pairle]] of the [[escutcheon]], a figure crossing in chiasm. Exhausted, indefatigable. Spurned, passionately in love. Unconscious, keenly penetrating. Earth and air, crawling, flying. Water and fire, incandescent frost. Enthusiastic- indifferent. An athlete and an abortion, living, full of resources. Weight and grace. Headstrong, scatterbrained. Dormant-inert-carnal and awake-nascent-carnal. Lying, standing; pathetic, enterprising. Emotion and abstraction. Me and always other. Mixed-race, completed lefty, Educated-Third. Hermaphrodite. Angel and animal. Statue and music. On balance, crying with joy.
+
+## The Project of Immortality
+- En route. We only have one project, one future, one hope: the inventive victory over necessary and formatted death.
+- Our species became, is becoming and will become such for having mastered, more than space and things, time.
+- [[The Grand Narrative]]
+-  there is no death except the one that’s organized, desired, decided, celebrated, repeated by formats like those of the recent fundamentalist convulsions that are killing each other 
 
