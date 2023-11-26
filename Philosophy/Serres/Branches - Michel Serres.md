@@ -272,3 +272,21 @@ In summary, Popper's criterion for the exactness of science is that a theory mus
 # The Adoptive Son
 - Administration is a format that was invented by Hellenic monotheism
 - St. Paul: Coreligionist persecuted him, Philosophers mocked him, and 
+- He was a combination of identities i.e. the formats around him
+
+## Belongingness and Identity
+- my identity does not reduce to my belongingness
+- Confusing belonging as identity is a logical error
+- Subset definition of belongingness (x ∈ A
+- The Greeks' measures, norms and formats originated in belongingness
+- So at the opening of the first century of our era, the idea and behaviour of belongingness was covering the Mediterranean. Greek culture taught one belongingness, political and cosmic at the same time; Israel’s tradition passed on a second one, holy; Rome’s did so for a third one, juridical.
+
+## Hominization
+- Is basically the act of looking at identity through the lens of subjectivity and not belongingness
+- We feel the pain of giving birth to hominization
+- Don't hate the father: Should we accuse Einstein of anti-scientism because he amended Newton’s laws? He took them up in quitting them
+- We can't erase the ancestor (fathers) within us
+
+## Three Contingencies of Universal Consciousness
+- the Epistles give a new meaning to three terms: a verb, a noun and a subject.
+
