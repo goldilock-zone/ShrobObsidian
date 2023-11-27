@@ -1,0 +1,1 @@
+A story, and someone writing about that story, and then someone else writing about that action, etc etc etc

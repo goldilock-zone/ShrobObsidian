@@ -321,3 +321,84 @@ In summary, Popper's criterion for the exactness of science is that a theory mus
 - [[The Grand Narrative]]
 -  there is no death except the one that’s organized, desired, decided, celebrated, repeated by formats like those of the recent fundamentalist convulsions that are killing each other 
 
+## Charles Péguy, Brunetière, Fall 1906
+- The way that trees restore themselves is fascinating. 
+- Pruning, and the violence associated with it
+- An abandoned treetop is abandoned. Eternally. No regret, no remorse, no emotion. Nature is perfectly unaware of any type of consideration of that order.
+- genres, like all the humanities, arboresce
+- Genius proceeds much more simply. Or rather it proceeds absolutely simply
+
+
+# Event
+- Apparently people lived in the Black sea and the strait of dover, and then were killed when waters invaded these lands - this used to be the story of noah apparently
+- How should we define an event? As that bomb whose contingent newness interrupts a state of affairs that has been formatted for a long enough time to make people believe in its perenniality: a people was going about its business in calm, it disappeared; one family alone remained; an ancient lake of reduced dimensions expanded; a fragment of history bifurcated
+- The Bosphorous Rupture: but this rupture in truth also had an enormous impact
+- [[The Black Sea Deluge]]
+- expected effects remain similar to what precedes, the sequence plunges into a format that’s predictable by the ordinary rule of causality: the hours follow one another, duration flows
+
+## Nature and Cultures
+- In manipulating the atom, the chain of genes or cloning bacteria …, aren’t we playing with fire? 
+- The anxiety attached to the story of the sorcerer’s apprentice has affected [[Homo faber]] from its first productions and haunted our technologies and our sciences all the way up to this morning
+- Before chaos theory, Poincaré demonstrated ([[Poincare's demonstration that the solar system is a chaotic system]]) that the Earth could, without warning, leave the solar system and depart, it too.
+
+## Action and Thought
+-  Newness along with the things around him, things subjected to a suddenly broken law
+- Neither the tyrant nor the slave assesses their scope. Tomorrow, the former will fall, of himself, and the latter will scorn taking power in order to try to establish a less stupid world.
+- The "Branching" Theory of history is interesting: When Saint Paul announced the Good News, he grafted the Christian branch onto the Jewish tree and its Pharisean bough
+
+## Jubilation/Gambling
+- Fortune, sometimes, smiles on daringness, alone reasonable; learned ignorance thinks.
+
+## Four News Things
+- The old stem, present, continues to vibrate; the new branch forms the observable universe
+- Four new things – material bodies, universe, life, humanity … – can be summed up in a single word, nature. How should we define it? By its original meaning: that which was born, that which is born, that which will be born; that is, a narrative of newborn and contingent events that are unpredictable before they occur but formatted as a semi-necessary chain when drawn descending towards us.
+
+## Boredom
+- Each line falls into line with monotonous rules, always modelled on the same format of power and death
+- The universe is running to the big crunch, a terminal crushing, symmetrical to the big bang; the Sun is running towards its nova, the final explosion; stem cells are running towards a series of inhibitions; species are running towards their extinction; invention towards repetition; new thought towards litany; works towards commentary; violence towards violence, power towards power, both towards death
+
+## New Praise of Format
+- Training allows us to progress following the cadenced return of gestures and exercises.
+- There can be no life without the law-abiding return of the dawn nor can there be spring without the eternal return to the vernal point, no poetry without rhythm, no harmony without the anharmony of sevenths or style without the breaking of style, no solar system without the chaos that can make a planet bifurcate from its ellipse. Time runs towards entropy or, bifurcating, cadences the expansion of the universe and vital evolution.
+- Divergence, emergence. An exception to nothingness:
+
+## The Theory of Four Truths
+- Sciences, philosophies, arts, religions, politics … invent newnesses the way genes mutate or particles bifurcate.
+
+## Us, In this story
+- Merely objectively follow a succession of states of affairs but can transform the one who announces it and those who will hear it. 
+- At a point, a discontinuity breaks a continuous path. There, a catastrophe of cataracts, in a few days, interrupted centuries of ploughing
+- I wake up from my dogma; imitating, I invent; a trunk, I become a branch; fastened into the donkey skin, I exit. I convert. Dead, I am reborn.
+
+## The Ramification of Language
+- [[Plosives]], [[fricatives]], [[labiodentals]] …, consonants constrict the emission of vocalises or vowels in their passing. Lips, tongue, teeth and palate form complicated barriers, closures or baffles …, whose arrangement incessantly breaks, intersects and reorients the vocal flow. 
+- Do you seek to recount? Tell how language itself speaks. The form furnishes the content.
+
+## Branch-Time
+- Many linguists give the Latin tempus two opposing Greek roots, the verb τείνω teinō, to stretch out, continuously … and another one, τέμνω temno, to cut up or interrupt: again stem and branch.
+- Time mixes the continuousness of tension with the discontinuousness of rupture, a flux that flows with a filter that prevents it from passing
+- Pulverized by mutations and the deadly filter that is selection, evolution explodes into bouquets, droplets and jets of life
+
+## Disquietude
+- Time is measured by spring and disquietude.
+- In the same literal sense, existence drags me out of rest or removes me from equilibrium. Thus existence launches me into time.
+- I am disquieted, therefore I exist
+
+# Advent
+## How are we to be reborn? Through good encounter
+
+- How can it be denied that there was a before and an after
+
+## Autocatalysis
+- This is why: long ago, during a winter, it snowed a little there, at altitude. Very little, barely above equilibrium. But the thin layer deposited in that way did not melt the following summer, cooler than usual. These long cold spells arrived; no one noticed them. The next winter, it again snowed little but enough to cover over the previous snowfall, already frozen. 
+- Random chance and knock on effects
+
+## The birth of the earth and of a group
+- Yet, at the beginning, one grain no doubt encountered another grain, which, by themselves, attracted a bigger third one, which, already substantial, exerted a more considerable attraction. Thus a self-perpetuating cycle, whose steady-state regime and its limit, our planet, are known to us, formed this planet by accretion, so much so that it still burns inside with these impacts
+
+## Announcements
+- Given millennia of farces and dramas, guess which character is cited most often: the messenger
+
+## The Principle of Reason
+
+

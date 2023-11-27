@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Certainly!",
+                "query": "Laplace Demon ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,12 +65,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b0cce6cc3b6811ef",
@@ -152,8 +152,18 @@
   },
   "active": "8a2eb823efcdfddc",
   "lastOpenFiles": [
-    "The Grand Narrative.md",
+    "Guiseppe Longo/Giuseppe Longo - Alphabets, Axioms, DNA.md",
     "Philosophy/Serres/Branches - Michel Serres.md",
+    "labiodentals.md",
+    "fricatives.md",
+    "Plosives.md",
+    "Writing Prompts/Incompleteness as Epistemics.md",
+    "Writing Prompts/A Recursive Piece of Science Fiction.md",
+    "Poincare's demonstration that the solar system is a chaotic system.md",
+    "Homo faber.md",
+    "The Black Sea Deluge.md",
+    "Daily Scribble - Nov 23/12 Daily Scribble 27-11-2023.md",
+    "The Grand Narrative.md",
     "escutcheon.md",
     "pairle.md",
     "Renascent.md",
@@ -168,16 +178,6 @@
     "Math/Partial Differential Equations/Sandbox - Partial Differential Equations.md",
     "automorphism.md",
     "Math/Visual Group Theory/Lecture 3 - Groups in science, art and mathematics.md",
-    "Math/Visual Group Theory/Lecture 1 - What is a group.md",
-    "Math/Math Sandbox/Automorphisms.md",
-    "Math/Visual Group Theory/Lecture 2 - Cayley Graphs.md",
-    "D3 group.md",
-    "Klein 4-group.md",
-    "Philosophy/Philosophy of Ansatz.md",
-    "Math/Math Sandbox/Pollard's rho algorithm.md",
-    "Math/Introduction to Number Theory/Sandbox - Number Theory.md",
-    "Philosophy/Logical Positivism.md",
-    "Math/Differential Equations/Lecture 3 - Euler's Method.md",
     "Writing Prompts",
     "Pasted image 20231118103248.png",
     "Pasted image 20231116121750.png",
