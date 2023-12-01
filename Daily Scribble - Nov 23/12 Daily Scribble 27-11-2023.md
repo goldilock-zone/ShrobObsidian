@@ -1,0 +1,26 @@
+<iframe width="622" height="480" src="https://www.youtube.com/embed/GgikYwXb55k" title="The Unending Violence of Vincent van Gogh" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+- The archetype of the suffering artist
+- He had a bullet in his stomach
+- He had a litany of mental illnesses
+- Vincent was sad, and had his heart broken
+- He started his art at 27
+- He was angry. He was banned from several institutions
+- He had two personalities: One infinitely gifted and refined, and the other egotistical and anger
+- The brothers loved each other
+- Theo set Vincent in Arles with a studio
+- We turned into manic, psychotic
+- He had a state of degrading sanity
+- Van Gogh was in delusion, and cut off his own earlobe
+- Horrifying hallucination
+- He was intense
+- Theo was a good person
+- "He has the rest he longed for"
+- Was he really wounded?
+- Too close to suicide, but never actually did it - drowning
+- Obsessed with writing letters
+- Dead
+- The gun that he shot himself with was never founded
+- Vincent was protecting the boys, who possibly shot him
+- Homicide
+- No black powder burns
+- Much of his life was stolen from him, violently strapped to the backseat of his life

@@ -1,0 +1,9 @@
+In 1889, Henri Poincaré, a French mathematician and physicist, published a paper titled "Sur le problème des trois corps" (On the Problem of Three Bodies) in which he proved that the solar system is not stable in the long run. This means that, given enough time, the gravitational interactions between the planets could cause the Earth to be ejected from the solar system.
+
+Poincaré's work showed that the solar system is a chaotic system, meaning that its behavior is extremely sensitive to initial conditions. This means that even a small change in the position or velocity of one of the planets could have a dramatic impact on the long-term evolution of the system.
+
+For example, Poincaré showed that if the Earth were to be moved just a few centimeters from its current orbit, it could eventually be ejected from the solar system. This is because the Earth's orbit is very close to a resonance with the orbit of Jupiter, meaning that the two planets could interact in a way that would cause the Earth's orbit to become unstable.
+
+Poincaré's work was a major breakthrough in our understanding of the solar system. It showed that the solar system is not a static system, but rather a dynamic system that is constantly evolving. It also showed that the solar system is not as stable as we once thought, and that it is possible for the Earth to be ejected from the solar system in the future.
+
+However, it is important to note that Poincaré's work does not mean that the Earth is in any immediate danger of being ejected from the solar system. The solar system is very stable on short timescales, and it is likely to remain stable for billions of years to come. However, Poincaré's work does show that the solar system is not stable in the long run, and that it is possible for the Earth to be ejected from the solar system in the future.

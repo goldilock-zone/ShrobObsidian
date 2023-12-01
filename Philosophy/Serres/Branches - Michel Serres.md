@@ -272,3 +272,133 @@ In summary, Popper's criterion for the exactness of science is that a theory mus
 # The Adoptive Son
 - Administration is a format that was invented by Hellenic monotheism
 - St. Paul: Coreligionist persecuted him, Philosophers mocked him, and 
+- He was a combination of identities i.e. the formats around him
+
+## Belongingness and Identity
+- my identity does not reduce to my belongingness
+- Confusing belonging as identity is a logical error
+- Subset definition of belongingness (x ∈ A
+- The Greeks' measures, norms and formats originated in belongingness
+- So at the opening of the first century of our era, the idea and behaviour of belongingness was covering the Mediterranean. Greek culture taught one belongingness, political and cosmic at the same time; Israel’s tradition passed on a second one, holy; Rome’s did so for a third one, juridical.
+
+## Hominization
+- Is basically the act of looking at identity through the lens of subjectivity and not belongingness
+- We feel the pain of giving birth to hominization
+- Don't hate the father: Should we accuse Einstein of anti-scientism because he amended Newton’s laws? He took them up in quitting them
+- We can't erase the ancestor (fathers) within us
+
+## Three Contingencies of Universal Consciousness
+- the [[Epistles]] give a new meaning to three terms: a verb, a noun and a subject.
+- ‘We walk in Faith, not in clear reason’, where reason is defined by binary logic
+- The very opposite of assurance; a fear that trembles between being and non-being; in short, a consciousness. The exit from every belongingness. This is how modern consciousness, single, double, multiple, trembling, thrown into time and eternity …, was born.
+- omnitude integrates faith and hope and plunges, with even less assurance, into the [[contingency]], fluctuating and dangerous, proper to relations.
+- The new self is constructed from a triple contingency: faith and doubt; hope that will be happy at an indeterminate time; bonds of unconditional Love. Three weaknesses, three strengths.
+
+# The evaluation of the I
+- The credo (effective), precedes the cogito(vague)
+- Courage alone separates I am from I have value. ‘I don’t know who I am’ is most often understood as ‘I don’t matter to anyone.’ Quitting the isolation of pure identity, the I throws itself into the network of relations of belongingness.
+- Somehow, this equation to existential questions as an indicator of worth leads to the metrification of treatments of the Other
+- As soon as he became radically alone, he sacrificed to collective values, wealth and hierarchy
+- Coming about like me, his Son resembles me in contingency, unexpectedness, poverty: born on straw, wandering like the homeless, condemned to the lowest of tortures, descending the scale of every collective value all the way down to zero. The incarnation makes the assessment from just now reality: the abstract zero accompanies the lake fishermen in flesh and blood and dies between two thieves. Ego equals zero.
+
+## Paul, Son
+- Let’s return to relations. Who dictates this error-free law, with hundreds of clauses, whose rule formats gestures and the minutes of the day? 
+- Son is not always right, doesn’t know everything, seeks, stumbles, wanders, makes mistakes, retraces his steps, risks error, blunders, the whip, the rocks under stoning, storms and shipwreck, hunger and thirst, prison, solitude, being let down in a basket along a wall of confinement
+- returning to blood ties recently caused us to regress towards archaic illnesses
+
+# The power of death and resurrection
+- Enslaved to the formats of reason, the master repeats. Regulated by the dialectic, like mechanical dolls, the master and the slave, in an apparent struggle, in reality obey the empire of death, each of them behaving like its slave. 
+
+## Dead Object
+- Far from fleeing death, we shaped it in Statues. Condemned men, repressed murderers, fascinated by death, we turn it into spectacle and story; it incessantly haunts our representations; maybe there is no representation except of it.
+
+## [[Renascent]] Object
+- Who am I? This bifurcation. The [[pairle]] of the [[escutcheon]], a figure crossing in chiasm. Exhausted, indefatigable. Spurned, passionately in love. Unconscious, keenly penetrating. Earth and air, crawling, flying. Water and fire, incandescent frost. Enthusiastic- indifferent. An athlete and an abortion, living, full of resources. Weight and grace. Headstrong, scatterbrained. Dormant-inert-carnal and awake-nascent-carnal. Lying, standing; pathetic, enterprising. Emotion and abstraction. Me and always other. Mixed-race, completed lefty, Educated-Third. Hermaphrodite. Angel and animal. Statue and music. On balance, crying with joy.
+
+## The Project of Immortality
+- En route. We only have one project, one future, one hope: the inventive victory over necessary and formatted death.
+- Our species became, is becoming and will become such for having mastered, more than space and things, time.
+- [[The Grand Narrative]]
+-  there is no death except the one that’s organized, desired, decided, celebrated, repeated by formats like those of the recent fundamentalist convulsions that are killing each other 
+
+## Charles Péguy, Brunetière, Fall 1906
+- The way that trees restore themselves is fascinating. 
+- Pruning, and the violence associated with it
+- An abandoned treetop is abandoned. Eternally. No regret, no remorse, no emotion. Nature is perfectly unaware of any type of consideration of that order.
+- genres, like all the humanities, arboresce
+- Genius proceeds much more simply. Or rather it proceeds absolutely simply
+
+
+# Event
+- Apparently people lived in the Black sea and the strait of dover, and then were killed when waters invaded these lands - this used to be the story of noah apparently
+- How should we define an event? As that bomb whose contingent newness interrupts a state of affairs that has been formatted for a long enough time to make people believe in its perenniality: a people was going about its business in calm, it disappeared; one family alone remained; an ancient lake of reduced dimensions expanded; a fragment of history bifurcated
+- The Bosphorous Rupture: but this rupture in truth also had an enormous impact
+- [[The Black Sea Deluge]]
+- expected effects remain similar to what precedes, the sequence plunges into a format that’s predictable by the ordinary rule of causality: the hours follow one another, duration flows
+
+## Nature and Cultures
+- In manipulating the atom, the chain of genes or cloning bacteria …, aren’t we playing with fire? 
+- The anxiety attached to the story of the sorcerer’s apprentice has affected [[Homo faber]] from its first productions and haunted our technologies and our sciences all the way up to this morning
+- Before chaos theory, Poincaré demonstrated ([[Poincare's demonstration that the solar system is a chaotic system]]) that the Earth could, without warning, leave the solar system and depart, it too.
+
+## Action and Thought
+-  Newness along with the things around him, things subjected to a suddenly broken law
+- Neither the tyrant nor the slave assesses their scope. Tomorrow, the former will fall, of himself, and the latter will scorn taking power in order to try to establish a less stupid world.
+- The "Branching" Theory of history is interesting: When Saint Paul announced the Good News, he grafted the Christian branch onto the Jewish tree and its Pharisean bough
+
+## Jubilation/Gambling
+- Fortune, sometimes, smiles on daringness, alone reasonable; learned ignorance thinks.
+
+## Four News Things
+- The old stem, present, continues to vibrate; the new branch forms the observable universe
+- Four new things – material bodies, universe, life, humanity … – can be summed up in a single word, nature. How should we define it? By its original meaning: that which was born, that which is born, that which will be born; that is, a narrative of newborn and contingent events that are unpredictable before they occur but formatted as a semi-necessary chain when drawn descending towards us.
+
+## Boredom
+- Each line falls into line with monotonous rules, always modelled on the same format of power and death
+- The universe is running to the big crunch, a terminal crushing, symmetrical to the big bang; the Sun is running towards its nova, the final explosion; stem cells are running towards a series of inhibitions; species are running towards their extinction; invention towards repetition; new thought towards litany; works towards commentary; violence towards violence, power towards power, both towards death
+
+## New Praise of Format
+- Training allows us to progress following the cadenced return of gestures and exercises.
+- There can be no life without the law-abiding return of the dawn nor can there be spring without the eternal return to the vernal point, no poetry without rhythm, no harmony without the anharmony of sevenths or style without the breaking of style, no solar system without the chaos that can make a planet bifurcate from its ellipse. Time runs towards entropy or, bifurcating, cadences the expansion of the universe and vital evolution.
+- Divergence, emergence. An exception to nothingness:
+
+## The Theory of Four Truths
+- Sciences, philosophies, arts, religions, politics … invent newnesses the way genes mutate or particles bifurcate.
+
+## Us, In this story
+- Merely objectively follow a succession of states of affairs but can transform the one who announces it and those who will hear it. 
+- At a point, a discontinuity breaks a continuous path. There, a catastrophe of cataracts, in a few days, interrupted centuries of ploughing
+- I wake up from my dogma; imitating, I invent; a trunk, I become a branch; fastened into the donkey skin, I exit. I convert. Dead, I am reborn.
+
+## The Ramification of Language
+- [[Plosives]], [[fricatives]], [[labiodentals]] …, consonants constrict the emission of vocalises or vowels in their passing. Lips, tongue, teeth and palate form complicated barriers, closures or baffles …, whose arrangement incessantly breaks, intersects and reorients the vocal flow. 
+- Do you seek to recount? Tell how language itself speaks. The form furnishes the content.
+
+## Branch-Time
+- Many linguists give the Latin tempus two opposing Greek roots, the verb τείνω teinō, to stretch out, continuously … and another one, τέμνω temno, to cut up or interrupt: again stem and branch.
+- Time mixes the continuousness of tension with the discontinuousness of rupture, a flux that flows with a filter that prevents it from passing
+- Pulverized by mutations and the deadly filter that is selection, evolution explodes into bouquets, droplets and jets of life
+
+## Disquietude
+- Time is measured by spring and disquietude.
+- In the same literal sense, existence drags me out of rest or removes me from equilibrium. Thus existence launches me into time.
+- I am disquieted, therefore I exist
+
+# Advent
+## How are we to be reborn? Through good encounter
+
+- How can it be denied that there was a before and an after
+
+## Autocatalysis
+- This is why: long ago, during a winter, it snowed a little there, at altitude. Very little, barely above equilibrium. But the thin layer deposited in that way did not melt the following summer, cooler than usual. These long cold spells arrived; no one noticed them. The next winter, it again snowed little but enough to cover over the previous snowfall, already frozen. 
+- Random chance and knock on effects
+
+## The birth of the earth and of a group
+- Yet, at the beginning, one grain no doubt encountered another grain, which, by themselves, attracted a bigger third one, which, already substantial, exerted a more considerable attraction. Thus a self-perpetuating cycle, whose steady-state regime and its limit, our planet, are known to us, formed this planet by accretion, so much so that it still burns inside with these impacts
+
+## Announcements
+- Given millennia of farces and dramas, guess which character is cited most often: the messenger
+
+## The Principle of Reason
+
+
