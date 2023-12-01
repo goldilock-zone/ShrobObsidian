@@ -240,13 +240,75 @@
 - Niels Bohr and Ludwig Wittgenstein, both of them as charismatic as they were obscure, their obscurities pointing toward the same sort of conclusion: a prohibition against asking the sorts of questions that seek to make a connection between the abstract thought of their respective disciplines and objective reality.
 - He certainly had never been afraid to privately dissent from the dominant views of his day; but there was a rigid reluctance to publicly voice his adversarial position in any terms other than conclusive proof.
 - Godel felt an ethical obligation to the ideas themselves, which is intriguing
+- Benacerraf/Putnam volumes:
+	- "Benacerraf-Putnam volume," is a collection of essays edited by Hilary Putnam and Paul Benacerraf. It was published in 1983 and is titled "Philosophy of Mathematics: Selected Readings." This volume is a significant and influential work in the philosophy of mathematics, and it covers a wide range of topics related to the foundations of mathematics, the existence of mathematical objects, mathematical truth, and the philosophy of Ludwig Wittgenstein as it pertains to mathematics. Here's a brief overview of each part:
+	
+	1. Part One: The Foundations of Mathematics:
+	   - This section addresses fundamental questions about the nature and epistemology of mathematical objects and mathematical knowledge.
+	   - It includes essays that discuss the philosophy of mathematics from various perspectives, including logicism, formalism, and intuitionism.
+	   - Key figures in this section include Gottlob Frege, Bertrand Russell, and Kurt Gödel.
+	
+	2. Part Two: The Existence of Mathematical Objects:
+	   - Part Two explores the ontological status of mathematical objects. Do mathematical objects exist independently of human thought, or are they merely human constructions?
+	   - Philosophers in this section discuss platonism, nominalism, and various other views on the existence of mathematical entities.
+	   - Prominent contributors to this section include Willard Van Orman Quine, Georg Cantor, and Kurt Gödel.
+	
+	3. Part Three: Mathematical Truth:
+	   - This section delves into questions related to the nature of mathematical truth and the objectivity of mathematical statements.
+	   - It considers the nature of mathematical propositions and whether mathematical truths are discovered or invented.
+	   - Essays in this section often engage with the works of Alfred North Whitehead and Bertrand Russell, among others.
+	
+	4. Part Four: Wittgenstein on Mathematics:
+	   - The final section of the volume focuses on Ludwig Wittgenstein's philosophy of mathematics.
+	   - Wittgenstein had a significant impact on the philosophy of language and thought, and his views on mathematics are explored here.
+	   - Wittgenstein's ideas about language games, rule-following, and the limits of language in discussing mathematical concepts are central themes in this section.
+	
+	Overall, the Benacerraf-Putnam volume is a comprehensive collection of essays that provides a deep exploration of various philosophical questions surrounding mathematics. It offers readers a diverse range of perspectives from some of the most influential philosophers in the field and remains an essential resource for anyone interested in the philosophy of mathematics.
+
+- Axiom of Choice:
+	Axiom of Choice. A simple version of the axiom is: For any set of nonempty disjoint sets (sets that have no members in common), there exists a set consisting of exactly one member of each of the non-empty sets. In other words, if you have a bunch of sets that don't overlap with each other, then, roughly speaking, you can form a set by choosing one member of each set in the bunch. (You really need the axiom only when the bunch is infinite.) Another way of stating the axiom of choice is: For any set of nonempty sets, there exists a function that assigns to each one of these non
+	empty sets one of its members. Infinitely many choices (hence the name of the axiom) may be required, which is why the axiom has received so much attention. The axiom is saying that a certain set exists, even though the set is not really specified or constructed. The axiom of choice is probably the second most discussed axiom of mathematics, right after Euclid's parallels postulate. Like the parallels postulate, the axiom of choice was proved to be independent of the other axioms, in this case of set theory
+
+- "mathematics was at that time strongly verjudet," (Jewified)
+- Godel escaped from Vienna, after being roughed up by the fascists
+- Godel's American citizenship story is very funny apparently
+- Gödel was a resident of the United States and applied for U.S. citizenship in 1948. During his citizenship examination, he did raise concerns about the Constitution's potential vulnerability to exploitation by individuals or groups that might use it to undermine democratic principles. However, this was more a philosophical discussion than a claim of finding a specific logical inconsistency in the Constitution.
+- [[Leibniz's Principle for Sufficient Reason]]
+- Apparently it was quite hard to set up a humanities section in the IAS
+- Godel really praised the development of [[Non Standard Analysis]]
+- [[Leibniz's Work]]
+- Godel was paranoid as heck
+- Godel died of Starvation
+- Both (Andre Weil and Kochen) men combined their strongly "legalistic" bent, in Kochen's words, with an otherworldly, almost surreal, ability to create self-contained worlds, worlds that might seem at first blush to run counter to logic but which are compounded of the very stuff of logic
+- Godel's and Einstein's views on time
+	Kurt Gödel's and Albert Einstein's notions of time are significant in the realms of mathematics, physics, and philosophy, but they represent very different perspectives and contexts. Here, I'll provide a brief comparison of their ideas on time:
+	
+	**Kurt Gödel's Notion of Time:**
+	
+	1. **Time as Absolute:** Gödel's work on the philosophy of time was primarily presented in his essay "A Remark About the Relationship Between Relativity Theory and Idealistic Philosophy." He argued against Einstein's theory of relativity and for the existence of an absolute notion of time.
+	
+	2. **Time as Measurable:** Gödel believed that time was an objectively measurable entity, independent of observers or relative frames of reference. He held that there exists a privileged notion of time in which events could be ordered universally.
+	
+	3. **Time Loops and Closed Timelike Curves:** In addition to his views on the nature of time, Gödel's work in mathematical logic led to the discovery of solutions to Einstein's field equations in general relativity that allowed for the possibility of closed timelike curves. This implied that time loops and time travel could theoretically exist within certain spacetime geometries.
+	
+	**Albert Einstein's Notion of Time:**
+	
+	1. **Time as Relative:** Einstein's theory of special relativity, formulated in 1905, introduced the idea that time is relative to the observer's motion. In this theory, time dilation occurs when an object moves at a significant fraction of the speed of light.
+	
+	2. **Unified Spacetime:** Einstein's theory of general relativity, developed in 1915, further expanded the idea of spacetime as a unified entity. In this framework, gravity is described as the curvature of spacetime caused by mass and energy, and time is intimately linked to the geometry of spacetime.
+	
+	3. **No Absolute Time:** Einstein's theories reject the concept of absolute time, suggesting that the passage of time is relative to an observer's motion and the presence of gravitational fields. There is no single, universally synchronized clock for all observers in the universe.
+	
+	In summary, Gödel and Einstein held contrasting views on the nature of time. Gödel argued for an absolute and measurable time, while Einstein's theories of relativity emphasized the relativity of time, dependent on the observer's perspective and gravitational conditions. Gödel's work, while influential in the philosophy of time, did not overturn the widely accepted principles of Einstein's theories, which have been extensively validated by empirical evidence.
+- Godel apparently did work in cosmology also
+- Godel deeply believed that time looped back on itself
 - 
 
-
-
 Words: 
+[[peripatetic]]
 [[Eschatological]]
 [[grist]]
 [[marginalia]]
 [[epigone]]
-
+[[Phlogiston Theory]]
+[[valetudinarian]]

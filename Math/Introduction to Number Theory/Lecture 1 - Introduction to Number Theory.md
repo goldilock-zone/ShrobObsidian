@@ -385,7 +385,6 @@ While this estimation method provides a good approximation for large values of \
 ---
 
 ## Aside: Zero's of the Riemann Zeta Function
-Certainly, here's the information about the zeros of the Riemann Zeta Function in the requested format:
 
 **Zeros of Riemann Zeta Function**
 
@@ -417,8 +416,6 @@ In summary, the zeros of the Riemann Zeta Function, particularly the non-trivial
 ---
 
 # Fundamental Theorem of Arithmetic 
-Certainly, here's the Fundamental Theorem of Arithmetic in the requested format:
-
 **Fundamental Theorem of Arithmetic**
 
 The Fundamental Theorem of Arithmetic is a fundamental result in number theory that states that every positive integer greater than 1 can be uniquely expressed as a product of prime numbers, up to the order of those primes.

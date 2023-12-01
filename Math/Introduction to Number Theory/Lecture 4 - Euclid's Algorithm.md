@@ -310,7 +310,7 @@ Combining these factors, the overall time complexity of the algorithm is dominat
 
 In comparison to the traditional long division method, which typically has a complexity of \( O(n^2) \) for two \( n \)-digit numbers, this binary method can be more efficient, especially for large numbers where binary operations are faster. However, the actual efficiency gain depends on the implementation and the specific numbers involved.
 
-# Anotyher LAternative Algoirthm ofr the above issue
+# Another Alternative Algorithm for the above issue
 An alternative algorithm for long division that involves division by two and subtraction, without converting to binary, can be designed using a method similar to the ancient Egyptian method of multiplication, which is based on doubling. This method, often referred to as the "Doubling and Halving" method, can be adapted for division. The algorithm focuses on factors of 2 and subtraction, utilizing the properties of even and odd numbers.
 
 ### Algorithm Overview:

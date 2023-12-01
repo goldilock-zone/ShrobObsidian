@@ -1,4 +1,3 @@
-Certainly, I'll follow the convention you've provided for the math notation. Here's the worksheet with the correct format:
 
 **Differential Equations and Exponential Growth/Decay Worksheet**
 

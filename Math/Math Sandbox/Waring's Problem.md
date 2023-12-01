@@ -31,7 +31,7 @@ Waring's Problem, proposed by the English mathematician Edward Waring in 1770, i
 Waring's Problem has been a driving force behind several developments in number theory, particularly in the areas of additive number theory and analytic number theory. It has stimulated research into efficient algorithms for computing representations and has deepened the understanding of the structure and behavior of numbers. The problem is emblematic of the depth and complexity that can arise from seemingly simple mathematical questions.
 
 # Concrete Example:
-Certainly, let's consider a concrete case of Waring's Problem by examining \( k = 3 \), that is, the representation of natural numbers as sums of cubes. In this case, the problem asks about the minimum number \( g(3) \) such that every positive integer can be expressed as the sum of at most \( g(3) \) cubes of integers.
+consider a concrete case of Waring's Problem by examining \( k = 3 \), that is, the representation of natural numbers as sums of cubes. In this case, the problem asks about the minimum number \( g(3) \) such that every positive integer can be expressed as the sum of at most \( g(3) \) cubes of integers.
 
 ### Waring's Problem for Cubes
 

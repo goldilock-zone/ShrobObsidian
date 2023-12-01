@@ -1,0 +1,5 @@
+The term "valetudinarian" is a somewhat old-fashioned word used to describe a person who is excessively concerned about their health or is constantly worried about being ill. It refers to someone who is overly anxious about their physical condition, often to the point of being hypochondriacal.
+
+In essence, a valetudinarian is someone who is preoccupied with their health, tends to complain about various minor discomforts, and may frequently seek medical attention for relatively minor issues. This term is typically used in a somewhat negative or critical context to describe someone who is perceived as excessively focused on their health to the detriment of other aspects of life.
+
+The word "valetudinarian" is less commonly used in modern language, and alternative terms like "hypochondriac" or "health obsessive" are often employed to convey a similar idea.

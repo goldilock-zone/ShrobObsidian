@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "83652f015a3bc95c",
+        "id": "82060712df5f949b",
         "type": "tabs",
         "children": [
           {
-            "id": "8a2eb823efcdfddc",
+            "id": "44f2c3a4fc025e1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophy/Philosophy Of Maths/Incompleteness - The Proof and Paradox of Kurt Godel.md",
+                "file": "Math/Introduction to Number Theory/Sandbox - Number Theory.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Certainly!",
+                "query": "Miller",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophy/Philosophy Of Maths/Incompleteness - The Proof and Paradox of Kurt Godel.md",
+                "file": "Math/Introduction to Number Theory/Sandbox - Number Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophy/Philosophy Of Maths/Incompleteness - The Proof and Paradox of Kurt Godel.md",
+                "file": "Math/Introduction to Number Theory/Sandbox - Number Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophy/Philosophy Of Maths/Incompleteness - The Proof and Paradox of Kurt Godel.md"
+                "file": "Math/Introduction to Number Theory/Sandbox - Number Theory.md"
               }
             }
           }
@@ -149,34 +149,34 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "8a2eb823efcdfddc",
+  "active": "44f2c3a4fc025e1d",
   "lastOpenFiles": [
-    "Richard's Paradox.md",
-    "Philosophy/Philosophy Of Maths/Incompleteness - The Proof and Paradox of Kurt Godel.md",
-    "Sandbox Research/chimerical belief.md",
-    "Math/Math Sandbox/symmetric group.md",
-    "Math/Math Sandbox/Foundations of Geometry.md",
-    "non-[[finitary reasoning.md",
-    "Math/Partial Differential Equations/Sandbox - Partial Differential Equations.md",
-    "automorphism.md",
-    "Math/Visual Group Theory/Lecture 3 - Groups in science, art and mathematics.md",
-    "Math/Visual Group Theory/Lecture 1 - What is a group.md",
-    "Math/Math Sandbox/Automorphisms.md",
-    "Math/Visual Group Theory/Lecture 2 - Cayley Graphs.md",
-    "D3 group.md",
-    "Klein 4-group.md",
-    "Philosophy/Philosophy of Ansatz.md",
-    "Math/Math Sandbox/Pollard's rho algorithm.md",
+    "Math/Introduction to Number Theory/Lecture 10 - Applications of Fermat's Little Theorem.md",
     "Math/Introduction to Number Theory/Sandbox - Number Theory.md",
-    "Philosophy/Logical Positivism.md",
-    "Math/Differential Equations/Lecture 3 - Euler's Method.md",
+    "Math/Introduction to Number Theory/Lecture 9 - Congruences and Fermat's Little Theorem.md",
+    "Carmichael numbers.md",
     "Math/Introduction to Number Theory/Lecture 2 - Survey of the Course.md",
+    "Philosophy/Philosophy Of Maths/Incompleteness - The Proof and Paradox of Kurt Godel.md",
+    "valetudinarian.md",
+    "Leibniz's Work.md",
+    "Phlogiston Theory.md",
+    "Non Standard Analysis.md",
+    "Leibniz's Principle for Sufficient Reason.md",
+    "peripatetic.md",
+    "Math/Math Sandbox/Ramsey Theory.md",
+    "Math/Math Sandbox/Waring's Problem.md",
+    "Sandbox Research/The Origin of the idea of Incompleteness.md",
+    "Philosophy/Philosophy of General and Particular Solutions.md",
+    "Sandbox Research/Moral Truths Are Du Jour Social Constructs.md",
+    "Sandbox Research/Meta Ontology.md",
+    "Math/Introduction to Number Theory/Lecture 8 - Binomial Coefficient 2.md",
+    "Math/Introduction to Number Theory/Lecture 6 - Multiplicative Functions.md",
+    "Math/Differential Equations/Lecture 5 - Initial Value Problems.md",
+    "Math/Differential Equations/Lecture 3 - Euler's Method.md",
+    "Math/Differential Equations/Lecture 1 - Problems.md",
     "Math/Introduction to Number Theory/Lecture 1 - Introduction to Number Theory.md",
-    "Math/Math Sandbox/Hilbert's Program.md",
-    "Code/Functional Programming/Functional Programming - Link to Expressions.md",
-    "Sandbox Research/Backus Naur Form.md",
-    "Math/Visual Group Theory/Sandbox - Visual Group Theory.md",
-    "Math/Introduction to Number Theory/Lecture 7 - Binomial Coefficient.md",
+    "Tools Sandbox/LaTEX intro.md",
+    "Code/Functional Programming/- Introduction.md",
     "Writing Prompts",
     "Pasted image 20231118103248.png",
     "Pasted image 20231116121750.png",

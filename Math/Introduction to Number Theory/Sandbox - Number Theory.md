@@ -6,4 +6,7 @@ https://www.youtube.com/playlist?list=PL8yHsr3EFj53L8sMbzIhhXSAOpuZ1Fov8
 [[Lecture 4 - Euclid's Algorithm]]
 [[Lecture 5 - Primes]]
 [[Lecture 6 - Multiplicative Functions]]
-[[Lecture 7 - Binomial Coefficient]]
+[[Lecture 7 - Binomial Coefficient 1]]
+[[Lecture 8 - Binomial Coefficient 2]]
+[[Lecture 9 - Congruences and Fermat's Little Theorem]]
+[[Lecture 10 - Applications of Fermat's Little Theorem]]

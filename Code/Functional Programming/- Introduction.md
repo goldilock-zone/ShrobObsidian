@@ -79,8 +79,6 @@ In the functional approach, we use mathematical concepts to generate the first `
 Functional programming encourages you to think in terms of functions, transformations, and mathematical abstractions, which can lead to more elegant and reusable code.
 
 # More involved examples
-Certainly, let's explore a more complicated example involving functional programming and abstraction. We'll use a common example involving a list of people and various data manipulations. In this example, we'll pseudocode and use mathematical functions to find the average age of all adults in a list of people.
-
 **Pseudocode Example:**
 
 Suppose we have a list of people, where each person is represented as a dictionary with attributes like name, age, and whether they are adults.

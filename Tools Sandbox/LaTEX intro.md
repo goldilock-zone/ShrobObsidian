@@ -1,4 +1,3 @@
-Certainly, LaTeX is a powerful typesetting system used extensively for producing scientific and mathematical documents due to its capability to handle complex notations and structures. Here's a brief overview of how LaTeX can be used, especially in the context of mathematics:
 
 ### Basic Structure
 

@@ -121,8 +121,6 @@ These approximations are derived by sequentially applying Euler's Method, using 
 
 # Rigorous Explanation:
 
-Certainly, let's reformulate Euler's Method adhering to the prescribed format, with distinct separation of mathematical expressions and text for clarity and precision.
-
 ### Definitions
 
 1. **Ordinary Differential Equation (ODE):**

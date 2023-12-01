@@ -290,8 +290,6 @@ This relationship plays a role in the formulation of the Riemann Hypothesis, one
 The Möbius function's values encapsulate the essence of the multiplicative structure of the integers and reflect the intricate balance between order and chaos in prime factorization. Its properties make it a fundamental object in various fields of mathematics, including algebraic number theory, combinatorics, and analytic number theory.
 
 # Generating Perfect Numbers
-Certainly, let's delve into the concept of a generating function for perfect numbers, adhering to the prescribed format.
-
 ### The Enigma of Perfect Numbers
 
 A perfect number is an integer that equals the sum of its positive divisors, excluding itself. Mathematically, if $n$ is a perfect number, then:

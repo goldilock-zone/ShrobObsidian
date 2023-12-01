@@ -44,7 +44,6 @@ with the initial condition \(y(0) = 1\).
 
 In this example, the initial condition was crucial in determining the unique solution that satisfies both the differential equation and the condition \(y(0) = 1\). Without this condition, the solution would remain general, encompassing an infinite number of possible solutions represented by different values of \(C\).
 
-Certainly. Let's consider three distinct initial value problems (IVPs), each involving a different type of ordinary differential equation (ODE). The approach to solving these will showcase various methods and the crucial role of initial conditions in obtaining specific solutions.
 
 ### Example 1: Linear First-Order ODE
 

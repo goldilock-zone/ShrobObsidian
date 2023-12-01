@@ -7,8 +7,6 @@ Hilbert's work on completeness led to the development of what is known as "[[Hil
 In summary, David Hilbert was the mathematician who first brought forth the idea of completeness in formal systems, as part of his broader efforts to establish a complete and consistent foundation for all of mathematics. Gödel's incompleteness theorems later demonstrated the limitations of achieving this goal.
 
 # Work that has already been done
-Certainly, here's a pointwise breakdown of the status of Hilbert's 23 problems:
-
 Solved Problems or Significant Progress:
 
 1. **The Continuum Hypothesis**: Unsolved, but it's known to be undecidable within standard set theory (ZFC).

@@ -84,6 +84,9 @@ If \( a^{N-1} \) is not congruent to \( 1 \) modulo \( N \) for any chosen \( a 
 This is a basic approach to primality testing using Fermat's Little Theorem, but it's important to note that there are more efficient and reliable algorithms available for practical primality testing, especially for large numbers.
 
 # Miller Rabin Test
+
+^b62d2d
+
 1. **Representation of \( n \):** 
    If \( n \) is prime and \( n > 2 \), it can be written as 
    $$
@@ -234,7 +237,7 @@ Notes: [[Waring's Problem]]
 ### 7. Density and Counting
 
 - **Aspect:** Additive number theory also deals with the density of certain sets of integers and counting functions related to additive properties.
-- **Example:** The density of prime numbers as described by the Prime Number Theorem.
+- **Example:** The density of prime numbers as described by the Prime Number Theorem. ^c16ae1
 
 ### 8. Connections to Other Areas
 
@@ -328,9 +331,6 @@ Algebraic number theory is a branch of mathematics that deals with the generaliz
 ### Conclusion
 
 Algebraic number theory is a rich and deep field, expanding the horizons of classical number theory into more abstract realms. It provides a framework for understanding numbers at a more fundamental level, revealing beautiful structures and properties that have significant implications both within mathematics and in practical applications like cryptography.
-
-
-Certainly, let's revisit Fermat's theorem on sums of two squares with a more structured format using the \( \$$\$ \) notation for mathematical expressions.
 
 
 # Fermat's Theorem on Sums of Two Squares

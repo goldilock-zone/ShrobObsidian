@@ -1,4 +1,4 @@
-Certainly, here are some examples of "social constructs du jour," which are social constructs that are currently prevalent or fashionable in particular societies or contexts. Keep in mind that these constructs can evolve over time:
+
 
 1. **Gender Identity**: In recent years, there has been a growing awareness and acceptance of diverse gender identities beyond the traditional binary concept of male and female. Non-binary, genderqueer, and other gender identities have gained recognition and are discussed as important social constructs du jour.
 
