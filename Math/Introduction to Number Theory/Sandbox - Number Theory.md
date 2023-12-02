@@ -10,3 +10,5 @@ https://www.youtube.com/playlist?list=PL8yHsr3EFj53L8sMbzIhhXSAOpuZ1Fov8
 [[Lecture 8 - Binomial Coefficient 2]]
 [[Lecture 9 - Congruences and Fermat's Little Theorem]]
 [[Lecture 10 - Applications of Fermat's Little Theorem]]
+[[Lecture 11 - Euler's Theorem]]
+[[Lecture 12 - Wilson's Theorem]]

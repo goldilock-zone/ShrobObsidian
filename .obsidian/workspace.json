@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Introduction to Number Theory/Sandbox - Number Theory.md",
+                "file": "Lecture 12 - Wilson's Theorem.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Miller",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Introduction to Number Theory/Sandbox - Number Theory.md",
+                "file": "Lecture 12 - Wilson's Theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Introduction to Number Theory/Sandbox - Number Theory.md",
+                "file": "Lecture 12 - Wilson's Theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Introduction to Number Theory/Sandbox - Number Theory.md"
+                "file": "Lecture 12 - Wilson's Theorem.md"
               }
             }
           }
@@ -152,32 +151,37 @@
   },
   "active": "44f2c3a4fc025e1d",
   "lastOpenFiles": [
-    "Math/Introduction to Number Theory/Lecture 10 - Applications of Fermat's Little Theorem.md",
     "Math/Introduction to Number Theory/Sandbox - Number Theory.md",
-    "Math/Introduction to Number Theory/Lecture 9 - Congruences and Fermat's Little Theorem.md",
-    "Carmichael numbers.md",
-    "Math/Introduction to Number Theory/Lecture 2 - Survey of the Course.md",
-    "Philosophy/Philosophy Of Maths/Incompleteness - The Proof and Paradox of Kurt Godel.md",
-    "valetudinarian.md",
-    "Leibniz's Work.md",
-    "Phlogiston Theory.md",
-    "Non Standard Analysis.md",
-    "Leibniz's Principle for Sufficient Reason.md",
-    "peripatetic.md",
-    "Math/Math Sandbox/Ramsey Theory.md",
-    "Math/Math Sandbox/Waring's Problem.md",
-    "Sandbox Research/The Origin of the idea of Incompleteness.md",
-    "Philosophy/Philosophy of General and Particular Solutions.md",
-    "Sandbox Research/Moral Truths Are Du Jour Social Constructs.md",
-    "Sandbox Research/Meta Ontology.md",
-    "Math/Introduction to Number Theory/Lecture 8 - Binomial Coefficient 2.md",
-    "Math/Introduction to Number Theory/Lecture 6 - Multiplicative Functions.md",
-    "Math/Differential Equations/Lecture 5 - Initial Value Problems.md",
-    "Math/Differential Equations/Lecture 3 - Euler's Method.md",
-    "Math/Differential Equations/Lecture 1 - Problems.md",
-    "Math/Introduction to Number Theory/Lecture 1 - Introduction to Number Theory.md",
-    "Tools Sandbox/LaTEX intro.md",
-    "Code/Functional Programming/- Introduction.md",
+    "Lecture 12 - Wilson's Theorem.md",
+    "Math/Introduction to Number Theory/Lecture 11 - Euler's Theorem.md",
+    "Math/Math Sandbox/Carmichael's function.md",
+    "Pasted image 20231029154110.png",
+    "Pasted image 20231116074427.png",
+    "Pasted image 20231202102027.png",
+    "Philosophy/Philosophy Of Maths/Philosophy of Mathematics, Selected Readings - Bencerraf and Putnam.md",
+    "Sandbox Research/pairle.md",
+    "Philosophy/Philosophy Sandbox/A Theory of Self Perpetuating Sillyness.md",
+    "Philosophy/Philosophy Sandbox/The Grand Narrative.md",
+    "Philosophy/Philosophy Sandbox/Propositional Logic.md",
+    "Philosophy/Philosophy Sandbox/Philosophy of General and Particular Solutions.md",
+    "Philosophy/Philosophy Sandbox/Philosophy of Ansatz.md",
+    "Philosophy/Philosophy Sandbox/Philosophical Interpretation of Lukasiewicz Logic.md",
+    "Philosophy/Philosophy Sandbox/Philosophical Collective Animal.md",
+    "Philosophy/Philosophy Sandbox/Logical Positivism.md",
+    "Philosophy/Philosophy Sandbox/Leibniz's Principle for Sufficient Reason.md",
+    "Philosophy/Philosophy Sandbox/Is Art Meaningless.md",
+    "Philosophy/Philosophy Sandbox/Homo faber.md",
+    "Philosophy/Philosophy Sandbox/Generated Philosophy Handbook.md",
+    "Philosophy/Philosophy Sandbox/contingency.md",
+    "Philosophy/Philosophy Sandbox/Categorical Logic.md",
+    "Philosophy/Philosophy Sandbox/The Rich Have Their Own Ethics.md",
+    "Philosophy/Philosophy Sandbox",
+    "Philosophy/New folder",
+    "Math/Introduction to Number Theory/Lecture 10 - Applications of Fermat's Little Theorem.md",
+    "Math/Logic/Logic Lecture 4 - Terms, Predicates and Quantifiers.md",
+    "Math/Logic/Logic Lecture 3 - Common Tautologies and Indirect Proofs.md",
+    "Sandbox Research/valetudinarian.md",
+    "Sandbox Research/Renascent.md",
     "Writing Prompts",
     "Pasted image 20231118103248.png",
     "Pasted image 20231116121750.png",
@@ -186,9 +190,6 @@
     "Pasted image 20231116080741.png",
     "Pasted image 20231116080730.png",
     "Pasted image 20231116080151.png",
-    "Pasted image 20231116075608.png",
-    "Pasted image 20231116075349.png",
-    "Pasted image 20231116074427.png",
     "ShrobObsidian/Sandbox Research",
     "ShrobObsidian",
     "Philosophy/Philosophy Of Maths",
@@ -197,8 +198,6 @@
     "Tools Sandbox",
     "Code/Functional Programming",
     "Code",
-    "Sandbox Research",
-    "Math/Introduction to Number Theory/Lecture 1 - Introduction to Number Theory.html",
     "Untitled.canvas"
   ]
 }
