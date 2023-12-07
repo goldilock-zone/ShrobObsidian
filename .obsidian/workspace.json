@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Scribble - Nov 23/14 Daily Scribbles 6-12-2023.md",
+                "file": "Daily Scribble - Nov 23/15 Daily Scribble 07-12-2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e0b21696e3cdf1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Introduction to Number Theory/Lecture 13 - Chinese Remainder Theorem.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Scribble - Nov 23/14 Daily Scribbles 6-12-2023.md",
+                "file": "Math/Introduction to Number Theory/Lecture 13 - Chinese Remainder Theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Scribble - Nov 23/14 Daily Scribbles 6-12-2023.md",
+                "file": "Math/Introduction to Number Theory/Lecture 13 - Chinese Remainder Theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Scribble - Nov 23/14 Daily Scribbles 6-12-2023.md"
+                "file": "Math/Introduction to Number Theory/Lecture 13 - Chinese Remainder Theorem.md"
               }
             }
           }
@@ -149,15 +162,18 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "44f2c3a4fc025e1d",
+  "active": "6e0b21696e3cdf1b",
   "lastOpenFiles": [
-    "Daily Scribble - Nov 23/13 Daily Scribble 03-12-2023.md",
-    "Daily Scribble - Nov 23/14 Daily Scribbles 6-12-2023.md",
-    "Daily Scribble - Nov 23/12 Daily Scribble 27-11-2023.md",
-    "Lecture 12 - Wilson's Theorem.md",
+    "Daily Scribble - Nov 23/15 Daily Scribble 07-12-2023.md",
+    "Math/Introduction to Number Theory/Lecture 13 - Chinese Remainder Theorem.md",
     "Math/Introduction to Number Theory/Sandbox - Number Theory.md",
+    "Math/Introduction to Number Theory/Lecture 12 - Wilson's Theorem.md",
+    "Philosophy/Philosophy Sandbox/Is Art Meaningless.md",
     "Math/Introduction to Number Theory/Lecture 11 - Euler's Theorem.md",
+    "Daily Scribble - Nov 23/14 Daily Scribbles 6-12-2023.md",
     "Math/Math Sandbox/Carmichael's function.md",
+    "Daily Scribble - Nov 23/13 Daily Scribble 03-12-2023.md",
+    "Daily Scribble - Nov 23/12 Daily Scribble 27-11-2023.md",
     "Pasted image 20231029154110.png",
     "Pasted image 20231116074427.png",
     "Pasted image 20231202102027.png",
@@ -172,7 +188,6 @@
     "Philosophy/Philosophy Sandbox/Philosophical Collective Animal.md",
     "Philosophy/Philosophy Sandbox/Logical Positivism.md",
     "Philosophy/Philosophy Sandbox/Leibniz's Principle for Sufficient Reason.md",
-    "Philosophy/Philosophy Sandbox/Is Art Meaningless.md",
     "Philosophy/Philosophy Sandbox/Homo faber.md",
     "Philosophy/Philosophy Sandbox/Generated Philosophy Handbook.md",
     "Philosophy/Philosophy Sandbox/contingency.md",
@@ -180,8 +195,6 @@
     "Philosophy/Philosophy Sandbox/The Rich Have Their Own Ethics.md",
     "Philosophy/Philosophy Sandbox",
     "Philosophy/New folder",
-    "Math/Introduction to Number Theory/Lecture 10 - Applications of Fermat's Little Theorem.md",
-    "Math/Logic/Logic Lecture 4 - Terms, Predicates and Quantifiers.md",
     "Writing Prompts",
     "Pasted image 20231118103248.png",
     "Pasted image 20231116121750.png",
