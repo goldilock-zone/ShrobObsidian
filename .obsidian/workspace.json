@@ -13,26 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Scribble - Nov 23/15 Daily Scribble 07-12-2023.md",
+                "file": "Math/GPT Style Guide Prompt.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6e0b21696e3cdf1b",
+            "id": "0c373c5a23bc2342",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Introduction to Number Theory/Lecture 13 - Chinese Remainder Theorem.md",
+                "file": "Sandbox Research/Aura and Noosphere.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Is art meaningless",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Introduction to Number Theory/Lecture 13 - Chinese Remainder Theorem.md",
+                "file": "Math/GPT Style Guide Prompt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Introduction to Number Theory/Lecture 13 - Chinese Remainder Theorem.md",
+                "file": "Math/GPT Style Guide Prompt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Introduction to Number Theory/Lecture 13 - Chinese Remainder Theorem.md"
+                "file": "Math/GPT Style Guide Prompt.md"
               }
             }
           }
@@ -162,13 +161,18 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "6e0b21696e3cdf1b",
+  "active": "44f2c3a4fc025e1d",
   "lastOpenFiles": [
-    "Daily Scribble - Nov 23/15 Daily Scribble 07-12-2023.md",
-    "Math/Introduction to Number Theory/Lecture 13 - Chinese Remainder Theorem.md",
-    "Math/Introduction to Number Theory/Sandbox - Number Theory.md",
-    "Math/Introduction to Number Theory/Lecture 12 - Wilson's Theorem.md",
+    "Sandbox Research/Aura and Noosphere.md",
     "Philosophy/Philosophy Sandbox/Is Art Meaningless.md",
+    "Lecture 14 - Euler's Totient Function.md",
+    "Math/GPT Style Guide Prompt.md",
+    "Pasted image 20231208075715.png",
+    "Math/Introduction to Number Theory/Sandbox - Number Theory.md",
+    "Math/Introduction to Number Theory/Lecture 13 - Chinese Remainder Theorem.md",
+    "Daily Scribble - Nov 23/15 Daily Scribble 07-12-2023.md",
+    "Coset and Coset Representatives.md",
+    "Math/Introduction to Number Theory/Lecture 12 - Wilson's Theorem.md",
     "Math/Introduction to Number Theory/Lecture 11 - Euler's Theorem.md",
     "Daily Scribble - Nov 23/14 Daily Scribbles 6-12-2023.md",
     "Math/Math Sandbox/Carmichael's function.md",
@@ -189,10 +193,6 @@
     "Philosophy/Philosophy Sandbox/Logical Positivism.md",
     "Philosophy/Philosophy Sandbox/Leibniz's Principle for Sufficient Reason.md",
     "Philosophy/Philosophy Sandbox/Homo faber.md",
-    "Philosophy/Philosophy Sandbox/Generated Philosophy Handbook.md",
-    "Philosophy/Philosophy Sandbox/contingency.md",
-    "Philosophy/Philosophy Sandbox/Categorical Logic.md",
-    "Philosophy/Philosophy Sandbox/The Rich Have Their Own Ethics.md",
     "Philosophy/Philosophy Sandbox",
     "Philosophy/New folder",
     "Writing Prompts",
@@ -202,7 +202,6 @@
     "Pasted image 20231116080825.png",
     "Pasted image 20231116080741.png",
     "Pasted image 20231116080730.png",
-    "Pasted image 20231116080151.png",
     "ShrobObsidian/Sandbox Research",
     "ShrobObsidian",
     "Philosophy/Philosophy Of Maths",

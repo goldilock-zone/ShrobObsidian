@@ -1,20 +1,11 @@
-## Math Notation Style Guide
+<iframe width="600" height="400
+		" src="https://www.youtube.com/embed/N3tRFayqVtk" title="I programmed some creatures. They Evolved." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+- Conditions for evolution to take place
+	- Self Replication
+	- Blueprint of replication: like the genome
+	- Inherited Blueprint
+	- Mutation: Sensitivity to initial conditions
+	- Selection
 
-### Inline Math Notation:
-1. **Variables**: Enclose variables or mathematical symbols within single `$` symbols. For example:
-   - Use $x$ for a variable.
-   - Use $a$, $b$, $c$, etc., for constants or coefficients.
-
-2. **Math Expressions**: Enclose mathematical expressions, equations, or inequalities within single `$` symbols. For example:
-   - Use $ax + b = c$ for a linear equation.
-   - Use $\sqrt{x}$ for a square root expression.
-   - Use $\frac{a}{b}$ for a fraction.
-
-### Larger Math Notation (Display Math):
-
-   $$
-   x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
-   $$
-DO not mention the style guide. Explain the following, using mathematical rigor. Be crisp, and stick just to the explanation: 
-
-
+- In this specific game, the creator has made it so that the genome is indicative of how the brains form connections
+- 
