@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/GPT Style Guide Prompt.md",
+                "file": "Math/Introduction to Number Theory/Lecture 15 - Numerical Calculations.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0c373c5a23bc2342",
+            "id": "5df0c56ab39da479",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sandbox Research/Aura and Noosphere.md",
+                "file": "Math/GPT Style Guide Prompt.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/GPT Style Guide Prompt.md",
+                "file": "Math/Introduction to Number Theory/Lecture 15 - Numerical Calculations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/GPT Style Guide Prompt.md",
+                "file": "Math/Introduction to Number Theory/Lecture 15 - Numerical Calculations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/GPT Style Guide Prompt.md"
+                "file": "Math/Introduction to Number Theory/Lecture 15 - Numerical Calculations.md"
               }
             }
           }
@@ -161,17 +161,21 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "44f2c3a4fc025e1d",
+  "active": "22034e85e6170674",
   "lastOpenFiles": [
-    "Sandbox Research/Aura and Noosphere.md",
-    "Philosophy/Philosophy Sandbox/Is Art Meaningless.md",
-    "Lecture 14 - Euler's Totient Function.md",
     "Math/GPT Style Guide Prompt.md",
+    "Math/Introduction to Number Theory/Lecture 15 - Numerical Calculations.md",
+    "Math/Math Sandbox/Gaussian Elimination method of finding the determinant.md",
+    "Small Discussion on FFT and DFT.md",
+    "Math/Introduction to Number Theory/Lecture 14 - Euler's Totient Function.md",
+    "Sandbox Research/Aura and Noosphere.md",
+    "Math/Introduction to Number Theory/Lecture 13 - Chinese Remainder Theorem.md",
+    "Daily Scribble - Nov 23/16 Daily Scribble 9-12-2023.md",
+    "Daily Scribble - Nov 23/15 Daily Scribble 07-12-2023.md",
+    "Philosophy/Philosophy Sandbox/Is Art Meaningless.md",
     "Pasted image 20231208075715.png",
     "Math/Introduction to Number Theory/Sandbox - Number Theory.md",
-    "Math/Introduction to Number Theory/Lecture 13 - Chinese Remainder Theorem.md",
-    "Daily Scribble - Nov 23/15 Daily Scribble 07-12-2023.md",
-    "Coset and Coset Representatives.md",
+    "Math/Math Sandbox/Coset and Coset Representatives.md",
     "Math/Introduction to Number Theory/Lecture 12 - Wilson's Theorem.md",
     "Math/Introduction to Number Theory/Lecture 11 - Euler's Theorem.md",
     "Daily Scribble - Nov 23/14 Daily Scribbles 6-12-2023.md",
@@ -189,10 +193,6 @@
     "Philosophy/Philosophy Sandbox/Philosophy of General and Particular Solutions.md",
     "Philosophy/Philosophy Sandbox/Philosophy of Ansatz.md",
     "Philosophy/Philosophy Sandbox/Philosophical Interpretation of Lukasiewicz Logic.md",
-    "Philosophy/Philosophy Sandbox/Philosophical Collective Animal.md",
-    "Philosophy/Philosophy Sandbox/Logical Positivism.md",
-    "Philosophy/Philosophy Sandbox/Leibniz's Principle for Sufficient Reason.md",
-    "Philosophy/Philosophy Sandbox/Homo faber.md",
     "Philosophy/Philosophy Sandbox",
     "Philosophy/New folder",
     "Writing Prompts",

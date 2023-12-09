@@ -489,3 +489,4 @@ Hence, we have proved that:
 $$ \sum_{d|n} \varphi(d) = n. $$
 
 This is an outline of the proof. The actual details would involve a careful application of the principle of inclusion-exclusion to account for all the intersections of the sets $A_d$.
+
