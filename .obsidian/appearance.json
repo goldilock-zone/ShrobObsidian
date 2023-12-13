@@ -1,4 +1,5 @@
 {
-  "accentColor": "",
-  "baseFontSize": 19
+  "accentColor": "#eaf55c",
+  "baseFontSize": 19,
+  "interfaceFontFamily": "Cambria Math"
 }
