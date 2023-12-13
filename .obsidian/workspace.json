@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Introduction to Number Theory/Lecture 20 Hensel's Lemma and Newton's Method Contd. and p-adic Numbers.md",
+                "file": "Math/Introduction to Number Theory/Lecture 21 - Congruences Modulo a prime.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Introduction to Number Theory/Lecture 20 Hensel's Lemma and Newton's Method Contd. and p-adic Numbers.md",
+                "file": "Math/Introduction to Number Theory/Lecture 21 - Congruences Modulo a prime.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Introduction to Number Theory/Lecture 20 Hensel's Lemma and Newton's Method Contd. and p-adic Numbers.md",
+                "file": "Math/Introduction to Number Theory/Lecture 21 - Congruences Modulo a prime.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Introduction to Number Theory/Lecture 20 Hensel's Lemma and Newton's Method Contd. and p-adic Numbers.md"
+                "file": "Math/Introduction to Number Theory/Lecture 21 - Congruences Modulo a prime.md"
               }
             }
           }
@@ -165,13 +165,15 @@
   "active": "5df0c56ab39da479",
   "lastOpenFiles": [
     "Math/GPT Style Guide Prompt.md",
-    "Math/Introduction to Number Theory/Lecture 20 Hensel's Lemma and Newton's Method Contd. and p-adic Numbers.md",
-    "Math/Introduction to Number Theory/Lecture 19 - Hensel and Newton's Method.md",
-    "Math/Introduction to Number Theory/Lecture 13 - Chinese Remainder Theorem.md",
+    "Math/Introduction to Number Theory/Lecture 21 - Congruences Modulo a prime.md",
+    "Untitled.md",
     "Math/Introduction to Number Theory/Lecture 18 - Cryptography.md",
+    "Math/Introduction to Number Theory/Lecture 19 - Hensel and Newton's Method.md",
+    "Math/Introduction to Number Theory/Lecture 20 Hensel's Lemma and Newton's Method Contd. and p-adic Numbers.md",
+    "Math/Introduction to Number Theory/Lecture 17 - Factorization.md",
+    "Math/Introduction to Number Theory/Lecture 13 - Chinese Remainder Theorem.md",
     "Quantum Fourier Transform (QFT).md",
     "Daily Scribble/2023-12-11.md",
-    "Math/Introduction to Number Theory/Lecture 17 - Factorization.md",
     "Math/Introduction to Number Theory/Lecture 16 - Numerical Calculations.md",
     "Math/Math Sandbox/Carmichael numbers.md",
     "Math/Introduction to Number Theory/Lecture 1 - Introduction to Number Theory - Revisited.md",
@@ -189,9 +191,7 @@
     "Sandbox Research/Aura and Noosphere.md",
     "Daily Scribble/16 Daily Scribble 9-12-2023.md",
     "Daily Scribble/15 Daily Scribble 07-12-2023.md",
-    "Philosophy/Philosophy Sandbox/Is Art Meaningless.md",
     "Pasted image 20231208075715.png",
-    "Math/Introduction to Number Theory/Sandbox - Number Theory.md",
     "Pasted image 20231029154110.png",
     "Pasted image 20231116074427.png",
     "Pasted image 20231202102027.png",

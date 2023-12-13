@@ -502,3 +502,75 @@ Furthermore, the sequence $\{x_n\}$ converges to a $p$-adic integer $x$ such tha
 The proof of this theorem involves an induction argument on $n$, using Hensel's Lemma to lift solutions from $p^n$ to $p^{n+1}$ while ensuring convergence to the desired square root of $a$ in the $p$-adic integers.
 
 This theorem provides a reliable method for detecting square $p$-adic numbers by leveraging the properties of squares modulo $p$ and the lifting capabilities of Hensel's Lemma.
+
+# Differentiation of p-adic numbers
+**Differentiation for $p$-adic Numbers**:
+
+To understand differentiation in the context of $p$-adic numbers, we need to consider how it parallels and differs from differentiation in the real numbers. While real numbers follow the rules of classical calculus, $p$-adic numbers introduce unique characteristics that influence differentiation.
+
+**Differentiation in Real Numbers**:
+
+In the real number system, differentiation is a well-established concept. Given a real-valued function $f(x)$ defined on an interval in $\mathbb{R}$, we can find its derivative $f'(x)$, which represents the rate of change of $f(x)$ with respect to $x$. The process of differentiation relies on the limit definition:
+
+$$
+f'(x) = \lim_{{h \to 0}} \frac{f(x + h) - f(x)}{h}
+$$
+
+This definition captures the local behavior of functions and enables us to calculate slopes of tangent lines and critical points.
+
+**Differentiation in $p$-adic Numbers**:
+
+In contrast, differentiation in $p$-adic numbers introduces unique challenges due to the different nature of the $p$-adic metric. The $p$-adic metric measures how "close" two $p$-adic numbers are by considering their highest power of $p$ at which they differ. 
+
+When attempting to define differentiation in $p$-adic numbers, we encounter some notable differences:
+
+1. **Non-Archimedean Property**: $p$-adic numbers exhibit a non-Archimedean property, where numbers can be arbitrarily close in the $p$-adic metric without being infinitesimally close. This contrasts with the real numbers, where the Archimedean property holds.
+
+2. **Convergence**: The notion of convergence in $p$-adic numbers differs from real numbers. A sequence of $p$-adic numbers is said to converge if the $p$-adic norm (a measure of "closeness" in the $p$-adic metric) approaches $0$ as we move along the sequence. Convergence in the $p$-adic metric can lead to different results than convergence in the real metric.
+
+3. **Derivative Definitions**: The definition of a derivative in the $p$-adic numbers is not as straightforward as in the real numbers. While one can define a $p$-adic derivative using a similar difference quotient as in the real case, the non-Archimedean property and unique properties of $p$-adic numbers can lead to unexpected results.
+
+Overall, differentiation in $p$-adic numbers is an area of ongoing research and exploration. Mathematicians have developed $p$-adic analysis to study functions and calculus-like operations in the $p$-adic number system. Understanding how differentiation behaves in $p$-adic numbers is essential for solving problems in various mathematical fields, such as number theory and algebraic geometry, where $p$-adic numbers play a significant role.
+
+# Finding roots through iteration - using Reals and p-adics
+
+Fixed point root iteration is a numerical method used to approximate the roots of a given equation. It is essential to understand the convergence properties of this method in both real numbers and p-adic numbers.
+
+## Real Numbers
+
+In the context of real numbers, consider a real-valued function $f(x)$ and the equation $f(x) = 0$. The fixed-point iteration method for finding a root of this equation involves iteratively applying the function $g(x)$ such that $x_{n+1} = g(x_n)$.
+
+### Convergence Criteria
+For the fixed-point iteration to converge in real numbers, the following conditions must be met:
+
+1. **Existence of a Fixed Point**: There must exist a real number $r$ such that $g(r) = r$. In other words, $r$ is a fixed point of the function $g(x)$.
+
+2. **Local Lipschitz Continuity**: The function $g(x)$ must be locally Lipschitz continuous in a neighborhood around the fixed point $r$. This means that there exists a constant $L < 1$ and a neighborhood $N_r$ of $r$ such that for all $x, y \in N_r$, we have $|g(x) - g(y)| \leq L|x - y|$.
+
+### Convergence Theorem
+If the above conditions are satisfied, then the fixed-point iteration converges to the fixed point $r$. Mathematically:
+
+**Theorem**: Let $x_{n+1} = g(x_n)$ be a fixed-point iteration with a fixed point $r$ for a real-valued function $g(x)$. If $g$ is locally Lipschitz continuous in a neighborhood $N_r$ of $r$ and $\lim_{n\to\infty} x_n = r$, then $r$ is a root of the equation $f(x) = 0$, where $f(x) = x - g(x)$.
+
+### Example
+Consider the equation $x^3 - 2x - 5 = 0$. We can rewrite it as $x = \frac{1}{2}(x^3 - 5)$. Here, $g(x) = \frac{1}{2}(x^3 - 5)$, and it can be shown that $g$ is locally Lipschitz continuous in a neighborhood of the real root $r \approx 2.0946$. The fixed-point iteration $x_{n+1} = g(x_n)$ converges to this root.
+
+## p-Adic Numbers
+
+In the context of p-adic numbers, let $p$ be a prime number. We consider the equation $f(x) = 0$ in the field of p-adic numbers.
+
+### p-Adic Valuation
+The p-adic valuation $v_p(x)$ of a non-zero p-adic number $x$ is defined as the highest power of $p$ that divides $x$. For example, $v_2(12) = 2$ because $2^2$ is the highest power of 2 dividing 12.
+
+### p-Adic Convergence
+A sequence $(x_n)$ of p-adic numbers converges to a p-adic number $x$ if, for any positive integer $N$, there exists an integer $M$ such that $v_p(x_n - x) \geq N$ for all $n \geq M$. In other words, the valuations of the differences $v_p(x_n - x)$ become arbitrarily large as $n$ goes to infinity.
+
+### Convergence Theorem
+The convergence of fixed-point iteration in p-adic numbers is quite different from the real numbers. There is no analog of the Lipschitz continuity condition. Instead, fixed-point iteration in p-adic numbers converges for a wide range of functions without any such requirement.
+
+**Theorem**: Let $x_{n+1} = g(x_n)$ be a fixed-point iteration for a p-adic field, and let $r$ be a fixed point of $g(x)$ in the p-adic numbers. Then, the sequence $(x_n)$ converges to $r$ in the p-adic topology.
+
+### Example
+Consider the equation $x^2 - 2 = 0$ in the 2-adic numbers. The fixed-point iteration $x_{n+1} = \frac{1}{2}(x_n + \frac{2}{x_n})$ converges to the 2-adic square root of 2, which is a 2-adic number that satisfies $x^2 = 2$. The convergence is achieved in the p-adic topology without any Lipschitz continuity requirement.
+
+In summary, fixed-point root iteration converges in both real numbers and p-adic numbers under certain conditions. In real numbers, Lipschitz continuity is crucial, while in p-adic numbers, convergence can be achieved without such a condition.
