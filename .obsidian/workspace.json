@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Certainly",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -164,11 +164,12 @@
   },
   "active": "5df0c56ab39da479",
   "lastOpenFiles": [
-    "Math/Math Sandbox/combinatorial nullstellensatz (nutella muesli).md",
+    "Math/GPT Style Guide Prompt.md",
     "Math/Introduction to Number Theory/Lecture 23 - Primitive Roots.md",
+    "Math/Introduction to Number Theory/Lecture 14 - Euler's Totient Function.md",
+    "Math/Math Sandbox/combinatorial nullstellensatz (nutella muesli).md",
     "Math/Introduction to Number Theory/Lecture 22 - Chevalley Warning Theorem.md",
     "Daily Scribble/2023-12-14.md",
-    "Math/GPT Style Guide Prompt.md",
     "Math/Math Sandbox/Zermelo-Fraenkel.md",
     "Sandbox Research/chimerical belief.md",
     "Sandbox Research/Leibniz's Work.md",
@@ -191,7 +192,6 @@
     "Math/Introduction to Number Theory/Lecture 18 - Cryptography.md",
     "Math/Introduction to Number Theory/Lecture 19 - Hensel and Newton's Method.md",
     "Math/Introduction to Number Theory/Lecture 20 Hensel's Lemma and Newton's Method Contd. and p-adic Numbers.md",
-    "Math/Introduction to Number Theory/Lecture 17 - Factorization.md",
     "Math/NumberTheory",
     "Pasted image 20231208075715.png",
     "Pasted image 20231029154110.png",
