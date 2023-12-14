@@ -1,0 +1,7 @@
+In algebra, a finite field, often denoted as $\mathbb{F}_p$ or GF$(p)$ for some prime $p$, is a field that contains a finite number of elements. A field is a set equipped with two operations, addition and multiplication, satisfying certain axioms that you would expect from operations similar to rational or real number arithmetic, such as associativity, commutativity, distributivity, the existence of additive and multiplicative identities, and the existence of additive and multiplicative inverses for every non-zero element.
+
+The notation $\mathbb{F}_p$ specifically refers to the finite field with $p$ elements, where $p$ is a prime number. This field can be constructed using the integers modulo $p$, which are $\{0, 1, 2, ..., p-1\}$. Addition and multiplication in this field are defined as addition and multiplication of integers, followed by taking the remainder after division by $p$ (modulo $p$ operation).
+
+The axioms of field theory ensure that every element $a$ in $\mathbb{F}_p$ except $0$ has a multiplicative inverse $a^{-1}$ such that $a \cdot a^{-1} \equiv 1 \mod p$. Additionally, every non-zero element of $\mathbb{F}_p$ raised to the power $p-1$ will be congruent to $1$ modulo $p$, as stated by Fermat's Little Theorem.
+
+Finite fields are foundational in many areas of mathematics, including number theory, algebraic geometry, and combinatorics. They are also crucial in applications such as cryptography, coding theory, and error-correcting codes.

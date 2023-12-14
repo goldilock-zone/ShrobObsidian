@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Introduction to Number Theory/Lecture 21 - Congruences Modulo a prime.md",
+                "file": "finite field extensions.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 207.5
   },
   "right": {
     "id": "b0cce6cc3b6811ef",
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Introduction to Number Theory/Lecture 21 - Congruences Modulo a prime.md",
+                "file": "finite field extensions.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Introduction to Number Theory/Lecture 21 - Congruences Modulo a prime.md",
+                "file": "finite field extensions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Introduction to Number Theory/Lecture 21 - Congruences Modulo a prime.md"
+                "file": "finite field extensions.md"
               }
             }
           }
@@ -165,32 +165,34 @@
   "active": "5df0c56ab39da479",
   "lastOpenFiles": [
     "Math/GPT Style Guide Prompt.md",
-    "Math/Introduction to Number Theory/Lecture 21 - Congruences Modulo a prime.md",
+    "finite field extensions.md",
+    "Math/Math Sandbox/Norms of Field Extensions.md",
+    "algebraic closure.md",
+    "Math/Introduction to Number Theory/Lecture 22 - Chevalley Warning Theorem.md",
+    "Math/Introduction to Number Theory/Textbook.md",
+    "Math/Introduction to Number Theory/Lecture 11 - Euler's Theorem.md",
+    "Math/Introduction to Number Theory/Lecture 9 - Congruences and Fermat's Little Theorem.md",
+    "Math/Introduction to Number Theory/Lecture 8 - Binomial Coefficient 2.md",
+    "Math/Introduction to Number Theory/Lecture 7 - Binomial Coefficient 1.md",
+    "Daily Scribble/2023-12-14.md",
     "Untitled.md",
+    "Math/Math Sandbox/combinatorial nullstellensatz.md",
+    "Math/Math Sandbox/finite field.md",
+    "finite field $/mathbb{F}_p$.md",
+    "finite field $",
+    "Math/Introduction to Number Theory/Lecture 21 - Congruences Modulo a prime.md",
+    "Math/Math Sandbox/Applications Of Homography.md",
+    "Pasted image 20231214071814.png",
     "Math/Introduction to Number Theory/Lecture 18 - Cryptography.md",
     "Math/Introduction to Number Theory/Lecture 19 - Hensel and Newton's Method.md",
     "Math/Introduction to Number Theory/Lecture 20 Hensel's Lemma and Newton's Method Contd. and p-adic Numbers.md",
     "Math/Introduction to Number Theory/Lecture 17 - Factorization.md",
     "Math/Introduction to Number Theory/Lecture 13 - Chinese Remainder Theorem.md",
-    "Quantum Fourier Transform (QFT).md",
+    "Math/Math Sandbox/Quantum Fourier Transform (QFT).md",
     "Daily Scribble/2023-12-11.md",
     "Math/Introduction to Number Theory/Lecture 16 - Numerical Calculations.md",
     "Math/Math Sandbox/Carmichael numbers.md",
-    "Math/Introduction to Number Theory/Lecture 1 - Introduction to Number Theory - Revisited.md",
     "Math/NumberTheory",
-    "Math/Math Sandbox/Worst Case Exponential, but average case polynomial time.md",
-    "Math/Introduction to Number Theory/Lecture 5 - Primes.md",
-    "Math/Introduction to Number Theory/Lecture 7 - Binomial Coefficient 1.md",
-    "Math/Introduction to Number Theory/Lecture 8 - Binomial Coefficient 2.md",
-    "Math/Introduction to Number Theory/Lecture 12 - Wilson's Theorem.md",
-    "Math/Introduction to Number Theory/Lecture 11 - Euler's Theorem.md",
-    "Math/Introduction to Number Theory/Lecture 15 - Numerical Calculations.md",
-    "Math/Math Sandbox/Gaussian Elimination method of finding the determinant.md",
-    "Math/Math Sandbox/Small Discussion on FFT and DFT.md",
-    "Math/Introduction to Number Theory/Lecture 14 - Euler's Totient Function.md",
-    "Sandbox Research/Aura and Noosphere.md",
-    "Daily Scribble/16 Daily Scribble 9-12-2023.md",
-    "Daily Scribble/15 Daily Scribble 07-12-2023.md",
     "Pasted image 20231208075715.png",
     "Pasted image 20231029154110.png",
     "Pasted image 20231116074427.png",
@@ -203,14 +205,12 @@
     "Pasted image 20231116083152.png",
     "Pasted image 20231116080825.png",
     "Pasted image 20231116080741.png",
-    "Pasted image 20231116080730.png",
     "ShrobObsidian/Sandbox Research",
     "ShrobObsidian",
     "Philosophy/Philosophy Of Maths",
     "PlayerIncentiveSimulator/ConceptNote.canvas",
     "Math/Modular Forms",
     "Tools Sandbox",
-    "Code/Functional Programming",
     "Untitled.canvas"
   ]
 }

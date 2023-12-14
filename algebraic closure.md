@@ -1,0 +1,12 @@
+An algebraic closure of a field $F$ is a field extension $\overline{F}$ of $F$ such that every non-constant polynomial in $F[x]$ has a root in $\overline{F}$. Moreover, $\overline{F}$ is algebraically closed, meaning that every non-constant polynomial in $\overline{F}[x]$ has a root in $\overline{F}$ itself. The algebraic closure is unique up to an isomorphism fixing $F$.
+
+To elaborate, if $F$ is a field, then an algebraic closure $\overline{F}$ is a field containing $F$ with two main properties:
+
+1. Every polynomial $p(x) \in F[x]$ of degree at least one has at least one root in $\overline{F}$.
+2. The field $\overline{F}$ is algebraically closed, which implies that every polynomial $p(x) \in \overline{F}[x]$ splits into linear factors in $\overline{F}[x]$, or equivalently, if $q(x) \in \overline{F}[x]$ and $q(x)$ is non-constant, then there exists $\alpha \in \overline{F}$ such that $q(\alpha) = 0$.
+
+The existence of an algebraic closure is guaranteed by Zorn's Lemma, a form of the Axiom of Choice, which asserts the existence of a maximal element in every non-empty partially ordered set in which every chain (i.e., totally ordered subset) has an upper bound. Applying Zorn's Lemma to the set of all algebraic extensions of $F$ ordered by inclusion, one can show there exists a maximal algebraic extension, which is an algebraic closure of $F$.
+
+The uniqueness of the algebraic closure, up to isomorphism, is ensured by the fact that if $\overline{F}_1$ and $\overline{F}_2$ are two algebraic closures of $F$, then there exists an isomorphism $\phi: \overline{F}_1 \to \overline{F}_2$ that is the identity on $F$. This is proved using the fact that any two algebraic closures of $F$ are isomorphic as fields, and this isomorphism can be chosen to fix $F$ pointwise because the elements of $F$ are already algebraically closed in $\overline{F}_1$ and $\overline{F}_2$.
+
+An interesting inquiry might be the examination of the structure of the algebraic closure for specific fields, such as $\mathbb{Q}$, the field of rational numbers, whose algebraic closure is the field of algebraic numbers $\overline{\mathbb{Q}}$. Each element of $\overline{\mathbb{Q}}$ is a root of some non-zero polynomial with coefficients in $\mathbb{Q}$. This leads to further investigation into the properties of algebraic numbers, their degrees, and the fields they generate over $\mathbb{Q}$.

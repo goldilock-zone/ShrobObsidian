@@ -230,3 +230,157 @@ We want to show that the numerator of $S$ when expressed with a common denominat
    Since $S$ is a sum of integers each of which is congruent to $1$ modulo $p$, and there are $p-1$ such integers, $S$ is congruent to $p-1$ modulo $p$, which is congruent to $-1$ modulo $p$. Hence, $S$ is divisible by $p$ in the sense that when all terms of $S$ are brought to a common denominator, the numerator will be a multiple of $p$.
 
 This proof strategy relies on the fact that in the ring of integers modulo $p$, every element except $0$ has a multiplicative inverse. It also uses the concept that the sum of all elements in this field is $0$ except for the special cases where the elements are their own inverses. The notation and structure used in this proof are standard for a rigorous mathematical argument.
+
+# $f(x) \equiv 0 \mod p$ and its solutions
+
+To address the problem given $f(x) \equiv 0 \mod p$, we must apply concepts from number theory, particularly those dealing with congruences and modular arithmetic. The prime number $p$ is the modulus for our congruences.
+
+1. **Existence of Solutions:**
+    - The existence of solutions to the congruence $f(x) \equiv 0 \mod p$ is guaranteed if $f(x)$ is a polynomial with integer coefficients. This is because the polynomial can be evaluated at all elements of $\mathbb{Z}/p\mathbb{Z}$, the set of integers modulo $p$, and for each such evaluation, the result will be an element of $\mathbb{Z}/p\mathbb{Z}$. If $f(x)$ has a degree $n$, then by the Factor Theorem for polynomials over a field, there are at most $n$ distinct solutions modulo $p$.
+
+2. **Number of Solutions:**
+    - The number of solutions can be determined using the structure of $\mathbb{Z}/p\mathbb{Z}$ as a finite field when $p$ is prime. A non-zero polynomial $f(x)$ of degree $n$ over a field cannot have more than $n$ roots unless it is the zero polynomial (which is congruent to $0$ for all $x$). Therefore, there are at most $n$ solutions modulo $p$.
+
+3. **Finding the Solutions:**
+    - To find the actual solutions, one would typically factor $f(x)$ over the field $\mathbb{Z}/p\mathbb{Z}$. If $f(x)$ can be factored into linear factors, then the solutions are the roots of those linear factors. However, factoring polynomials over finite fields can be non-trivial and may require algorithms such as the Berlekamp algorithm or the Cantor–Zassenhaus algorithm.
+
+**Proof and Theorems:**
+
+- **Factor Theorem**: If $f(x)$ is a polynomial over a field and $a$ is a root of $f(x)$, then $(x-a)$ is a factor of $f(x)$.
+
+- **Fermat's Little Theorem**: For a prime $p$ and an integer $a$ not divisible by $p$, $a^{p-1} \equiv 1 \mod p$. This theorem is often used to reduce the powers of integers modulo $p$ and is helpful in polynomial factorization.
+
+- **Fundamental Theorem of Algebra**: Every non-zero, single-variable, degree $n$ polynomial with complex coefficients has, counted with multiplicity, exactly $n$ complex roots. This theorem extends to finite fields for the number of distinct roots.
+
+For an explicit example, consider the polynomial $f(x) = x^2 - 1$. We want to solve $f(x) \equiv 0 \mod p$. We can factor $f(x)$ as $(x-1)(x+1)$, so the solutions to $f(x) \equiv 0 \mod p$ are $x \equiv 1 \mod p$ and $x \equiv -1 \mod p$ or equivalently $x \equiv p-1 \mod p$.
+
+This is a simple case, and generally, for higher degree polynomials or those that do not factor easily, more sophisticated techniques would be necessary.
+
+To proceed with a specific $f(x)$, please provide the explicit form of the polynomial.
+
+#  $x^p - x$ is sparse
+
+To determine how the polynomial $x^p - x$ is sparse, we need to consider its structure and properties.
+
+**Definition**: A polynomial is considered sparse if it has a relatively small number of non-zero coefficients compared to its degree.
+
+In the given polynomial $x^p - x$, the highest power of $x$ is $p$, which makes it a polynomial of degree $p$. To analyze its sparsity, we must examine its coefficients.
+
+**Coefficient Analysis**:
+1. The coefficient of $x^p$ is 1.
+2. The coefficient of $x$ is -1.
+3. All other coefficients are 0.
+
+Now, let's consider the degree and the number of non-zero coefficients:
+- The degree of the polynomial is $p$.
+- There are only two non-zero coefficients, which are 1 and -1.
+
+Given that the polynomial has a degree of $p$ but only two non-zero coefficients, it can be observed that as $p$ increases, the ratio of non-zero coefficients to the degree decreases significantly. This behavior is indicative of a sparse polynomial.
+
+To summarize, the polynomial $x^p - x$ is sparse because it has a relatively small number of non-zero coefficients (two) compared to its degree $p$. Further exploration may reveal additional insights into its sparsity based on different values of $p$.
+
+# GCD of a sparse polynomial
+To factorize and find the greatest common divisor (GCD) of a sparse polynomial, we can employ techniques based on polynomial factorization and GCD computation. Let's consider these processes separately:
+
+**Factorization of a Sparse Polynomial**:
+
+Factorization of a sparse polynomial involves expressing it as a product of irreducible factors. We can utilize the following theorem:
+
+**Theorem**: Every polynomial of degree greater than zero can be factored into a product of irreducible polynomials over a field.
+
+The process of factorization typically involves finding the roots of the polynomial and expressing it as a product of linear factors and irreducible factors corresponding to higher-degree roots.
+
+1. **Roots and Linear Factors**:
+   - Find the roots of the sparse polynomial by solving the equation $P(x) = 0$, where $P(x)$ represents the polynomial.
+   - Express the polynomial as a product of linear factors corresponding to its roots.
+
+2. **Irreducible Factors**:
+   - If there are any remaining factors after expressing the polynomial as a product of linear factors, these are the irreducible factors.
+
+**Finding the GCD of Sparse Polynomials**:
+
+To find the GCD of two sparse polynomials, we can use the Euclidean algorithm for polynomial GCD computation. This algorithm is based on polynomial division and utilizes the following theorem:
+
+**Theorem**: If $A(x)$ and $B(x)$ are two polynomials over a field, then their GCD $D(x)$ is the unique monic polynomial of highest degree that divides both $A(x)$ and $B(x)$.
+
+The Euclidean algorithm involves repeated polynomial divisions until the remainder becomes zero. The GCD is the polynomial obtained at this point.
+
+1. **Polynomial Division**:
+   - Use polynomial division to find the quotient $Q(x)$ and remainder $R(x)$ when dividing the first polynomial by the second: $A(x) = B(x)Q(x) + R(x)$.
+
+2. **Update Polynomials**:
+   - Set $A(x)$ to be the divisor, and $B(x)$ to be the remainder from the previous division.
+   - Repeat the polynomial division until the remainder is zero.
+
+3. **GCD Determination**:
+   - The GCD is the non-zero polynomial obtained in the final step.
+
+In summary, factorizing and finding the GCD of sparse polynomials involves techniques such as polynomial factorization based on roots and irreducible factors, as well as the Euclidean algorithm for GCD computation. The specific characteristics of sparse polynomials may impact the efficiency of these processes, and further exploration can reveal their computational properties.
+
+# Discussion on the factorization and gcd of $x^p - x$ 
+The degree of the polynomial $x^p - x$ over the field $\mathbb{Z}/p\mathbb{Z}$, where $p$ is a prime, is $p$. By Fermat's Little Theorem, for any integer $a$ that is not divisible by $p$, $a^p \equiv a \mod p$. Hence, for every element $a$ in $\mathbb{Z}/p\mathbb{Z}$, $a^p - a \equiv 0 \mod p$. Consequently, $x^p - x$ vanishes for all $x$ in $\mathbb{Z}/p\mathbb{Z}$, and since there are $p$ elements in $\mathbb{Z}/p\mathbb{Z}$, $x^p - x$ can be expressed as the product of all linear factors $x - a$, where $a$ ranges over all elements of $\mathbb{Z}/p\mathbb{Z}$. This demonstrates that $x^p - x$ is a multiple of every linear polynomial $x - a$ in $\mathbb{Z}/p\mathbb{Z}$.
+
+For the computation of the greatest common divisor (gcd) of $x^p - x$ and another polynomial $f(x)$ in $\mathbb{Z}/p\mathbb{Z}$, one may employ the Euclidean Algorithm. The gcd of $x^p - x$ and $f(x)$ reveals the roots of $f(x)$ in the field $\mathbb{Z}/p\mathbb{Z}$, corresponding to the shared factors. The gcd computation can be expedited if $f(x)$ is sparse, meaning most of its coefficients are zero, allowing for an optimized algorithmic approach.
+
+Considering sparse polynomials, they are characterized by having a few non-zero terms. Their sparsity can be leveraged to improve the efficiency of polynomial operations, such as multiplication or finding gcd, especially within the structure of a finite field.
+
+The Russian Peasant Method, historically used for multiplication, is an algorithm predicated on the binary representation of numbers and can be adapted for efficient exponentiation in modular arithmetic, an operation necessary for computations in finite fields. This method can be particularly useful when applied to polynomials in the context of $\mathbb{Z}/p\mathbb{Z}$, where exponentiation modulo $p$ is a common task.
+
+Applying these principles and methods in finite field arithmetic requires an understanding of the underlying algebraic structures. For instance, the Euclidean Algorithm's application to polynomials in $\mathbb{Z}/p\mathbb{Z}$ is grounded in the Division Algorithm, which guarantees the existence of a quotient and remainder for any two polynomials, where the degree of the remainder is less than that of the divisor.
+
+The Euclidean Algorithm proceeds by iterative application of the Division Algorithm to the pair of polynomials, reducing the degree at each step, until a zero remainder is obtained. The last non-zero remainder in this process is the gcd of the original pair of polynomials.
+
+If specific polynomials are given, these methods can be illustrated concretely to find the gcd, demonstrating the roots of the polynomial in the finite field $\mathbb{Z}/p\mathbb{Z}$ and thereby the factors of the polynomial that are linear polynomials $x - a$.
+
+# Euler's Method to check if a number if a quadratic residue
+
+Euler's criterion states that for a prime $p$ and an integer $a$ not divisible by $p$, $a$ is a square modulo $p$ (a quadratic residue) if and only if:
+
+$$
+a^{\frac{p-1}{2}} \equiv \pm 1 \mod p
+$$
+
+Here's a brief proof of Euler's criterion:
+
+### Proof:
+
+1. **Fermat's Little Theorem**: For any integer $a$ and a prime $p$ not dividing $a$, it is known that $a^{p-1} \equiv 1 \mod p$.
+
+2. **Group Theory**: The multiplicative group of non-zero elements modulo $p$, denoted by $(\mathbb{Z}/p\mathbb{Z})^*$, is a group with $p-1$ elements. If $a$ is a square, then it is an element of the subgroup of squares (quadratic residues), which has $\frac{p-1}{2}$ elements. If $a$ is not a square, it is not in this subgroup.
+
+3. **Lagrange's Theorem**: This theorem in group theory states that the order of a subgroup divides the order of the group. Thus, the order of any element (in this case, $a$) divides the order of the group, which is $p-1$.
+
+4. **Squares and Non-Squares**: If $a$ is a square, then $a$ is in the subgroup of quadratic residues, and its order must divide the subgroup's order, which is $\frac{p-1}{2}$. Thus, $a^{\frac{p-1}{2}} \equiv 1 \mod p$. If $a$ is not a square, then its order must be the same as the entire group, which is $p-1$, because if it were less, it would divide $\frac{p-1}{2}$, implying that $a$ is a square, which is a contradiction.
+
+5. **Euler's Criterion**: From the above, if $a$ is a square, then raising $a$ to the power of $\frac{p-1}{2}$ gives $1$. If $a$ is not a square, it cannot give $1$, and by the properties of the multiplicative group modulo $p$, it must give the only other element of order $2$, which is $-1$.
+
+So, Euler's criterion gives us a fast way to test if $a$ is a quadratic residue modulo $p$ without having to actually find a square root. This is particularly useful in cryptographic algorithms and primality testing.
+
+# Example of extended case of Euler's Criterion
+
+### Explanation of Concepts:
+
+1. **Divisibility in Modular Arithmetic**: The statement begins by considering an integer $d$ that divides a prime number $p$ minus one, $d | (p-1)$. It then states that $x^d \equiv 1 \mod p$ has exactly $d$ roots. This is a consequence of the structure of the group of units modulo $p$, which is a cyclic group of order $p-1$. If $d$ divides $p-1$, there is a subgroup of order $d$, and by Lagrange's Theorem, elements of this subgroup raised to the power of $d$ will be congruent to $1$ mod $p$.
+
+2. **Divisibility of Polynomials**: The image mentions that $(x^{p-1} - 1)$ is divisible by $(x^d - 1)$ if $d$ divides $p-1$. This is a result of the fact that the polynomial $x^{p-1} - 1$ has $p-1$ roots in the field of integers modulo $p$, and by the division algorithm for polynomials, if $d | (p-1)$, then $x^{d} - 1$ divides $x^{p-1} - 1$.
+
+3. **Substitution of Variables**: The notation $(y^n - 1)$ divisible by $y$ where $y = x^d$ and $n = \frac{p-1}{d}$ suggests a change of variables. This is used to show that when you raise $y$ to the power of $n$, you get $x^{p-1}$, and since $y = x^d$, it shows that $(x^{p-1} - 1)$ is divisible by $(x^d - 1)$ by substituting $x^d$ with $y$.
+
+4. **Greatest Common Divisor (GCD)**: The image ends with an expression suggesting that the greatest common divisor of $(x^{p-1} - 1)$ and $(x^d - 1)$ is equal to $(x^d - 1)$. This is true because, as stated earlier, $(x^d - 1)$ divides $(x^{p-1} - 1)$, which implies that $(x^d - 1)$ is the largest polynomial (in terms of degree) that divides both, hence it is their GCD.
+
+### Connection to Euler's Criterion:
+
+The concepts relate to Euler's criterion in the sense that they both deal with the properties of integers and polynomials in modular arithmetic. Euler's criterion gives a quick check for quadratic residues, while the concepts in the image explore the roots of unity modulo a prime $p$ and how divisibility among polynomials corresponds to the structure of the cyclic group modulo $p$. The relationship between $d$ and $p-1$ in the image is akin to the relationship between $a$ and $p$ in Euler's criterion, where powers of $a$ modulo $p$ reveal information about the residue class of $a$.
+
+### In-Depth Analysis:
+
+In group theory and number theory, understanding the order of elements and subgroups allows us to make predictions about the behavior of powers of elements in those groups. For instance, the multiplicative group of integers modulo $p$ is cyclic and has order $p-1$. If we have a divisor $d$ of $p-1$, then by group theory, there exists an element (or elements) of order $d$ in this group. The polynomials $(x^{p-1} - 1)$ and $(x^d - 1)$ can be seen as expressions that relate to the cyclic nature of the group. The roots of these polynomials correspond to elements of the group that satisfy the equations $x^{p-1} \equiv 1 \mod p$ and $x^d \equiv 1 \mod p$ respectively.
+
+When we have $d | (p-1)$, the group of units modulo $p$ has a subgroup whose order is $d$. This subgroup is generated by an element $g$ such that $g^d \equiv 1 \mod p$. In terms of polynomials, this means that $g$ is a root of both polynomials $x^{p-1} - 1$ and $x^d - 1$. The fundamental theorem of algebra applied in the context of modulo $p$ arithmetic ensures that the polynomial $x^{p-1} - 1$ can be factored into linear factors corresponding to each of these roots, and
+
+ the polynomial $x^d - 1$ will appear as a factor in this factorization due to the divisibility relation.
+
+Furthermore, Euler's criterion comes into play when considering the exponents $(p-1)/2$ and $(d-1)/2$ in the context of quadratic residues and non-residues. The criterion provides a way to determine whether a given number $a$ is a quadratic residue modulo $p$ without factoring or finding actual square roots, which aligns with the exploration of roots and factors.
+
+
+

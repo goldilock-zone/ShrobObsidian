@@ -27,6 +27,9 @@ Your response should consider the following:
    "+++++++++++++++++++++++++++++++++++++++++"
    Make sure to consider the WHOLE question
 7. Consistently use the style guide throughout the solutions produced.
+8. Satiate my mathematical curiosity to the fullest, and be curious yourself. Attempt to apply techniques and formats that allow more curiosity. 
+9. Stick to the math's, don't say anything else.
+10. Use only, and only, theorems, lemmas, corollaries, results and definitions, and stick the  format of a mathematics textbook
    
    DO not mention the style guide. Use mathematical rigor. Be crisp, and stick just to the explanation. Explain the following:
    "+++++++++++++++++++++++++++++++++++++++++"
