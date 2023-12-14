@@ -341,3 +341,27 @@ In this discussion, we will explore two common methods for finding primitive roo
 ## Conclusion
 
 Both methods are valid for finding primitive roots modulo a prime number, but their efficiency differs. The Euler's totient function approach is generally more efficient, especially for large primes, as it avoids checking all possible candidates. However, it requires knowledge of prime factorization and Euler's totient function. The brute force approach is straightforward but less efficient for large primes due to its linear time complexity. The choice of method depends on the specific requirements and constraints of the problem.
+
+# No. of primitive roots = $\phi(\phi(m))$
+
+Here's the proof:
+
+A primitive root modulo $n$ is defined as an integer $g$ such that its powers generate the entire group $(\mathbb{Z}/n\mathbb{Z})^*$. The order of this group is $\phi(n)$, which is the number of integers less than $n$ that are coprime to $n$. If $g$ is a primitive root, then it has order $\phi(n)$.
+
+For $g$ to be a primitive root, $g^k$ must not be equal to $1$ modulo $n$ for any $k$ such that $0 < k < \phi(n)$. In other words, the exponent $k$ must be coprime to $\phi(n)$. The number of such $k$ is given by $\phi(\phi(n))$.
+
+To prove that $\phi(\phi(n))$ gives the number of primitive roots modulo $n$, we need to show that each integer less than $\phi(n)$ and coprime to $\phi(n)$ will give a distinct primitive root when used as an exponent for any primitive root $g$. This is due to the property that the powers of $g$ to these exponents will cycle through all elements of $(\mathbb{Z}/n\mathbb{Z})^*$ without repetition.
+
+**Proof:**
+
+1. Let $g$ be a primitive root modulo $n$. This means $g^{\phi(n)} \equiv 1 \pmod{n}$, and no lower power of $g$ is congruent to $1$ modulo $n$.
+
+2. For each $k$ such that $\gcd(k, \phi(n)) = 1$, the number $g^k$ will also be a primitive root. This is because the set $\{g^k | \gcd(k, \phi(n)) = 1\}$ will cycle through all elements of the group without repetition due to the coprimality ensuring that the powers do not "overlap" before reaching the full cycle of $\phi(n)$ elements.
+
+3. Since there are $\phi(\phi(n))$ such integers $k$, there are $\phi(\phi(n))$ distinct primitive roots.
+
+4. This argument holds only if primitive roots exist, which they do if and only if $n$ is of the form $2$, $4$, $p^k$, or $2p^k$ for an odd prime $p$ and an integer $k \geq 1$.
+
+Therefore, for such $n$, the number of primitive roots is exactly $\phi(\phi(n))$. This concludes the proof.
+
+It's important to note that this result does not apply to integers $n$ that do not have primitive roots, such as composite numbers that are not powers of an odd prime nor twice such powers.
