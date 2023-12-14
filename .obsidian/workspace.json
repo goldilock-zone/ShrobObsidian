@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "finite field extensions.md",
+                "file": "Math/Introduction to Number Theory/Lecture 23 - Primitive Roots.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Carmich",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "finite field extensions.md",
+                "file": "Math/Introduction to Number Theory/Lecture 23 - Primitive Roots.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "finite field extensions.md",
+                "file": "Math/Introduction to Number Theory/Lecture 23 - Primitive Roots.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "finite field extensions.md"
+                "file": "Math/Introduction to Number Theory/Lecture 23 - Primitive Roots.md"
               }
             }
           }
@@ -164,19 +164,24 @@
   },
   "active": "5df0c56ab39da479",
   "lastOpenFiles": [
-    "Math/GPT Style Guide Prompt.md",
-    "finite field extensions.md",
-    "Math/Math Sandbox/Norms of Field Extensions.md",
-    "algebraic closure.md",
+    "Math/Math Sandbox/combinatorial nullstellensatz (nutella muesli).md",
+    "Math/Introduction to Number Theory/Lecture 23 - Primitive Roots.md",
     "Math/Introduction to Number Theory/Lecture 22 - Chevalley Warning Theorem.md",
+    "Daily Scribble/2023-12-14.md",
+    "Math/GPT Style Guide Prompt.md",
+    "Math/Math Sandbox/Zermelo-Fraenkel.md",
+    "Sandbox Research/chimerical belief.md",
+    "Sandbox Research/Leibniz's Work.md",
+    "Math/Math Sandbox/Ansatz.md",
+    "Math/Math Sandbox/finite field extensions.md",
+    "Math/Math Sandbox/Norms of Field Extensions.md",
+    "Math/Math Sandbox/algebraic closure.md",
     "Math/Introduction to Number Theory/Textbook.md",
     "Math/Introduction to Number Theory/Lecture 11 - Euler's Theorem.md",
     "Math/Introduction to Number Theory/Lecture 9 - Congruences and Fermat's Little Theorem.md",
     "Math/Introduction to Number Theory/Lecture 8 - Binomial Coefficient 2.md",
     "Math/Introduction to Number Theory/Lecture 7 - Binomial Coefficient 1.md",
-    "Daily Scribble/2023-12-14.md",
     "Untitled.md",
-    "Math/Math Sandbox/combinatorial nullstellensatz.md",
     "Math/Math Sandbox/finite field.md",
     "finite field $/mathbb{F}_p$.md",
     "finite field $",
@@ -187,11 +192,6 @@
     "Math/Introduction to Number Theory/Lecture 19 - Hensel and Newton's Method.md",
     "Math/Introduction to Number Theory/Lecture 20 Hensel's Lemma and Newton's Method Contd. and p-adic Numbers.md",
     "Math/Introduction to Number Theory/Lecture 17 - Factorization.md",
-    "Math/Introduction to Number Theory/Lecture 13 - Chinese Remainder Theorem.md",
-    "Math/Math Sandbox/Quantum Fourier Transform (QFT).md",
-    "Daily Scribble/2023-12-11.md",
-    "Math/Introduction to Number Theory/Lecture 16 - Numerical Calculations.md",
-    "Math/Math Sandbox/Carmichael numbers.md",
     "Math/NumberTheory",
     "Pasted image 20231208075715.png",
     "Pasted image 20231029154110.png",

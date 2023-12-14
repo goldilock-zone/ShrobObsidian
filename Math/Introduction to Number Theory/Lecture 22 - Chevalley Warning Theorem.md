@@ -20,7 +20,7 @@ Thus, the number of common zeros, which is $S$, must be congruent to $0$ modulo 
 
 The Chevalley-Warning Theorem has implications in the field of number theory and algebraic geometry, particularly in the understanding of the distribution of solutions to polynomial equations over finite fields. It is related to results such as the Hasse-Weil bound and can be seen as a precursor to the more general Weil conjectures. 
 
-The theorem is also used in combinatorics, specifically in the study of [[combinatorial nullstellensatz]], which provides a method for proving combinatorial statements using polynomial method. It is interesting to ponder the theorem's effectiveness in proving existence theorems where counting methods are insufficient. The theorem's strength lies in its ability to handle a system of polynomial equations rather than a single equation.    
+The theorem is also used in combinatorics, specifically in the study of [[combinatorial nullstellensatz (nutella muesli)]], which provides a method for proving combinatorial statements using polynomial method. It is interesting to ponder the theorem's effectiveness in proving existence theorems where counting methods are insufficient. The theorem's strength lies in its ability to handle a system of polynomial equations rather than a single equation.    
 
 # Alternate Version of Chevalley - Warning Theorem
 
@@ -101,3 +101,32 @@ Definitions:
 - **Fermat's Little Theorem**: If $p$ is a prime number, then for any integer $a$ not divisible by $p$, $a^{p-1} \equiv 1 \ (\text{mod}\ p)$.
 
 [[Norms of Field Extensions]]
+# Examples with respect to the Chevalley Warning Theorem
+
+
+The Chevalley-Warning theorem states that if $P_1(x_1, \ldots, x_n), \ldots, P_r(x_1, \ldots, x_n)$ are polynomials over a finite field with $q$ elements, and if the sum of the degrees of these polynomials is less than the number of variables $n$, then the number of common zeros of these polynomials in the field is a multiple of $q$.
+
+In the simplest case, if you have a single polynomial equation of degree $d$ in $n$ variables over a finite field with $q$ elements, and if $d < n$, then the number of solutions to the equation is a multiple of $q$. If $q$ is a prime, it means that either there is a non-trivial solution or the number of solutions is exactly divisible by $q$.
+
+Let's look at the expressions in the image, which are likely examples or instances to which the Chevalley-Warning theorem is being applied. 
+
+The first expression is:
+$$ x^3 + xy^2 + y^3 + z^3 \equiv 0 \mod 2. $$
+
+The second expression reads:
+$$ x^2 + y^4 + az^2 \equiv 0 \mod p. $$
+
+It is stated that the equation always has a solution other than $x = y = z = 0$. According to the Chevalley-Warning theorem, this would be true if the total degree of the polynomial is less than the number of variables, which in the case of the first expression is $3$ (since the highest power of any variable is $3$ and there are three variables).
+
+For the second expression, the theorem's condition would depend on the values of $a$ and $p$. If $p$ is a prime and the degree of the polynomial ($2$ from $x^2$, $4$ from $y^4$, and $2$ from $az^2$) is less than the number of variables, which is $3$, the condition of the theorem would not be met directly since $2+4+2=8$ which is not less than $3$. However, since we are considering the equation $\mod p$, the actual degrees that matter may be reduced depending on the characteristics of $p$ (e.g., if $p$ divides $a$, then $az^2$ might not contribute to the degree).
+
+# Integers mod p form a field that is quasi algebraically closed
+A field $\mathbb{F}$ is said to be algebraically closed if every non-constant polynomial in $\mathbb{F}[x]$ has a root in $\mathbb{F}$. The concept of being "quasi-algebraically closed" is a relaxation of this definition. A field $\mathbb{K}$ is quasi-algebraically closed, or C1, if every non-constant homogeneous polynomial $f \in \mathbb{K}[x_1, \ldots, x_n]$ of degree $d$ with more variables than its degree ($n > d$) has a non-trivial zero in $\mathbb{K}^n$.
+
+To prove that the integers modulo a prime $p$, denoted $\mathbb{F}_p$, are quasi-algebraically closed, we invoke the Chevalley-Warning theorem. Let $f(x_1, \ldots, x_n)$ be a non-constant homogeneous polynomial over $\mathbb{F}_p$ with degree $d < n$. The Chevalley-Warning theorem states that the number of solutions of $f(x_1, \ldots, x_n) \equiv 0 \pmod{p}$ in $\mathbb{F}_p^n$ is a multiple of $p$. Since the zero solution $(0, \ldots, 0)$ is always a solution, if there is any other solution, it means that the number of solutions must be at least $p+1$. 
+
+Now, consider the equation $f(x_1, \ldots, x_n) \equiv 0 \pmod{p}$. The Chevalley-Warning theorem implies that the sum of the number of solutions for this equation in $\mathbb{F}_p^n$ is congruent to $0 \pmod{p}$. If there were no non-trivial solutions, the only solution would be the trivial one. But the number of trivial solutions is $1$, which is not congruent to $0 \pmod{p}$ for $p$ a prime. Therefore, there must be at least one non-trivial solution, showing that $\mathbb{F}_p$ is quasi-algebraically closed.
+
+Furthermore, the Lang-Weil estimate provides a lower bound for the number of $\mathbb{F}_p$-rational points on varieties over finite fields, reinforcing that a variety defined over $\mathbb{F}_p$ with a positive dimension will have $\mathbb{F}_p$-rational points, which aligns with the condition of being quasi-algebraically closed for $\mathbb{F}_p$.
+
+In conclusion, the integers mod $p$ indeed form a field that is quasi-algebraically closed by the virtue of the Chevalley-Warning theorem. This result is a cornerstone in the algebraic geometry over finite fields and has implications for the study of Diophantine equations over these fields.
