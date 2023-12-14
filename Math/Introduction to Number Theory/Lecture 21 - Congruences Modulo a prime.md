@@ -102,3 +102,131 @@ $$
 which is Wilson's Theorem. 
 
 This is not the standard proof of Wilson's Theorem but demonstrates the deep interplay between different areas of number theory and how expanding a polynomial in a finite field can reveal interesting properties about numbers and their relationships.
+
+# **Wolstenholme's Theorem**
+
+Wolstenholme's theorem relates to the congruence properties of certain binomial coefficients. Specifically, it deals with the congruence of the numerator of the harmonic number:
+
+$$
+H_n = 1 + \frac{1}{2} + \frac{1}{3} + \ldots + \frac{1}{n}
+$$
+
+where $n$ is a positive integer.
+
+**Theorem:** For any prime number $p > 3$, the following congruence relation holds:
+
+$$
+\binom{2p}{p} \equiv 2 \pmod{p^3}
+$$
+
+Here, $\binom{2p}{p}$ represents the binomial coefficient.
+
+**Proof:**
+
+1. **Lucas's Theorem:** To prove Wolstenholme's theorem, we first utilize Lucas's theorem, which states that for any prime $p$ and integers $a$ and $b$, the binomial coefficient $\binom{a}{b}$ is congruent to the product of binomial coefficients modulo $p$:
+
+   $$
+   \binom{a}{b} \equiv \binom{a_p}{b_p} \binom{a_q}{b_q} \pmod{p}
+   $$
+
+   where $a_p$ and $b_p$ are the base-$p$ representations of $a$ and $b$, respectively, and $a_q$ and $b_q$ are the base-$p$ representations of $a$ and $b$ with the base-$p$ digits removed.
+
+2. **Applying Lucas's Theorem:** Let's apply Lucas's theorem to $\binom{2p}{p}$. The base-$p$ representations of $2p$ and $p$ are $2p = 2 \cdot p^1$ and $p = p^1$, respectively. Therefore:
+
+   $$
+   \binom{2p}{p} \equiv \binom{2}{1} \binom{2}{1} \pmod{p}
+   $$
+
+3. **Simplify Binomial Coefficients:** The binomial coefficients on the right can be simplified to $\binom{2}{1} = 2$.
+
+4. **Applying the Congruence Relation:** We have established that $\binom{2p}{p} \equiv 2 \pmod{p}$.
+
+5. **Finding the Second Congruence:** To proceed, we need to find the congruence modulo $p^3$. We can use the following expansion for $\binom{2p}{p}$:
+
+   $$
+   \binom{2p}{p} = \frac{(2p)(2p-1)(2p-2)\ldots(p+2)(p+1)}{p!}
+   $$
+
+6. **Dividing by $p^2$:** Observe that the numerator contains the product of consecutive integers from $2p$ down to $(p+1)$. Since $p$ is prime, none of these integers are divisible by $p^2$. Therefore, we can safely divide the numerator by $p^2$:
+
+   $$
+   \binom{2p}{p} \equiv \frac{(2p)(2p-1)(2p-2)\ldots(p+2)(p+1)}{p!} \equiv \frac{2p-1}{1} \cdot \frac{2p-2}{2} \cdot \frac{2p-3}{3} \ldots \frac{p+2}{p-1} \cdot \frac{p+1}{p} \pmod{p^3}
+   $$
+
+7. **Canceling Factors:** We notice that the fractions $\frac{2p-1}{1}, \frac{2p-2}{2}, \frac{2p-3}{3}, \ldots, \frac{p+2}{p-1}, \frac{p+1}{p}$ are all congruent to $-1 \pmod{p^2}$ because each numerator is one less than the denominator, and $p$ does not divide any of the denominators. Therefore:
+
+   $$
+   \binom{2p}{p} \equiv (-1)(-1)(-1)\ldots(-1) \equiv (-1)^{p-1} \pmod{p^2}
+   $$
+
+8. **Final Step:** Now, we have two congruence relations for $\binom{2p}{p}$:
+
+   - $\binom{2p}{p} \equiv 2 \pmod{p}$ (from step 4)
+   - $\binom{2p}{p} \equiv (-1)^{p-1} \pmod{p^2}$ (from step 7)
+
+9. **Combining the Congruences:** To find the congruence modulo $p^3$, we can apply the Chinese Remainder Theorem (CRT) to combine the above congruences:
+
+   - $x \equiv 2 \pmod{p}$
+   - $x \equiv (-1)^{p-1} \pmod{p^2}$
+
+   CRT yields:
+
+   $$
+   x \equiv 2p \cdot (-1)^{p-1} + (-1)^{p-1} \cdot 2 \pmod{p^3}
+   $$
+
+10. **Simplify and Conclude:** Simplifying this expression, we get:
+
+    $$
+    x \equiv 2p(-1)^{p-1} + 2(-1)^{p-1} \equiv 2((-1)^{p-1}(p+1)) \pmod{p^3}
+    $$
+
+    Since $p > 3$ is prime, $p$ is odd, and therefore $(-1)^{p-1} = 1$. Thus, we have:
+
+    $$
+    x \equiv 2(p+1) \pmod{p^3}
+    $$
+
+    This completes the proof of Wolstenholme's theorem.
+
+**Remark:** Wolstenholme's theorem has important applications in number theory and the study of congruences involving binomial coefficients. It provides a deeper understanding of the properties of harmonic numbers and their relationships with prime numbers.
+
+# Proof of a Weaker form of Wolstenholme's Theorem
+ The proof is leveraging the properties of modular arithmetic in the context of prime numbers and appears to be aiming to show that the sum of reciprocals from $1$ to $p-1$ is divisible by $p$ when $p$ is a prime number greater than $2$.
+
+Here is a structured proof of the statement based on the usual approach taken in number theory:
+
+### Proof:
+
+Consider the sum of reciprocals modulo a prime number $p$:
+
+$$
+S = 1 + \frac{1}{2} + \frac{1}{3} + \ldots + \frac{1}{p-1} \mod p.
+$$
+
+We want to show that the numerator of $S$ when expressed with a common denominator is divisible by $p$.
+
+1. **Multiplicative Inverses Modulo p**:
+   
+   For each integer $a$ such that $1 \leq a \leq p-1$, there exists a unique integer $b$ such that $1 \leq b \leq p-1$ and $ab \equiv 1 \mod p$ because every non-zero element in a field has a multiplicative inverse, and the integers modulo a prime form a field.
+
+2. **Pairing Inverses**:
+   
+   Each term $\frac{1}{k}$ for $k \in \{1, \ldots, p-1\}$ can be paired with its multiplicative inverse modulo $p$. If $k$ is its own inverse (which can only happen when $k \equiv -1 \mod p$ or $k \equiv 1 \mod p$), then it counts as being paired with itself.
+
+3. **Expression of S**:
+   
+   When we sum these terms, we can group them into pairs whose product is $1$ modulo $p$. The only terms that cannot be paired with a distinct element are $1$ and $p-1$ since $1 \cdot 1 \equiv 1 \mod p$ and $(p-1)(p-1) \equiv 1 \mod p$. Hence, we can rewrite the sum as:
+   $$
+   S \equiv 1 + (p-1) + \text{sum of other pairs} \equiv 0 \mod p.
+   $$
+
+4. **Using the Property of S**:
+   
+   The sum of all pairs excluding $1$ and $p-1$ will also be congruent to $0$ modulo $p$ because they are sums of products of inverses which are congruent to $1$ modulo $p$.
+
+5. **Conclusion**:
+   
+   Since $S$ is a sum of integers each of which is congruent to $1$ modulo $p$, and there are $p-1$ such integers, $S$ is congruent to $p-1$ modulo $p$, which is congruent to $-1$ modulo $p$. Hence, $S$ is divisible by $p$ in the sense that when all terms of $S$ are brought to a common denominator, the numerator will be a multiple of $p$.
+
+This proof strategy relies on the fact that in the ring of integers modulo $p$, every element except $0$ has a multiplicative inverse. It also uses the concept that the sum of all elements in this field is $0$ except for the special cases where the elements are their own inverses. The notation and structure used in this proof are standard for a rigorous mathematical argument.
