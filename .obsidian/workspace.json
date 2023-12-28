@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Introduction to Number Theory/Lecture 24 - Primitive Roots for Prime Powers.md",
+                "file": "Daily Scribble/2023-12-28.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e38fcc550cf47adf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fractal Graph.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Introduction to Number Theory/Lecture 24 - Primitive Roots for Prime Powers.md",
+                "file": "Daily Scribble/2023-12-28.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Introduction to Number Theory/Lecture 24 - Primitive Roots for Prime Powers.md",
+                "file": "Daily Scribble/2023-12-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Introduction to Number Theory/Lecture 24 - Primitive Roots for Prime Powers.md"
+                "file": "Daily Scribble/2023-12-28.md"
               }
             }
           }
@@ -164,47 +176,47 @@
   },
   "active": "5df0c56ab39da479",
   "lastOpenFiles": [
-    "Math/GPT Style Guide Prompt.md",
-    "Math/Introduction to Number Theory/Lecture 24 - Primitive Roots for Prime Powers.md",
-    "Math/Math Sandbox/Collatz Conjecture.md",
-    "Math/Introduction to Number Theory/Lecture 23 - Primitive Roots.md",
-    "Daily Scribble/2023-12-18.md",
-    "Daily Scribble/2023-12-16.md",
-    "Daily Scribble/2023-12-14.md",
-    "Daily Scribble/2023-12-11.md",
-    "Hermite polynomials.md",
-    "orthogonality property (of polynomials).md",
-    "Math/Math Sandbox/Number Theory in Mathematics and Physics.md",
-    "Richard Borcherds.md",
-    "Math/Math Sandbox/Simple group.md",
-    "Math/Math Sandbox/Lie groups.md",
-    "Math/Math Sandbox/Smoothness (Lie Group Context).md",
     "Math/Introduction to Number Theory/Sandbox - Number Theory.md",
-    "Math/Math Sandbox/Philosophy of Numbers - Numberphile.md",
-    "Math/Math Sandbox/Ideals of an Integer.md",
-    "Math/Introduction to Number Theory/Lecture 14 - Euler's Totient Function.md",
-    "Math/Math Sandbox/combinatorial nullstellensatz (nutella muesli).md",
-    "Math/Introduction to Number Theory/Lecture 22 - Chevalley Warning Theorem.md",
-    "Math/Math Sandbox/Zermelo-Fraenkel.md",
-    "Sandbox Research/chimerical belief.md",
-    "Sandbox Research/Leibniz's Work.md",
-    "Math/Math Sandbox/Ansatz.md",
-    "Math/Math Sandbox/finite field extensions.md",
-    "finite field $",
+    "Daily Scribble/2023-12-28.md",
+    "Daily Scribble/2023-12-27.md",
+    "Math/Visual Group Theory/Lecture 5 - Multiplication Tables.md",
+    "Math/Visual Group Theory/Lecture 4 - Group Presentations.md",
     "Pasted image 20231214071814.png",
-    "Math/NumberTheory",
-    "Pasted image 20231208075715.png",
-    "Pasted image 20231029154110.png",
-    "Pasted image 20231116074427.png",
-    "Pasted image 20231202102027.png",
-    "Philosophy/Philosophy Sandbox",
-    "Philosophy/New folder",
-    "Writing Prompts",
     "Pasted image 20231118103248.png",
     "Pasted image 20231116121750.png",
     "Pasted image 20231116083152.png",
     "Pasted image 20231116080825.png",
     "Pasted image 20231116080741.png",
+    "Pasted image 20231116080730.png",
+    "Pasted image 20231220082709.png",
+    "Math/GPT Style Guide Prompt.md",
+    "Math/Visual Group Theory/Lecture 3 - Groups in science, art and mathematics.md",
+    "Fractal Graph.md",
+    "Math/Introduction to Number Theory/Lecture 15 - Numerical Calculations.md",
+    "Sandbox Research/Backus Naur Form.md",
+    "Math/Visual Group Theory/Sandbox - Visual Group Theory.md",
+    "Math/Visual Group Theory/Lecture 2 - Cayley Graphs.md",
+    "Math/Visual Group Theory/Lecture 1 - What is a group.md",
+    "Daily Scribble/2023-12-20.md",
+    "Math/Introduction to Number Theory/Lecture 14 - Euler's Totient Function.md",
+    "Daily Scribble/2023-12-19.md",
+    "Math/Introduction to Number Theory/Lecture 25 - Quadratic Equations mod p.md",
+    "splitting field.md",
+    "field extension.md",
+    "coding theory.md",
+    "Reed-Solomon codes.md",
+    "Math/Introduction to Number Theory/Lecture 24 - Primitive Roots for Prime Powers.md",
+    "Math/Math Sandbox/Collatz Conjecture.md",
+    "Math/Introduction to Number Theory/Lecture 23 - Primitive Roots.md",
+    "Daily Scribble/2023-12-18.md",
+    "Daily Scribble/2023-12-16.md",
+    "finite field $",
+    "Math/NumberTheory",
+    "Pasted image 20231208075715.png",
+    "Pasted image 20231029154110.png",
+    "Philosophy/Philosophy Sandbox",
+    "Philosophy/New folder",
+    "Writing Prompts",
     "ShrobObsidian/Sandbox Research",
     "ShrobObsidian",
     "Philosophy/Philosophy Of Maths",

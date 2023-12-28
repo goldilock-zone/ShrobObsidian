@@ -23,5 +23,7 @@ https://www.youtube.com/playlist?list=PL8yHsr3EFj53L8sMbzIhhXSAOpuZ1Fov8
 [[Lecture 21 - Congruences Modulo a prime]]
 [[Lecture 22 - Chevalley Warning Theorem]]
 [[Lecture 23 - Primitive Roots]]
+[[Lecture 24 - Primitive Roots for Prime Powers]]
+[[Lecture 25 - Quadratic Equations mod p]]
 
 [[Number Theory in Mathematics and Physics]]
