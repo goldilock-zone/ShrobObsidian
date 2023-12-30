@@ -284,3 +284,24 @@ For $n = 4$, $A_4$ includes permutations that are products of disjoint 2-cycles 
 Thus, for $n < 5$, every element of $A_n$ is a square in $S_n$. This proposition does not hold for $n \geq 5$, as there are elements in $A_n$ that cannot be expressed as squares in $S_n$, such as the 5-cycle $(12345)$ in $A_5$. 
 
 The argument hinges on the fact that the square of any permutation in $S_n$ results in an even permutation due to the duplication of its transpositions, thereby ensuring that the resulting permutation belongs to $A_n$. Hence, for $n < 5$, the elements of $A_n$ are exactly the squares of elements in $S_n$.
+
+# Symmetric Groups and Platonic Polytopes
+### Platonic Polytopes:
+Platonic polytopes are regular, convex polytopes in three-dimensional space. There are five Platonic polytopes, namely the tetrahedron, hexahedron (cube), octahedron, dodecahedron, and icosahedron.
+
+**Theorem 2 (Platonic Solids Theorem):** There are exactly five convex, regular polyhedra, which are the Platonic polytopes.
+
+Each of these Platonic polytopes has a unique symmetry group associated with it. These symmetry groups are isomorphic to certain subgroups of the Symmetric group.
+
+### Symmetry Groups of Platonic Polytopes:
+Let's consider the symmetry groups of Platonic polytopes and their connections to the Symmetric group.
+
+1. **Tetrahedron:** The symmetry group of a tetrahedron is isomorphic to the symmetric group $S_4$ because there are four vertices, and its symmetries correspond to permutations of these vertices.
+
+2. **Hexahedron (Cube):** The symmetry group of a cube is isomorphic to the symmetric group $S_4$. It may seem surprising that it's the same as the tetrahedron, but this is due to the cube having additional rotational symmetries.
+
+3. **Octahedron:** The symmetry group of an octahedron is isomorphic to the symmetric group $S_4$ as well. It shares the same symmetry group as the cube because their structures are dual to each other.
+
+4. **Dodecahedron:** The symmetry group of a dodecahedron is isomorphic to the alternating group $A_5$, which is a subgroup of $S_5$. This connection arises from the icosahedron-dodecahedron duality.
+
+5. **Icosahedron:** The symmetry group of an icosahedron is also isomorphic to the alternating group $A_5$. This, too, comes from the duality between the icosahedron and the dodecahedron.

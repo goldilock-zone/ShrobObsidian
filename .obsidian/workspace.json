@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Visual Group Theory/Lecture 9 - Symmetric and Alternating Groups.md",
+                "file": "Daily Scribble/2023-12-29.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Homomorphism",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Visual Group Theory/Lecture 9 - Symmetric and Alternating Groups.md",
+                "file": "Daily Scribble/2023-12-29.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Visual Group Theory/Lecture 9 - Symmetric and Alternating Groups.md",
+                "file": "Daily Scribble/2023-12-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Visual Group Theory/Lecture 9 - Symmetric and Alternating Groups.md"
+                "file": "Daily Scribble/2023-12-29.md"
               }
             }
           }
@@ -164,12 +165,18 @@
   },
   "active": "2a40a0989b588408",
   "lastOpenFiles": [
+    "homomorphism.md",
     "Math/GPT Style Guide Prompt.md",
+    "Math/Visual Group Theory/Lecture 10 - Cayley's Theorem.md",
+    "Math/Math Sandbox/Functors and Morphisms.md",
+    "Math/Visual Group Theory/Lecture 5 - Multiplication Tables.md",
+    "Math/Introduction to Number Theory/Lecture 23 - Primitive Roots.md",
     "Math/Visual Group Theory/Lecture 9 - Symmetric and Alternating Groups.md",
+    "Daily Scribble/2023-12-29.md",
+    "Daily Scribble/2023-12-28.md",
     "Math/Introduction to Number Theory/Lecture 20 Hensel's Lemma and Newton's Method Contd. and p-adic Numbers.md",
     "Math/Introduction to Number Theory/Lecture 21 - Congruences Modulo a prime.md",
     "Math/Introduction to Number Theory/Lecture 22 - Chevalley Warning Theorem.md",
-    "Daily Scribble/2023-12-28.md",
     "Daily Scribbles - Oct 23/Daily Scribbles 30-10-2023.md",
     "Daily Scribble/2023-12-27.md",
     "Daily Scribble/2023-12-16.md",
@@ -180,7 +187,6 @@
     "Math/Visual Group Theory/Lecture 7 - Cyclic and Abelian Groups.md",
     "Math/Visual Group Theory/Sandbox - Visual Group Theory.md",
     "Math/Visual Group Theory/Lecture 6 - The Formal Definition of a Group.md",
-    "Math/Visual Group Theory/Lecture 5 - Multiplication Tables.md",
     "Math/Visual Group Theory/Lecture 4 - Group Presentations.md",
     "Math/Math Sandbox/Fractal Graph.md",
     "Math/Introduction to Number Theory/Sandbox - Number Theory.md",
@@ -193,11 +199,6 @@
     "Pasted image 20231116080730.png",
     "Pasted image 20231220082709.png",
     "Math/Visual Group Theory/Lecture 3 - Groups in science, art and mathematics.md",
-    "Math/Introduction to Number Theory/Lecture 15 - Numerical Calculations.md",
-    "Sandbox Research/Backus Naur Form.md",
-    "Math/Visual Group Theory/Lecture 2 - Cayley Graphs.md",
-    "Math/Visual Group Theory/Lecture 1 - What is a group.md",
-    "Math/Introduction to Number Theory/Lecture 14 - Euler's Totient Function.md",
     "finite field $",
     "Math/NumberTheory",
     "Pasted image 20231208075715.png",
