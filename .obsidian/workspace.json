@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Scribble/2023-12-29.md",
+                "file": "Daily Scribble/2023-12-31.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Scribble/2023-12-29.md",
+                "file": "Daily Scribble/2023-12-31.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Scribble/2023-12-29.md",
+                "file": "Daily Scribble/2023-12-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Scribble/2023-12-29.md"
+                "file": "Daily Scribble/2023-12-31.md"
               }
             }
           }
@@ -165,6 +165,8 @@
   },
   "active": "2a40a0989b588408",
   "lastOpenFiles": [
+    "Daily Scribble/2023-12-29.md",
+    "Daily Scribble/2023-12-31.md",
     "homomorphism.md",
     "Math/GPT Style Guide Prompt.md",
     "Math/Visual Group Theory/Lecture 10 - Cayley's Theorem.md",
@@ -172,7 +174,6 @@
     "Math/Visual Group Theory/Lecture 5 - Multiplication Tables.md",
     "Math/Introduction to Number Theory/Lecture 23 - Primitive Roots.md",
     "Math/Visual Group Theory/Lecture 9 - Symmetric and Alternating Groups.md",
-    "Daily Scribble/2023-12-29.md",
     "Daily Scribble/2023-12-28.md",
     "Math/Introduction to Number Theory/Lecture 20 Hensel's Lemma and Newton's Method Contd. and p-adic Numbers.md",
     "Math/Introduction to Number Theory/Lecture 21 - Congruences Modulo a prime.md",
@@ -198,7 +199,6 @@
     "Pasted image 20231116080741.png",
     "Pasted image 20231116080730.png",
     "Pasted image 20231220082709.png",
-    "Math/Visual Group Theory/Lecture 3 - Groups in science, art and mathematics.md",
     "finite field $",
     "Math/NumberTheory",
     "Pasted image 20231208075715.png",
